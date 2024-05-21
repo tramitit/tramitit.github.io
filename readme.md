@@ -26,6 +26,14 @@ Start the development server using the following command.
 npm run dev
 ```
 
+To perform a local simulation of the production build you can run
+
+```bash
+npm run preview
+```
+
+This removes certain development enabled features such as the upper left-hand corner information of your current screen size.
+
 ---
 
 ## 📝 Customization and adding content

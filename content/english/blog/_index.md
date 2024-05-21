@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "How to guides"
 meta_title: ""
-description: "this is meta description"
+description: "Guides on submitting paperwork to the Spanish government"
 ---
