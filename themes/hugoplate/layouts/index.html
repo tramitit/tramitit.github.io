@@ -24,6 +24,21 @@
                 </a>
               {{ end }}
             {{ end }}
+            <!-- Added by Aleksander-->
+            {{ with .searchbutton }}
+              {{ if .enable }}
+                <div class="text-center">
+                  <button
+                    aria-label="search"
+                    class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block text-xl dark:text-white dark:hover:text-darkmode-primary"
+                    data-target="search-modal">
+                    <span class="margin-left-md"> {{ .label }} </span>
+                    <i class="fa fa-search"></i>
+                  </button>
+                </div>
+              {{ end }}
+            {{ end }}
+            <!-- /Added -->
           </div>
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}

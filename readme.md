@@ -1,4 +1,3 @@
-
 Based on https://github.com/zeon-studio/hugoplate
 
 ### ⚙️ Prerequisites
@@ -51,7 +50,7 @@ You can change the social links from the `data/social.json` file. Add your socia
 
 ### Content
 
-Content is added in `content/english`, where each subdirectory therein corresonds to a page.
+Content is added in `content/english`, where each subdirectory therein corresponds to a page.
 
 ---
 
@@ -67,12 +66,28 @@ npm run build
 
 And if you want to Host some other hosting platforms. then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
 
-for example the Python oneliner from the root of the project (i.e. where this readmefile is located) is sufficient to serve the website:
+for example the Python one-liner from the root of the project (i.e. where this readme file is located) is sufficient to serve the website:
+
 ```
 python3 -m http.server -d ./public/
 ```
 
 > **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
+
+## Contribute
+
+Before committing run
+
+```
+npm run format
+```
+
+to apply standard formatting rules ensuring a standard coding style.
+
+The content is all contained in the `content` directory, and all the front-end formatting is inside the `themes` directory.
+The final build output is created by merging the content from `content` into the placeholder values in `themes`.
+
+There is also the `config/_default` directory that contains things like google analytics setup.
 
 ---
 
@@ -81,5 +96,3 @@ python3 -m http.server -d ./public/
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
 **Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
-
-

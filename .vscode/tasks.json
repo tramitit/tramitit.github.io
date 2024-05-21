@@ -10,7 +10,7 @@
       "group": {
         "kind": "test",
         "isDefault": true
-      },
+      }
     },
     {
       "label": "Build",
