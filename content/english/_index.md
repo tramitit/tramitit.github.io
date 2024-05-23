@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Simplify your government form"
-  content: "Tramitit gathers the info you need to fill in forms and book citas with the Spanish government and provide you with contact info for professional help"
+  title: "Say no to bureaucracy"
+  content: "Tramitit gathers the info you need to get through the governmental procedures faster. Start by searching for the form you want or navigate our sections at the top."
   #image: "/images/banner.png"
   searchbutton:
     enable: true
@@ -21,12 +21,13 @@ features:
       label: Submit info
       link: "#"
 
-  - title: "For professionals"
-    content: "We help you get customers"
+  - title: "For the community by the community"
+    content: "The content in this website is curated, verified and rated by the community."
     bulletpoints:
-      - "reasons"
+      - "You can comment, rate and even change the content"
+      - "The information is simplified so it is easy to follow"
     button:
       enable: true
-      label: "Contact us"
+      label: "Visit our opensource database"
       link: "/contact"
 ---
