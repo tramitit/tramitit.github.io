@@ -12,13 +12,13 @@ banner:
 features:
   - title: "How it works"
     #image: "/images/service-1.png"
-    content: "We gather user provided guidance and perform curation and quality assurance"
+    content: "The community provides detailed walkthroughs on every possible bureacratic process you might go through."
     bulletpoints:
-      - "Users and volunteers submit info"
-      - "Provide the connection with professionals for assistance"
+      - "In case you need help, vetted providers are indicated"
+      - "You are free to request changes to any document, if that improves them"
     button:
       enable: true
-      label: Submit info
+      label: Access the full database
       link: "#"
 
   - title: "For the community by the community"

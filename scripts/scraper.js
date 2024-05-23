@@ -79,7 +79,18 @@ async function generateProcedureGemini(service, url) {
         role: "user",
         parts: [
           {
-            text: `Given the following page, can you detail step by step how to do ${service}? Include all external links possible. Make sure to only cover the information written there.\n\n${url}\n\nUse the following markdown format:\n\n\n---\ntitle: "Service"\n# meta title\nmeta_title: ""\n# meta description\ndescription: "This is meta description"\n# save as draft\ndraft: false\n---\n\n{{< toc >}}\n\n## Description\n#### What is it?\n{description of the service}\n#### Who needs it?\n{ideal customer profile}\n\n## Procedure\n{numbered list with step by step procedure on how to achieve the service}\n\n## Required Documents\n{list of required documents and how to obtain them}\n\n## Providers that can do it for you\n\n| Provider        |     Website     |     Timelines    |       Cost      |\n| --------------- | --------------- |  :-------------: | :-------------: |\n| Provider 1      |  https//:       |      x days      |        $X       |\n\n## Additional details\n{other details extracted from the source that might be relevant for the user}`,
+            text: `Given the following page, can you detail step by step how to do ${service}? Include all external links possible. Make sure to only cover the information written there.\n\n${url}\n\n
+            Use the following markdown format:\n\n\n
+            ---\n
+            title: "Service"\n
+            meta_title: ""\n
+            description: "This is meta description"\n
+            date: "date"\n
+            categories: ["{country where it applies}"]
+            tags: ["{type of document}", "{target citizen}"]
+            draft: false\n
+            ---\n\n
+            ## Description\n### What is it?\n{description of the service}\n### Who needs it?\n{ideal customer profile}\n\n## Procedure\n{numbered list with step by step procedure on how to achieve the service}\n\n## Required Documents\n{list of required documents and how to obtain them}\n\n## Providers that can do it for you\n\n| Provider        |     Website     |     Timelines    |       Cost      |\n| --------------- | --------------- |  :-------------: | :-------------: |\n| Provider 1      |  https//:       |      x days      |        $X       |\n\n## Additional details\n{other details extracted from the source that might be relevant for the user}`,
           },
         ],
       },

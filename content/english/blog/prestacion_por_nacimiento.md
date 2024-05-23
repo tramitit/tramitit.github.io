@@ -1,22 +1,21 @@
 ---
 title: "Prestación por Nacimiento"
-# meta title
 meta_title: "Guide to Apply for Prestación por Nacimiento"
-# meta description
 description: "Step by step procedure to apply for Spanish birth certificate 'Prestación por Nacimiento'"
-# save as draft
+date: 2024-05-22T05:00:00Z
+categories: ["Spain"]
+author: "Ricardo Batista"
+tags: ["Social Security"]
 draft: false
 ---
 
-{{< toc >}}
-
 ## Description
 
-#### What is it?
+### What is it?
 
 Prestación por Nacimiento is a Spanish birth certificate that's essential for various bureaucratic procedures.
 
-#### Who needs it?
+### Who needs it?
 
 Any individual born in Spain or to Spanish parents needs it as a proof of Spanish nationality.
 

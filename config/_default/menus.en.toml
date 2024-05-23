@@ -2,64 +2,28 @@
 
 # main menu
 [[main]]
-name = "Home"
-pageRef = "/"
+name = "Countries"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "/about"
-weight = 2
+parent = "Countries"
+name = "Spain"
+pageRef = "/categories/spain"
 
 [[main]]
-name = "Elements"
-pageRef = "/elements"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
-name = "Blog"
+name = "All Guides"
 pageRef = "/blog"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-pageRef = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
-
-[[main]]
-parent = "Pages"
-name = "Template"
-pageRef = "/Template"
-
+weight = 2
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
+name = "Contributors"
+pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Elements"
-pageRef = "/elements"
+name = "Terms & Conditions"
+pageRef = "/terms"
 weight = 2
 
 [[footer]]
