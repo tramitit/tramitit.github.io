@@ -11,9 +11,13 @@ draft: false
 {{< toc >}}
 
 ## Description
+
 #### What is it?
+
 The S-1 Declaration is a crucial document required by the Spanish authorities to declare any money you have moved to Spain. This declaration is used by the Spanish authorities to monitor financial flows within and into the country.
+
 #### Who needs it?
+
 Any individual who has moved money to Spain from another country, regardless of whether they have acquired residency status, should complete the S-1 declaration.
 
 ## Procedure
@@ -33,9 +37,10 @@ Any individual who has moved money to Spain from another country, regardless of 
 
 ## Providers that can do it for you
 
-| Provider        |     Website     |     Timelines    |       Cost      |
-| --------------- | --------------- |  :-------------: | :-------------: |
-| (As this is a direct process by a government agency, a third-party provider is not applicable.)      |     N/A      |       N/A       |        N/A       |
+| Provider                                                                                        | Website | Timelines | Cost |
+| ----------------------------------------------------------------------------------------------- | ------- | :-------: | :--: |
+| (As this is a direct process by a government agency, a third-party provider is not applicable.) | N/A     |    N/A    | N/A  |
 
 ## Additional details
+
 You must declare your funds within one month of their arrival in Spain. It's best to keep a personal copy of your S-1 declaration, as the Spanish authorities can request it at any time. If, for whatever reason, you are unable to complete the S-1 declaration yourself, a third party may do so on your behalf, provided they present a valid document proving your authorization.

@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Simplify your government form"
-  content: "Tramites gathers the info you need to fill in forms and book citas with the Spanish government and provide you with contact info for professional help"
+  content: "Tramitit gathers the info you need to fill in forms and book citas with the Spanish government and provide you with contact info for professional help"
   #image: "/images/banner.png"
   searchbutton:
     enable: true

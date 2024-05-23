@@ -2,8 +2,8 @@
 title: "How to obtain Spanish NIE"
 meta_title: ""
 description: "Numero de Identification extranjero"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-05-22T05:00:00Z
+#image: "/images/image-placeholder.png"
 categories: ["expats", "papers"]
 author: "John Doe"
 tags: ["nie", "immigration"]
