@@ -22,8 +22,8 @@ pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Terms & Conditions"
-pageRef = "/terms"
+name = "Terms"
+pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
