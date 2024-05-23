@@ -45,6 +45,11 @@ parent = "Pages"
 name = "404 Page"
 pageRef = "/404"
 
+[[main]]
+parent = "Pages"
+name = "Template"
+pageRef = "/Template"
+
 
 # footer menu
 [[footer]]
