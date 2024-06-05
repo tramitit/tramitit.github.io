@@ -13,6 +13,9 @@ title: "Tramitit on the media"
 - [Dev.to](https://dev.to/rbatista19/getting-started-with-open-saas-2gnb)
 - [Notion](https://www.notion.so/rbatista19/Co-founder-dating-with-Ricardo-0c1200378d0c415b9d9753af60070266)
 
+#### Company Pages
+- [Storeboard](https://www.storeboard.com/tramitit)
+
 #### Social Media
 - [LinkedIn](https://linkedin.com/company/tramitit)
 - [X.com](https://x.com/tramitit)
