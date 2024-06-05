@@ -1,11 +1,6 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
       "name": "twitter",
       "icon": "fab fa-twitter",
       "link": "https://x.com/tramitit"

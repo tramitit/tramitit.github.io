@@ -30,3 +30,8 @@ weight = 2
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
 weight = 3
+
+[[footer]]
+name = "Media"
+pageRef = "/media"
+weight = 4
