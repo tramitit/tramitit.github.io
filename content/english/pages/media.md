@@ -3,8 +3,10 @@ title: "Tramitit on the media"
 ---
 
 
+
+
 #### Personal Pages
-- [Cal.com](https://cal.com/rbatista19)
+- [Cal.com](https://cal.com/rbatista19?redirect=false)
 - [Medium](https://medium.com/@rbatista19)
 - [GitHub](https://github.com/rbatista191)
 - [F6S](https://www.f6s.com/member/rbatista19)
