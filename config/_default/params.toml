@@ -20,7 +20,7 @@ theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://airform.io/hey@tramitit.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "GTM-TDMWWW38"
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -64,8 +64,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["Tramitit"]
 description = "Tramitit gathers the info you need to get through the governmental procedures faster."
-author = "zeon.studio"
-image = "images/og-image.png"
+author = "Tramitit"
+image = "images/favicon.png"
 
 
 # site verifications

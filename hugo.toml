@@ -77,7 +77,7 @@ home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 80
+quality = 100
 resampleFilter = "Lanczos"
 
 ############################ Caches ##############################
