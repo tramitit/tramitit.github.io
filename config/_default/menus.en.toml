@@ -12,7 +12,7 @@ pageRef = "/categories/spain"
 
 [[main]]
 name = "All Guides"
-pageRef = "/blog"
+pageRef = "/guides"
 weight = 2
 
 # footer menu

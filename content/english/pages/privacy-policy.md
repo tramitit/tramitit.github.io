@@ -36,7 +36,6 @@ For the purposes of this Privacy Policy:
 - **Website** refers to tramitit.com, accessible from [tramitit.com](https://tramitit.com/).
 - **You** means the individual accessing or using the service, or the company, or other legal entity on behalf of which such individual is accessing or using the service.
 
-
 ### Data Collection and Usage
 
 We do not collect any personal information from users of our Services.

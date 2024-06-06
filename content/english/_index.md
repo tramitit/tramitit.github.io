@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Access the full database"
-      link: "/blog"
+      link: "/guides"
 
   - title: "For the community by the community"
     image: "/images/disqus-screenshot.webp"
@@ -25,10 +25,9 @@ features:
       - "You can comment, rate, and even edit the content"
       - "The information is simplified for easy understanding"
     button:
-      # TODO: enable when github repo is ready
-      enable: false
+      enable: true
       label: "Visit our open-source repository"
-      link: "/contact"
+      link: "https://github.com/tramitit/guides"
 
   - title: "Welcoming providers that can help our users"
     image: "/images/providers-screenshot.webp"

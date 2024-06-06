@@ -1,0 +1,3 @@
+[submodule "guides"]
+	path = guides
+	url = git@github.com:tramitit/guides.git

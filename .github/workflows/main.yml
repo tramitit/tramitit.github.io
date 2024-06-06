@@ -51,6 +51,14 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
+      - name: Get content
+        uses: actions/checkout@v4.1.6
+        with:
+          repository: tramitit/guides
+
+      - name: sync content
+        run: npm run sync-content
+
       - name: Publish to GitHub Pages
         run: npm run build
 
