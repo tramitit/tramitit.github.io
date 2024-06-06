@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Aleksander Wennersteen, Ricardo Batista, zeon.studio",
   "scripts": {
-    "sync-content": "git submodule init && git submodule sync && shx cp -r guides/english content/english/guides/",
+    "sync-content": "git submodule init && git submodule sync && git submodule update --init --recursive && shx cp -r guides/english content/english/guides/",
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
@@ -29,6 +29,6 @@
     "csv-parser": "^3.0.0",
     "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2",
-    "openai": "^4.47.1"
+    "shx": "^0.3.4"
   }
 }
