@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Aleksander Wennersteen, Ricardo Batista, zeon.studio",
   "scripts": {
-    "sync-content": "shx cp -r guides/english content/english/guides/",
+    "sync-content": "git submodule sync && shx cp -r guides/english content/english/guides/",
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
