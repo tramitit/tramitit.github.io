@@ -1,6 +1,112 @@
 ################ English language ##################
+# All details in https://gohugo.io/content-management/multilingual/
+
 [en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content/en"
 weight = 1
+
+[it]
+languageName = "Italiano"
+languageCode = "it-it"
+contentDir = "content/it"
+weight = 2
+disabled = true
+
+[fr]
+languageName = "Français"
+languageCode = "fr-fr"
+contentDir = "content/fr"
+weight = 3
+
+[es]
+languageName = "Español"
+languageCode = "es-es"
+contentDir = "content/es"
+weight = 4
+disabled = true
+
+[el]
+languageName = "Ελληνικά"
+languageCode = "el-gr"
+contentDir = "content/el"
+weight = 5
+disabled = true
+
+[pt]
+languageName = "Português"
+languageCode = "pt-pt"
+contentDir = "content/pt"
+weight = 6
+disabled = true
+
+[de]
+languageName = "Deutsch"
+languageCode = "de-de"
+contentDir = "content/de"
+weight = 7
+disabled = true
+
+[nl]
+languageName = "Nederlands"
+languageCode = "nl-be"
+contentDir = "content/nl"
+weight = 8
+disabled = true
+
+[de-at]
+languageName = "Austrian"
+languageCode = "de-at"
+contentDir = "content/at"
+weight = 9
+disabled = true
+
+[pl]
+languageName = "Polski"
+languageCode = "pl-pl"
+contentDir = "content/pl"
+weight = 10
+disabled = true
+
+[hu]
+languageName = "Magyar"
+languageCode = "hu-hu"
+contentDir = "content/hu"
+weight = 11
+disabled = true
+
+[cs]
+languageName = "Čeština"
+languageCode = "cs-cz"
+contentDir = "content/cs"
+weight = 12
+disabled = true
+
+[sk]
+languageName = "Slovenčina"
+languageCode = "sk-sk"
+contentDir = "content/sk"
+weight = 13
+disabled = true
+
+[ro]
+languageName = "Română"
+languageCode = "ro-ro"
+contentDir = "content/ro"
+weight = 14
+disabled = true
+
+[bg]
+languageName = "Български"
+languageCode = "bg-bg"
+contentDir = "content/bg"
+weight = 15
+disabled = true
+
+[hr]
+languageName = "Hrvatski"
+languageCode = "hr-hr"
+contentDir = "content/hr"
+weight = 16
+disabled = true
