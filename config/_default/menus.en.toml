@@ -9,6 +9,24 @@ weight = 1
 parent = "Countries"
 name = "Spain"
 pageRef = "/categories/spain"
+weight = 1
+
+[[main]]
+parent = "Countries"
+name = "Germany"
+pageRef = "/categories/germany"
+
+
+[[main]]
+parent = "Countries"
+name = "Italy"
+pageRef = "/categories/italy"
+
+
+[[main]]
+parent = "Countries"
+name = "Switzerland"
+pageRef = "/categories/switzerland"
 
 [[main]]
 name = "All Guides"
