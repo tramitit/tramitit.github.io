@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Access the full database"
-      link: "/guides"
+      link: "en/guides"
 
   - title: "For the community by the community"
     image: "/images/disqus-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Contact us to be included"
-      link: "/contact"
+      link: "en/contact"
 ---
