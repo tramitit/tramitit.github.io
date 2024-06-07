@@ -249,8 +249,9 @@
     });
 
     <!-- Disable cookie banner when consent cookie is found -->
-    if (readCookie('cookie-consent')) {
+    if (readCookie('consent-settings')) {
         document.getElementById('consent-notice').style.display = 'none';
+        document.getElementById('consent-overlay').classList.remove('active');
     };
 </script> {{ range $index, $item := .Site.Data.consent.items }}
   {{ if $item.is_functional }}

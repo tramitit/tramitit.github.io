@@ -30,9 +30,9 @@
       </li>
     </ul>
   {{ end }}
-  {{ $my_summary_split := split .Summary "Description What is it?"}}
+  {{ $my_summary_split := split .Summary "Description What is it?" }}
   {{ if ge (len $my_summary_split) 2 }}
-    <p class="mb-6"> {{ index $my_summary_split 1}} </p>
+    <p class="mb-6">{{ index $my_summary_split 1 }}</p>
   {{ else }}
     <p class="mb-6">{{ .Summary }}</p>
   {{ end }}

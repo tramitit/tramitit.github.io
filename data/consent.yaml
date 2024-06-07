@@ -1,5 +1,5 @@
 items:
-  - title: Analytics (functional)
+  - title: Analytics
     description: We use analytics cookies to understand how visitors interact with our website. This helps us to improve the user experience and the services we offer.
-    is_functional: true
+    is_functional: false
     script_file: gtm.js
