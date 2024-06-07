@@ -22,7 +22,7 @@ mainSections = ["guides"]
 # contact form action
 contact_form_action = "https://airform.io/hey@tramitit.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "GTM-TDMWWW38"
+google_tag_manager = ""
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
@@ -76,14 +76,6 @@ bing = ""     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
 mastodon = "" # Your verification code
-
-# cookies
-# cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
-[cookies]
-enable = true
-expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
 
 # diagrams
 [mermaid]

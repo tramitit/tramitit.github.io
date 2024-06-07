@@ -7,7 +7,7 @@ title = "Tramitit"
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Madrid"
-# post pagination
+# post pagination, control how many posts per page under guides
 paginate = 8 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
@@ -150,9 +150,9 @@ lazy = false
 [[params.plugins.js]]
 link = "plugins/swiper/swiper-bundle.js"
 lazy = false
-[[params.plugins.js]]
-link = "plugins/cookie.js"
-lazy = false
+#[[params.plugins.js]] # disabled for own cookie-consent
+#link = "plugins/cookie.js"
+#lazy = false
 [[params.plugins.js]]
 link = "plugins/glightbox/glightbox.js"
 lazy = true
