@@ -2,7 +2,7 @@
 title: Ricardo Batista
 email: ricardo@tramitit.com
 image: "/images/ricardo.batista.webp"
-description: this is meta description
+description: engineer (Product @ $7M ARR) turned into business (GM @ $65M ARR), and now getting back to building
 social:
   - name: github
     icon: fa-brands fa-github
