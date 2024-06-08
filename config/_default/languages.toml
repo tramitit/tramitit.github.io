@@ -54,13 +54,6 @@ contentDir = "content/nl"
 weight = 8
 disabled = true
 
-[de-at]
-languageName = "Austrian"
-languageCode = "de-at"
-contentDir = "content/at"
-weight = 9
-disabled = true
-
 [pl]
 languageName = "Polski"
 languageCode = "pl-pl"
