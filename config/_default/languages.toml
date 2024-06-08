@@ -12,7 +12,6 @@ languageName = "Italiano"
 languageCode = "it-it"
 contentDir = "content/it"
 weight = 2
-disabled = true
 
 [fr]
 languageName = "Français"
