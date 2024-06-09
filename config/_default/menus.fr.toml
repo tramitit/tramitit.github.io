@@ -12,6 +12,12 @@ pageRef = "/categories/france"
 weight = 1
 
 [[main]]
+parent = "Pays"
+name = "Belgium"
+pageRef = "/categories/belgium"
+weight = 1
+
+[[main]]
 name = "Tous les Guides"
 pageRef = "/guides"
 weight = 2

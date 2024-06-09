@@ -1,6 +1,7 @@
 exclude_phrases:
   - "Description What is it?"
   - "Descrizione Cos’è?"
+  - "Descrizione Che cos’è?"
   - "Description Qu’est-ce que c’est?"
   - "Descripción ¿Qué es?"
   - "Περιγραφή Τι είναι;"
