@@ -44,7 +44,7 @@ contentDir = "content/de"
 weight = 7
 
 [nl]
-languageName = "Nederlands"
+languageName = "Dutch"
 languageCode = "nl-be"
 contentDir = "content/nl"
 weight = 8
