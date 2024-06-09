@@ -1,0 +1,50 @@
+############# Navigazione in italiano ##############
+
+# menu principale
+[[main]]
+name = "Paesi"
+weight = 1
+
+[[main]]
+parent = "Paesi"
+name = "Spagna"
+pageRef = "/categories/spain"
+weight = 1
+
+[[main]]
+parent = "Paesi"
+name = "Germania"
+pageRef = "/categories/germany"
+
+
+[[main]]
+parent = "Paesi"
+name = "Italia"
+pageRef = "/categories/italy"
+
+
+[[main]]
+parent = "Paesi"
+name = "Svizzera"
+pageRef = "/categories/switzerland"
+
+[[main]]
+name = "Tutte le guide"
+pageRef = "/guides"
+weight = 2
+
+# menu piè di pagina
+[[footer]]
+name = "Contributori"
+pageRef = "/authors"
+weight = 1
+
+[[footer]]
+name = "Condizioni"
+pageRef = "/terms-and-conditions"
+weight = 2
+
+[[footer]]
+name = "Informativa sulla privacy"
+pageRef = "/privacy-policy"
+weight = 3
