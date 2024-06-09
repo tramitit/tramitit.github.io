@@ -1,42 +1,42 @@
 ---
 # Banner
 banner:
-  title: "Say no to bureaucracy"
-  content: "Tramitit provides the information you need to navigate governmental procedures quickly. Start by searching for the form you want or navigate our sections at the top."
+  title: "Diga não à burocracia"
+  content: "O Tramitit fornece as informações que precisa para navegar rapidamente pelos procedimentos governamentais. Comece por procurar o formulário desejado ou navegue pelas nossas seções no topo."
   image: "/images/problem-agitation.png"
 
 # Features
 features:
-  - title: "How it works"
+  - title: "Como funciona"
     image: "/images/blog-screenshot.webp"
-    content: "The community provides detailed walkthroughs on every possible bureaucratic process you might go through."
+    content: "A comunidade fornece guias detalhados sobre todos os possíveis processos burocráticos que possa enfrentar."
     bulletpoints:
-      - "If you need help, vetted providers are recommended"
-      - "You can edit any document for improvements"
+      - "Se precisar de ajuda, são recomendados fornecedores verificados"
+      - "Pode editar qualquer documento para melhorias"
     button:
       enable: true
-      label: "Access the full database"
-      link: "en/guides"
+      label: "Acesse a base de dados completa"
+      link: "pt/guides"
 
-  - title: "For the community by the community"
+  - title: "Pela comunidade, para a comunidade"
     image: "/images/disqus-screenshot.webp"
-    content: "The content on this website is curated, verified, and rated by the community."
+    content: "O conteúdo deste site é curado, verificado e avaliado pela comunidade."
     bulletpoints:
-      - "You can comment, rate, and even edit the content"
-      - "The information is simplified for easy understanding"
+      - "Pode comentar, avaliar e até editar o conteúdo"
+      - "As informações são simplificadas para fácil compreensão"
     button:
       enable: true
-      label: "Visit our open-source repository"
+      label: "Visite o nosso repositório de código aberto"
       link: "https://github.com/tramitit/guides"
 
-  - title: "Welcoming providers that can help our users"
+  - title: "Bem-vindo aos fornecedores que podem ajudar nossos usuários"
     image: "/images/providers-screenshot.webp"
-    content: "Although our guides are as simple as possible, users may still prefer to delegate tasks to a curated provider."
+    content: "Embora os nossos guias sejam o mais simples possível, os utilizadores podem preferir delegar tarefas a um fornecedor selecionado."
     bulletpoints:
-      - "Only top, vetted providers are included"
-      - "Pricing and timelines are fully transparent to users"
+      - "Apenas os principais fornecedores verificados são incluídos"
+      - "Os preços e os prazos são totalmente transparentes para os usuários"
     button:
       enable: true
-      label: "Contact us to be included"
-      link: "en/contact"
+      label: "Contacte-nos para ser incluído"
+      link: "pt/contact"
 ---

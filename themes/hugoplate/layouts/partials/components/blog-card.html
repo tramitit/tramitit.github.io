@@ -30,10 +30,21 @@
       </li>
     </ul>
   {{ end }}
-  {{ $my_summary := .Summary }}
   {{ $exclude_phrases := site.Data.exclude_phrases.exclude_phrases }}
+  {{ $my_summary := .Summary }}
+  {{ $my_summary_split := split $my_summary (index $exclude_phrases 0) }}
+  {{ $found := false }}
   {{ range $phrase := $exclude_phrases }}
-    {{ $my_summary = replace $my_summary $phrase "" }}
+    {{ $my_summary_split = split $my_summary $phrase }}
+    {{ if ge (len $my_summary_split) 2 }}
+      {{ $found = true }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+  {{ if $found }}
+    <p class="mb-6">{{ index $my_summary_split 1 }}</p>
+  {{ else }}
+    <p class="mb-6">{{ .Summary }}</p>
   {{ end }}
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ T "read_more" }}

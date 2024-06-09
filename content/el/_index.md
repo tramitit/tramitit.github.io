@@ -1,42 +1,42 @@
 ---
 # Banner
 banner:
-  title: "Say no to bureaucracy"
-  content: "Tramitit provides the information you need to navigate governmental procedures quickly. Start by searching for the form you want or navigate our sections at the top."
+  title: "Πείτε όχι στη γραφειοκρατία"
+  content: "Το Tramitit παρέχει τις πληροφορίες που χρειάζεστε για να πλοηγηθείτε γρήγορα στις κυβερνητικές διαδικασίες. Ξεκινήστε αναζητώντας τη φόρμα που θέλετε ή περιηγηθείτε στις ενότητες μας στην κορυφή."
   image: "/images/problem-agitation.png"
 
 # Features
 features:
-  - title: "How it works"
+  - title: "Πώς λειτουργεί"
     image: "/images/blog-screenshot.webp"
-    content: "The community provides detailed walkthroughs on every possible bureaucratic process you might go through."
+    content: "Η κοινότητα παρέχει λεπτομερείς οδηγίες για κάθε πιθανή γραφειοκρατική διαδικασία που μπορεί να αντιμετωπίσετε."
     bulletpoints:
-      - "If you need help, vetted providers are recommended"
-      - "You can edit any document for improvements"
+      - "Εάν χρειάζεστε βοήθεια, προτείνονται εγκεκριμένοι πάροχοι"
+      - "Μπορείτε να επεξεργαστείτε οποιοδήποτε έγγραφο για βελτιώσεις"
     button:
       enable: true
-      label: "Access the full database"
-      link: "en/guides"
+      label: "Πρόσβαση στη πλήρη βάση δεδομένων"
+      link: "el/guides"
 
-  - title: "For the community by the community"
+  - title: "Από την κοινότητα για την κοινότητα"
     image: "/images/disqus-screenshot.webp"
-    content: "The content on this website is curated, verified, and rated by the community."
+    content: "Το περιεχόμενο σε αυτόν τον ιστότοπο επιμελείται, επαληθεύεται και αξιολογείται από την κοινότητα."
     bulletpoints:
-      - "You can comment, rate, and even edit the content"
-      - "The information is simplified for easy understanding"
+      - "Μπορείτε να σχολιάσετε, να αξιολογήσετε και ακόμα και να επεξεργαστείτε το περιεχόμενο"
+      - "Οι πληροφορίες είναι απλοποιημένες για εύκολη κατανόηση"
     button:
       enable: true
-      label: "Visit our open-source repository"
+      label: "Επισκεφθείτε το αποθετήριο ανοιχτού κώδικα μας"
       link: "https://github.com/tramitit/guides"
 
-  - title: "Welcoming providers that can help our users"
+  - title: "Καλωσορίζουμε παρόχους που μπορούν να βοηθήσουν τους χρήστες μας"
     image: "/images/providers-screenshot.webp"
-    content: "Although our guides are as simple as possible, users may still prefer to delegate tasks to a curated provider."
+    content: "Αν και οι οδηγοί μας είναι όσο το δυνατόν πιο απλοί, οι χρήστες μπορεί να προτιμήσουν να αναθέσουν εργασίες σε έναν επιλεγμένο πάροχο."
     bulletpoints:
-      - "Only top, vetted providers are included"
-      - "Pricing and timelines are fully transparent to users"
+      - "Συμπεριλαμβάνονται μόνο κορυφαίοι, εγκεκριμένοι πάροχοι"
+      - "Οι τιμές και τα χρονοδιαγράμματα είναι πλήρως διαφανή για τους χρήστες"
     button:
       enable: true
-      label: "Contact us to be included"
-      link: "en/contact"
+      label: "Επικοινωνήστε μαζί μας για να συμπεριληφθείτε"
+      link: "el/contact"
 ---

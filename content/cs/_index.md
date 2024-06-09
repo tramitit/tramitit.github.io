@@ -1,42 +1,42 @@
 ---
 # Banner
 banner:
-  title: "Say no to bureaucracy"
-  content: "Tramitit provides the information you need to navigate governmental procedures quickly. Start by searching for the form you want or navigate our sections at the top."
+  title: "Řekněte ne byrokracii"
+  content: "Tramitit poskytuje informace, které potřebujete k rychlému zvládnutí vládních postupů. Začněte vyhledáním formuláře, který chcete, nebo procházením našich sekcí nahoře."
   image: "/images/problem-agitation.png"
 
 # Features
 features:
-  - title: "How it works"
+  - title: "Jak to funguje"
     image: "/images/blog-screenshot.webp"
-    content: "The community provides detailed walkthroughs on every possible bureaucratic process you might go through."
+    content: "Komunita poskytuje podrobné návody na každý možný byrokratický proces, kterým můžete projít."
     bulletpoints:
-      - "If you need help, vetted providers are recommended"
-      - "You can edit any document for improvements"
+      - "Pokud potřebujete pomoc, jsou doporučeni ověření poskytovatelé"
+      - "Můžete upravovat jakýkoli dokument pro vylepšení"
     button:
       enable: true
-      label: "Access the full database"
-      link: "en/guides"
+      label: "Přístup k plné databázi"
+      link: "cs/guides"
 
-  - title: "For the community by the community"
+  - title: "Pro komunitu od komunity"
     image: "/images/disqus-screenshot.webp"
-    content: "The content on this website is curated, verified, and rated by the community."
+    content: "Obsah na tomto webu je kurátorem, ověřen a hodnocen komunitou."
     bulletpoints:
-      - "You can comment, rate, and even edit the content"
-      - "The information is simplified for easy understanding"
+      - "Můžete komentovat, hodnotit a dokonce i upravovat obsah"
+      - "Informace jsou zjednodušené pro snadné porozumění"
     button:
       enable: true
-      label: "Visit our open-source repository"
+      label: "Navštivte naše open-source úložiště"
       link: "https://github.com/tramitit/guides"
 
-  - title: "Welcoming providers that can help our users"
+  - title: "Vítáme poskytovatele, kteří mohou pomoci našim uživatelům"
     image: "/images/providers-screenshot.webp"
-    content: "Although our guides are as simple as possible, users may still prefer to delegate tasks to a curated provider."
+    content: "Ačkoli naše návody jsou co nejjednodušší, uživatelé mohou preferovat delegování úkolů na vybraného poskytovatele."
     bulletpoints:
-      - "Only top, vetted providers are included"
-      - "Pricing and timelines are fully transparent to users"
+      - "Jsou zahrnuti pouze ti nejlepší, ověření poskytovatelé"
+      - "Ceny a harmonogramy jsou pro uživatele zcela transparentní"
     button:
       enable: true
-      label: "Contact us to be included"
-      link: "en/contact"
+      label: "Kontaktujte nás pro zařazení"
+      link: "cs/contact"
 ---
