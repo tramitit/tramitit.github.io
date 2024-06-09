@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Magyar navigáció ##############
 
-# menu principale
+# főmenü
 [[main]]
-name = "Paesi"
+name = "Országok"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Országok"
+name = "Ausztria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Országok"
+name = "Belgium"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Országok"
+name = "Bulgária"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Országok"
+name = "Horvátország"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Országok"
+name = "Cseh Köztársaság"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Országok"
+name = "Franciaország"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Országok"
+name = "Németország"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Országok"
+name = "Görögország"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Országok"
+name = "Magyarország"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Országok"
+name = "Olaszország"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Országok"
+name = "Lengyelország"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Országok"
+name = "Portugália"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Országok"
+name = "Románia"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Országok"
+name = "Szlovákia"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Országok"
+name = "Spanyolország"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Országok"
+name = "Svájc"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Összes Útmutató"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# lábléc menü
 [[footer]]
-name = "Contributori"
+name = "Közreműködők"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Feltételek"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Adatvédelmi Szabályzat"
 pageRef = "/privacy-policy"
 weight = 3

@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Hrvatska navigacija ##############
 
-# menu principale
+# glavni izbornik
 [[main]]
-name = "Paesi"
+name = "Zemlje"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Zemlje"
+name = "Austrija"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Zemlje"
+name = "Belgija"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Zemlje"
+name = "Bugarska"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Zemlje"
+name = "Hrvatska"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Zemlje"
+name = "Češka Republika"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Zemlje"
+name = "Francuska"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Zemlje"
+name = "Njemačka"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Zemlje"
+name = "Grčka"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Zemlje"
+name = "Mađarska"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Zemlje"
+name = "Italija"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Zemlje"
+name = "Poljska"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Zemlje"
+name = "Portugal"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Zemlje"
+name = "Rumunjska"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Zemlje"
+name = "Slovačka"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Zemlje"
+name = "Španjolska"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Zemlje"
+name = "Švicarska"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Svi Vodiči"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# izbornik podnožja
 [[footer]]
-name = "Contributori"
+name = "Suradnici"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Uvjeti"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Pravila Privatnosti"
 pageRef = "/privacy-policy"
 weight = 3

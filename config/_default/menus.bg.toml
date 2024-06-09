@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Българска навигация ##############
 
-# menu principale
+# главно меню
 [[main]]
-name = "Paesi"
+name = "Държави"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Държави"
+name = "Австрия"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Държави"
+name = "Белгия"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Държави"
+name = "България"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Държави"
+name = "Хърватия"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Държави"
+name = "Чешка Република"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Държави"
+name = "Франция"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Държави"
+name = "Германия"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Държави"
+name = "Гърция"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Държави"
+name = "Унгария"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Държави"
+name = "Италия"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Държави"
+name = "Полша"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Държави"
+name = "Португалия"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Държави"
+name = "Румъния"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Държави"
+name = "Словакия"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Държави"
+name = "Испания"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Държави"
+name = "Швейцария"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Всички Ръководства"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# меню за долен колонтитул
 [[footer]]
-name = "Contributori"
+name = "Сътрудници"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Условия"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Политика за Поверителност"
 pageRef = "/privacy-policy"
 weight = 3

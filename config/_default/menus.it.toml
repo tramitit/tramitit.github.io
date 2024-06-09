@@ -7,44 +7,117 @@ weight = 1
 
 [[main]]
 parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+name = "Austria"
+pageRef = "/categories/austria"
 weight = 1
+
+[[main]]
+parent = "Paesi"
+name = "Belgio"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Paesi"
+name = "Bulgaria"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Paesi"
+name = "Croazia"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Paesi"
+name = "Repubblica Ceca"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Paesi"
+name = "Francia"
+pageRef = "/categories/france"
+weight = 6
 
 [[main]]
 parent = "Paesi"
 name = "Germania"
 pageRef = "/categories/germany"
+weight = 7
 
+[[main]]
+parent = "Paesi"
+name = "Grecia"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Paesi"
+name = "Ungheria"
+pageRef = "/categories/hungary"
+weight = 9
 
 [[main]]
 parent = "Paesi"
 name = "Italia"
 pageRef = "/categories/italy"
+weight = 10
 
+[[main]]
+parent = "Paesi"
+name = "Polonia"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Paesi"
+name = "Portogallo"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Paesi"
+name = "Romania"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Paesi"
+name = "Slovacchia"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Paesi"
+name = "Spagna"
+pageRef = "/categories/spain"
+weight = 15
 
 [[main]]
 parent = "Paesi"
 name = "Svizzera"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Tutte le Guide"
 pageRef = "/guides"
 weight = 2
 
 # menu piè di pagina
 [[footer]]
-name = "Contributori"
+name = "Collaboratori"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Termini"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Informativa sulla Privacy"
 pageRef = "/privacy-policy"
 weight = 3

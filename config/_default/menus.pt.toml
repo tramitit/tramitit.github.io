@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Navegação em português ##############
 
-# menu principale
+# menu principal
 [[main]]
-name = "Paesi"
+name = "Países"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Países"
+name = "Áustria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Países"
+name = "Bélgica"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Países"
+name = "Bulgária"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Países"
+name = "Croácia"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Países"
+name = "República Checa"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Países"
+name = "França"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Países"
+name = "Alemanha"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Países"
+name = "Grécia"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Países"
+name = "Hungria"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Países"
+name = "Itália"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Países"
+name = "Polónia"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Países"
+name = "Portugal"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Países"
+name = "Roménia"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Países"
+name = "Eslováquia"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Países"
+name = "Espanha"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Países"
+name = "Suíça"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Todos os Guias"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# menu de rodapé
 [[footer]]
-name = "Contributori"
+name = "Colaboradores"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Termos"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Política de Privacidade"
 pageRef = "/privacy-policy"
 weight = 3

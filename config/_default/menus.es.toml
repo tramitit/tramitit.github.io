@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Navegación en español ##############
 
-# menu principale
+# menú principal
 [[main]]
-name = "Paesi"
+name = "Países"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Países"
+name = "Austria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Países"
+name = "Bélgica"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Países"
+name = "Bulgaria"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Países"
+name = "Croacia"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Países"
+name = "República Checa"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Países"
+name = "Francia"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Países"
+name = "Alemania"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
+parent = "Países"
+name = "Grecia"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Países"
+name = "Hungría"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Países"
 name = "Italia"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Países"
+name = "Polonia"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Países"
+name = "Portugal"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Países"
+name = "Rumanía"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Países"
+name = "Eslovaquia"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Países"
+name = "España"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Países"
+name = "Suiza"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Todas las Guías"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# menú de pie de página
 [[footer]]
-name = "Contributori"
+name = "Colaboradores"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Términos"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Política de Privacidad"
 pageRef = "/privacy-policy"
 weight = 3

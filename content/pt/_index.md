@@ -15,7 +15,7 @@ features:
       - "Pode editar qualquer documento para melhorias"
     button:
       enable: true
-      label: "Acesse a base de dados completa"
+      label: "Aceda à base de dados completa"
       link: "pt/guides"
 
   - title: "Pela comunidade, para a comunidade"

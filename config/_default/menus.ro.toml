@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Navigare în română ##############
 
-# menu principale
+# meniul principal
 [[main]]
-name = "Paesi"
+name = "Țări"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Țări"
+name = "Austria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
+parent = "Țări"
+name = "Belgia"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Țări"
+name = "Bulgaria"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Țări"
+name = "Croația"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Țări"
+name = "Republica Cehă"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Țări"
+name = "Franța"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Țări"
 name = "Germania"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
+parent = "Țări"
+name = "Grecia"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Țări"
+name = "Ungaria"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Țări"
 name = "Italia"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Țări"
+name = "Polonia"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Țări"
+name = "Portugalia"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Țări"
+name = "România"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Țări"
+name = "Slovacia"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Țări"
+name = "Spania"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Țări"
+name = "Elveția"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Toate Ghidurile"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# meniu subsol
 [[footer]]
-name = "Contributori"
+name = "Contribuitori"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Termeni"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Politica de Confidențialitate"
 pageRef = "/privacy-policy"
 weight = 3

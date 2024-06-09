@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Slovenská navigácia ##############
 
-# menu principale
+# hlavné menu
 [[main]]
-name = "Paesi"
+name = "Krajiny"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Krajiny"
+name = "Rakúsko"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Krajiny"
+name = "Belgicko"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Krajiny"
+name = "Bulharsko"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Krajiny"
+name = "Chorvátsko"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Krajiny"
+name = "Česká republika"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Krajiny"
+name = "Francúzsko"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Krajiny"
+name = "Nemecko"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Krajiny"
+name = "Grécko"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Krajiny"
+name = "Maďarsko"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Krajiny"
+name = "Taliansko"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Krajiny"
+name = "Poľsko"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Krajiny"
+name = "Portugalsko"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Krajiny"
+name = "Rumunsko"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Krajiny"
+name = "Slovensko"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Krajiny"
+name = "Španielsko"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Krajiny"
+name = "Švajčiarsko"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Všetky Sprievodcovia"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# ponuka päty
 [[footer]]
-name = "Contributori"
+name = "Prispievatelia"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Podmienky"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Zásady Ochrany Osobných Údajov"
 pageRef = "/privacy-policy"
 weight = 3

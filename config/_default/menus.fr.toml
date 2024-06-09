@@ -1,4 +1,4 @@
-############# Navigation française ##############
+############# Navigation en français ##############
 
 # menu principal
 [[main]]
@@ -7,33 +7,106 @@ weight = 1
 
 [[main]]
 parent = "Pays"
-name = "Espagne"
-pageRef = "/categories/spain"
+name = "Autriche"
+pageRef = "/categories/austria"
 weight = 1
+
+[[main]]
+parent = "Pays"
+name = "Belgique"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Pays"
+name = "Bulgarie"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Pays"
+name = "Croatie"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Pays"
+name = "République Tchèque"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Pays"
+name = "France"
+pageRef = "/categories/france"
+weight = 6
 
 [[main]]
 parent = "Pays"
 name = "Allemagne"
 pageRef = "/categories/germany"
+weight = 7
 
+[[main]]
+parent = "Pays"
+name = "Grèce"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Pays"
+name = "Hongrie"
+pageRef = "/categories/hungary"
+weight = 9
 
 [[main]]
 parent = "Pays"
 name = "Italie"
 pageRef = "/categories/italy"
+weight = 10
 
+[[main]]
+parent = "Pays"
+name = "Pologne"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Pays"
+name = "Portugal"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Pays"
+name = "Roumanie"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Pays"
+name = "Slovaquie"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Pays"
+name = "Espagne"
+pageRef = "/categories/spain"
+weight = 15
 
 [[main]]
 parent = "Pays"
 name = "Suisse"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tous les guides"
+name = "Tous les Guides"
 pageRef = "/guides"
 weight = 2
 
-# menu de pied de page
+# menu pied de page
 [[footer]]
 name = "Contributeurs"
 pageRef = "/authors"
@@ -45,6 +118,6 @@ pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Politique de confidentialité"
+name = "Politique de Confidentialité"
 pageRef = "/privacy-policy"
 weight = 3

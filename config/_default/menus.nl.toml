@@ -1,50 +1,123 @@
-############# Navigazione in italiano ##############
+############# Nederlandse navigatie ##############
 
-# menu principale
+# hoofdmenu
 [[main]]
-name = "Paesi"
+name = "Landen"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Spagna"
-pageRef = "/categories/spain"
+parent = "Landen"
+name = "Oostenrijk"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
-parent = "Paesi"
-name = "Germania"
+parent = "Landen"
+name = "België"
+pageRef = "/categories/belgium"
+weight = 2
+
+[[main]]
+parent = "Landen"
+name = "Bulgarije"
+pageRef = "/categories/bulgaria"
+weight = 3
+
+[[main]]
+parent = "Landen"
+name = "Kroatië"
+pageRef = "/categories/croatia"
+weight = 4
+
+[[main]]
+parent = "Landen"
+name = "Tsjechië"
+pageRef = "/categories/czech-republic"
+weight = 5
+
+[[main]]
+parent = "Landen"
+name = "Frankrijk"
+pageRef = "/categories/france"
+weight = 6
+
+[[main]]
+parent = "Landen"
+name = "Duitsland"
 pageRef = "/categories/germany"
-
+weight = 7
 
 [[main]]
-parent = "Paesi"
-name = "Italia"
+parent = "Landen"
+name = "Griekenland"
+pageRef = "/categories/greece"
+weight = 8
+
+[[main]]
+parent = "Landen"
+name = "Hongarije"
+pageRef = "/categories/hungary"
+weight = 9
+
+[[main]]
+parent = "Landen"
+name = "Italië"
 pageRef = "/categories/italy"
-
+weight = 10
 
 [[main]]
-parent = "Paesi"
-name = "Svizzera"
+parent = "Landen"
+name = "Polen"
+pageRef = "/categories/poland"
+weight = 11
+
+[[main]]
+parent = "Landen"
+name = "Portugal"
+pageRef = "/categories/portugal"
+weight = 12
+
+[[main]]
+parent = "Landen"
+name = "Roemenië"
+pageRef = "/categories/romania"
+weight = 13
+
+[[main]]
+parent = "Landen"
+name = "Slowakije"
+pageRef = "/categories/slovakia"
+weight = 14
+
+[[main]]
+parent = "Landen"
+name = "Spanje"
+pageRef = "/categories/spain"
+weight = 15
+
+[[main]]
+parent = "Landen"
+name = "Zwitserland"
 pageRef = "/categories/switzerland"
+weight = 16
 
 [[main]]
-name = "Tutte le guide"
+name = "Alle Gidsen"
 pageRef = "/guides"
 weight = 2
 
-# menu piè di pagina
+# voettekst menu
 [[footer]]
-name = "Contributori"
+name = "Bijdragers"
 pageRef = "/authors"
 weight = 1
 
 [[footer]]
-name = "Condizioni"
+name = "Voorwaarden"
 pageRef = "/terms-and-conditions"
 weight = 2
 
 [[footer]]
-name = "Informativa sulla privacy"
+name = "Privacybeleid"
 pageRef = "/privacy-policy"
 weight = 3
