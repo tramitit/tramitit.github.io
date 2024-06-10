@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Prístup k úplnej databáze"
-      link: "sk/guides"
+      link: "sk/guides/"
 
   - title: "Pre komunitu od komunity"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Navštívte naše open-source úložisko"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Vítame poskytovateľov, ktorí môžu pomôcť našim používateľom"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Kontaktujte nás, aby ste boli zahrnutí"
-      link: "sk/contact"
+      link: "sk/contact/"
 ---

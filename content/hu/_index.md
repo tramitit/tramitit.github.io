@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Teljes adatbázis elérése"
-      link: "hu/guides"
+      link: "hu/guides/"
 
   - title: "A közösségtől a közösségért"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Látogasd meg a nyílt forráskódú adattárunkat"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Üdvözöljük azokat a szolgáltatókat, akik segíthetnek felhasználóinknak"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Lépjen kapcsolatba velünk a bevonáshoz"
-      link: "hu/contact"
+      link: "hu/contact/"
 ---

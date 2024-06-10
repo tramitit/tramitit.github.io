@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Pristup cijeloj bazi podataka"
-      link: "hr/guides"
+      link: "hr/guides/"
 
   - title: "Za zajednicu, od zajednice"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Posjetite naše open-source spremište"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Dobrodošli su pružatelji usluga koji mogu pomoći našim korisnicima"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Kontaktirajte nas za uključivanje"
-      link: "hr/contact"
+      link: "hr/contact/"
 ---

@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Zugriff auf die vollständige Datenbank"
-      link: "de/guides"
+      link: "de/guides/"
 
   - title: "Von der Gemeinschaft für die Gemeinschaft"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Besuchen Sie unser Open-Source-Repository"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Begrüßung von Anbietern, die unseren Nutzern helfen können"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Kontaktieren Sie uns, um aufgenommen zu werden"
-      link: "de/contact"
+      link: "de/contact/"
 ---

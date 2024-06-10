@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Πρόσβαση στη πλήρη βάση δεδομένων"
-      link: "el/guides"
+      link: "el/guides/"
 
   - title: "Από την κοινότητα για την κοινότητα"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Επισκεφθείτε το αποθετήριο ανοιχτού κώδικα μας"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Καλωσορίζουμε παρόχους που μπορούν να βοηθήσουν τους χρήστες μας"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Επικοινωνήστε μαζί μας για να συμπεριληφθείτε"
-      link: "el/contact"
+      link: "el/contact/"
 ---

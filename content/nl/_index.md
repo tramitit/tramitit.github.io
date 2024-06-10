@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Toegang tot de volledige database"
-      link: "nl/guides"
+      link: "nl/guides/"
 
   - title: "Door de gemeenschap voor de gemeenschap"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Bezoek onze open-source repository"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Welkom aan aanbieders die onze gebruikers kunnen helpen"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Neem contact met ons op om opgenomen te worden"
-      link: "nl/contact"
+      link: "nl/contact/"
 ---

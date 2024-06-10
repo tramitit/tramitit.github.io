@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Достъп до пълната база данни"
-      link: "bg/guides"
+      link: "bg/guides//"
 
   - title: "От общността за общността"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Посетете нашето open-source хранилище"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Приветстваме доставчици, които могат да помогнат на нашите потребители"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Свържете се с нас, за да бъдете включени"
-      link: "bg/contact"
+      link: "bg/contact/"
 ---

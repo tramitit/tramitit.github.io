@@ -16,7 +16,7 @@ features:
     button:
       enable: true
       label: "Acces la baza de date completă"
-      link: "ro/guides"
+      link: "ro/guides/"
 
   - title: "Pentru comunitate, de la comunitate"
     image: "/images/disqus-screenshot.webp"
@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Vizitați depozitul nostru open-source"
-      link: "https://github.com/tramitit/guides"
+      link: "https://github.com/tramitit/guides/"
 
   - title: "Întâmpinăm furnizori care pot ajuta utilizatorii noștri"
     image: "/images/providers-screenshot.webp"
@@ -38,5 +38,5 @@ features:
     button:
       enable: true
       label: "Contactați-ne pentru a fi incluși"
-      link: "ro/contact"
+      link: "ro/contact/"
 ---
