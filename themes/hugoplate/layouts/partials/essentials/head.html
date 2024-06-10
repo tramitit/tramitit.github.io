@@ -27,17 +27,16 @@
 {{ partialCached "custom-script.html" . }}
 
 
-<!-- Fix for when x-default is not English: https://discourse.gohugo.io/t/multilang-code-snippet-for-hreflang-and-x-default/34591/3 -->
+<!-- Fix for when x-default is not English: https://dariusz.wieckiewicz.org/en/setting-hreflang-and-x-default-on-multilingual-site/ -->
 {{- if .IsTranslated -}}
-  {{- range $index, $trans := .AllTranslations -}}
-    {{- if eq $index 0 }}
-      <link rel="alternate" hreflang="x-default" href="{{ $trans.Permalink }}">
-    {{- end }}
-    {{- if not (eq $trans.Language.Lang $.Page.Language.Lang) }}
-      <link rel="alternate" hreflang="{{ $trans.Language.Lang }}" href="{{ $trans.Permalink }}">
-    {{- end }}
+  {{ range .AllTranslations }}
+    {{- if eq .Language.Lang "en" -}}
+      <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+    {{- end -}}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
   {{- end -}}
-{{- end }}
+  <link rel="alternate" href="{{ .Site.Params.langSelector | absURL }}" hreflang="x-default" />
+{{ end }}
 
 <!-- google analytics -->
 {{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-G6825VQMZB") }}
