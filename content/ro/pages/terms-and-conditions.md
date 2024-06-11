@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Termeni și condiții"
+meta_title: "Termenii și condițiile noastre detaliează drepturile și responsabilitățile dumneavoastră atunci când utilizați gama de servicii Tramitit."
+description: "Termenii și condițiile noastre detaliează drepturile și responsabilitățile dumneavoastră atunci când utilizați gama de servicii Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Introducere
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Acești Termeni și Condiții guvernează utilizarea serviciilor oferite de Tramitit (denumită în continuare "Tramitit"). Prin accesarea sau utilizarea serviciilor furnizate de Tramitit, recunoașteți și sunteți de acord cu acești Termeni.
 
-### Acceptance of Terms
+### Acceptarea Termenilor
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+Prin utilizarea Serviciilor Tramitit, confirmați acceptarea acestor Termeni. În caz contrar, nu trebuie să utilizați Serviciile.
 
-### Privacy and Data Protection
+### Confidențialitate și Protecția Datelor
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+Tramitit se angajează să protejeze confidențialitatea dumneavoastră și să respecte reglementările privind protecția datelor. Politica noastră detaliată de confidențialitate, care face parte integrantă din acești Termeni, outlinează modul în care colectăm, procesăm, stocăm și protejăm datele dumneavoastră personale, inclusiv conformitatea GDPR pentru utilizatorii din Europa. De asemenea, descriem drepturile dumneavoastră privind informațiile personale și modul în care le puteți exercita.
 
-### User Obligations and Service Use
+### Obligațiile Utilizatorului și Utilizarea Serviciului
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Conformitate: Vă angajați să utilizați Serviciile noastre în conformitate cu acești Termeni și legile aplicabile.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Conduită Interzisă: Nu trebuie să participați la activități ilegale, să încălcați drepturile de proprietate intelectuală sau să transmiteți conținut dăunător sau jignitor, cum ar fi discursul de ură, hărțuirea, materialul explicit sau orice conținut care promovează violența sau discriminarea, prin intermediul Serviciilor noastre.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Politică de Utilizare Corectă: Pentru a asigura accesul echitabil și a menține calitatea serviciului, Tramitit aplică o politică de utilizare corectă. Fiecare cont este permis să proceseze un maxim de 300 de e-mailuri zilnic. Această măsură este în vigoare pentru a preveni abuzul și a asigura performanța optimă a serviciului pentru toți utilizatorii. În cazul depășirii acestei limite, Tramitit își rezervă dreptul de a suspenda temporar capacitățile de procesare a e-mailurilor pentru restul zilei. Serviciul va reveni automat la începutul zilei următoare. Această politică este concepută pentru a proteja integritatea serviciilor noastre și experiența utilizatorilor noștri.
 
-### Intellectual Property Rights
+### Drepturi de Proprietate Intelectuală
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+Toate drepturile de proprietate intelectuală asupra Serviciilor și tehnologiei subiacente sunt deținute de Riddance Technologies, Sociedad Limitada. În plus, păstrați toate drepturile asupra conținutului pe care îl încărcați sau îl partajați prin Serviciile noastre și acordați Riddance Technologies, Sociedad Limitada o licență de utilizare a acestui conținut în măsura în care este necesar pentru a furniza și îmbunătăți Serviciile.
 
-### Third-Party Links and Services
+### Link-uri și Servicii de la Terți
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+Serviciile noastre pot conține link-uri către site-uri web sau servicii de la terți. Nu suntem responsabili pentru conținutul sau practicile acestora. În plus, orice tranzacții sau interacțiuni pe care le aveți cu aceste servicii de la terți sunt în întregime între dumneavoastră și terț.
 
-### Modification and Termination of Services
+### Modificarea și Încetarea Serviciilor
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Ne rezervăm dreptul de a modifica, suspenda sau întrerupe serviciile noastre în orice moment, cu sau fără notificare. În caz de întrerupere, vom depune eforturi rezonabile pentru a vă notifica și a vă oferi opțiuni pentru a recupera conținutul dumneavoastră, dacă este cazul.
 
-### Disclaimer of Warranties
+### Renunțare la Garanții
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+Tramitit oferă Servicii pe baza „așa cum este” și „după cum este disponibil”. Deși ne străduim pentru calitate înaltă, nu putem garanta că Serviciile vor satisface toate nevoile dumneavoastră sau că vor fi fără erori. Prin urmare, renunțăm la toate garanțiile, exprese sau implicite, în măsura permisă de lege.
 
-### Limitation of Liability
+### Limitarea Răspunderii
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+Tramitit nu va fi răspunzător pentru daunele indirecte, incidentale, speciale, consecințiale sau punitive care rezultă din sau sunt legate de utilizarea sau incapacitatea de a utiliza Serviciile.
 
-### Indemnification
+### Indemnizare
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+Vă angajați să despăgubiți și să protejați Tramitit și filialele sale de orice revendicări, daune sau cheltuieli, inclusiv taxe legale rezonabile, rezultate din utilizarea Serviciilor sau din încălcarea acestor Termeni, inclusiv orice daune sau dispute cauzate de conținutul pe care îl trimiteți sau îl partajați.
 
-### Governing Law and Jurisdiction
+### Legea și Jurisdicția Aplicabilă
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Acești Termeni sunt guvernați de legile Spaniei. Pentru utilizatorii internaționali, orice litigiu va fi rezolvat conform legii spaniole, ținând cont de cele mai relevante legi internaționale aplicabile cazului specific.
 
-### Changes to Terms
+### Modificări ale Termenilor
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+Tramitit își rezervă dreptul de a modifica acești Termeni în orice moment. Vom furniza notificare despre modificările semnificative prin serviciile noastre sau prin trimiterea unui e-mail către dumneavoastră. Utilizarea continuă după o astfel de notificare va constitui acceptarea noilor Termeni.
 
-### Accessibility and Language
+### Accesibilitate și Limbă
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+Ne angajăm să facem Termenii și Serviciile noastre accesibile și ușor de înțeles. Dacă întâmpinați dificultăți în înțelegerea oricărui aspect al acestor Termeni, vă rugăm să ne contactați pentru clarificări.
 
-### Contact Information
+### Informații de Contact
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+Pentru întrebări sau nelămuriri referitoare la acești Termeni, vă rugăm să ne contactați la hey@tramitit.com. 

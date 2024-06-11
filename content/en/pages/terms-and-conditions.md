@@ -1,6 +1,6 @@
 ---
 title: "Terms & Conditions"
-meta_title: ""
+meta_title: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
 description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
 date: 2024-05-22T05:00:00Z
 draft: false

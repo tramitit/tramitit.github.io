@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Условия и условия"
+meta_title: "Нашите Условия и условия описват вашите права и отговорности при използване на обхвата от услуги на Tramitit."
+description: "Нашите Условия и условия описват вашите права и отговорности при използване на обхвата от услуги на Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Въведение
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Тези Общи условия уреждат използването на услугите, предлагани от Tramitit (надале наречен "Tramitit"). С използването или достъпването до услугите, предоставяни от Tramitit, вие признавате и се съгласявате с тези Общи условия.
 
-### Acceptance of Terms
+### Приемане на условията
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+С използването на Услугите на Tramitit потвърждавате своето съгласие с тези условия. Ако не сте съгласни, трябва да се въздържате от използването на Услугите.
 
-### Privacy and Data Protection
+### Поверителност и защита на данните
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+Tramitit се ангажира да защитава вашата поверителност и да спазва регулациите за защита на данните. Нашата подробна Политика на поверителност, която е неразделна част от тези Общи условия, определя как събираме, обработваме, съхраняваме и защитаваме вашите лични данни, включително спазването на Общия регламент относно защитата на данните за потребители в Европа (GDPR). Освен това описваме вашите права по отношение на вашата лична информация и как да ги упражните.
 
-### User Obligations and Service Use
+### Задължения на потребителя и използване на услугата
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Съгласие: Съгласявате се да използвате нашите Услуги в съответствие с тези условия и приложимите закони.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Забранено поведение: Не трябва да се занимавате с незаконни дейности, да нарушавате интелектуалната собственост или да предавате вредно или обидно съдържание, като омразна реч, домогтване, експлицитен материал или всякакво съдържание, насърчаващо насилие или дискриминация, чрез нашите Услуги.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Политика за справедливо използване: За осигуряване на равен достъп и поддържане на качеството на услугата, Tramitit прилага политика за справедливо използване. На всеки акаунт е разрешено да обработва максимум на 300 електронни писма на ден. Тази мярка е в сила, за да предотврати злоупотреби и да гарантира оптималното функциониране на услугата за всички потребители. В случай, че този лимит бъде надвишен, Tramitit запазва правото си временно да спре възможностите за обработка на електронни писма за остатъка от деня. Услугата автоматично ще бъде възобновена в началото на следващия ден. Тази политика е предназначена да защитава цялостността на нашите услуги и преживяването на нашите потребители.
 
-### Intellectual Property Rights
+### Права върху интелектуалната собственост
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+Всички права върху интелектуалната собственост в Услугите и основната технология принадлежат на Riddance Technologies, Sociedad Limitada. Освен това вие запазвате всички права върху съдържанието, което качвате или споделяте чрез нашите Услуги, и предоставяте на Riddance Technologies, Sociedad Limitada лиценз да използва това съдържание, колкото е необходимо за осигуряване и подобряване на Услугите.
 
-### Third-Party Links and Services
+### Връзки с трети страни и услуги
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+Нашите Услуги могат да съдържат връзки към уебсайтове или услуги на трети страни. Ние не носим отговорност за тяхното съдържание или практики. Освен това всякакви сделки или взаимодействия, които имате с тези услуги на трети страни, са изцяло между вас и третата страна.
 
-### Modification and Termination of Services
+### Промени и прекратяване на услугите
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Запазваме правото си да променяме, преустановяваме или прекратяваме нашите Услуги по всяко време, с или без предизвестие. В случай на прекратяване, ще положим разумни усилия да ви уведомим и да осигурим възможности за получаване на вашето съдържание, ако е необходимо.
 
-### Disclaimer of Warranties
+### Отказ от гаранции
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+Tramitit предоставя Услугите "както са" и "както са налични". Въпреки че се стремим към високо качество, не можем да гарантираме, че Услугите ще отговарят на всичките ви нужди или ще бъдат без грешки. Поради това отричаме всички гаранции, изразени или подразбиращи се, до този момент напуска закона.
 
-### Limitation of Liability
+### Ограничение на отговорността
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+Tramitit няма да носи отговорност за никакви непряки, случайни, специални, косвени или наказателни щети, произтичащи от или свързани с използването или неспособността да използвате Услугите.
 
-### Indemnification
+### Застраховка
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+Съгласявате се да покрыете разноските и да пазите невредими Tramitit и неговите афилирани лица от всички искания, щети или разходи, включително разумни такси за юридическо обслужване, произтичащи от вашето използване на Услугите или от нарушаване на тези Условия, включително всякаква щета или спор, причинени от съдържанието, което подавате или споделяте.
 
-### Governing Law and Jurisdiction
+### Приложимо право и юрисдикция
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Тези Общи условия се управляват от законите на Испания. За международни потребители всякакви спорове ще бъдат разрешени съгласно испанското законодателство, като се имат предвид най-подходящите международни закони, приложими за конкретния случай.
 
-### Changes to Terms
+### Промени в Общите условия
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+Tramitit запазва правото си да променя тези Общи условия по всяко време. Ще уведомим за значими промени чрез нашите Услуги или чрез изпращане на имейл. Продължаването ви след такова уведомление ще се счита за съгласие с новите Условия.
 
-### Accessibility and Language
+### Достъпност и език
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+Ние сме ангажирани да направим нашите Условия и Услуги достъпни и разбираеми. Ако имате затруднения с разбирането на някоя част от тези Общи условия, моля, свържете се с нас за пояснение.
 
-### Contact Information
+### Контактна информация
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+За запитвания или въпроси относно тези Условия, моля, свържете се с нас на hey@tramitit.com.

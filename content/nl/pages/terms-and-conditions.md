@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Algemene voorwaarden"
+meta_title: "Onze Algemene voorwaarden detailleren uw rechten en verantwoordelijkheden bij het gebruik van het assortiment diensten van Tramitit."
+description: "Onze Algemene voorwaarden detailleren uw rechten en verantwoordelijkheden bij het gebruik van het assortiment diensten van Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Inleiding
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Deze Algemene Voorwaarden regelen het gebruik van de diensten aangeboden door Tramitit (hierna "Tramitit" genoemd). Door toegang te krijgen tot of gebruik te maken van de diensten die worden aangeboden door Tramitit, erkent en gaat u akkoord met deze voorwaarden.
 
-### Acceptance of Terms
+### Aanvaarding van de Voorwaarden
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+Door gebruik te maken van de diensten van Tramitit bevestigt u uw acceptatie van deze voorwaarden. Als u het hier niet mee eens bent, moet u de diensten niet gebruiken.
 
-### Privacy and Data Protection
+### Privacy en Gegevensbescherming
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+Tramitit is toegewijd aan het beschermen van uw privacy en het naleven van gegevensbeschermingsvoorschriften. Ons gedetailleerde Privacybeleid, dat een integraal onderdeel is van deze voorwaarden, beschrijft hoe we uw persoonlijke gegevens verzamelen, verwerken, opslaan en beschermen, inclusief naleving van de GDPR voor gebruikers in Europa. We beschrijven ook uw rechten met betrekking tot uw persoonlijke informatie en hoe u deze kunt uitoefenen.
 
-### User Obligations and Service Use
+### Gebruikersverplichtingen en Gebruik van de Dienst
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Naleving: U stemt ermee in om onze diensten te gebruiken in overeenstemming met deze voorwaarden en van toepassing zijnde wetten.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Verboden Gedrag: U mag geen illegale activiteiten uitvoeren, inbreuk maken op intellectuele eigendomsrechten, of schadelijke of ongepaste inhoud verzenden, zoals haatspraak, intimidatie, expliciet materiaal, of enige inhoud die geweld of discriminatie bevordert, via onze diensten.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Fair Usage Policy: Om eerlijke toegang te garzekern en de kwaliteit van de dienst te behouden, hanteert Tramitit een fair usage policy. Elk account mag dagelijks maximaal 300 e-mails verwerken. Deze maatregel is bedoeld om misbruik te voorkomen en optimale serviceprestaties voor alle gebruikers te garanderen. Als deze limiet wordt overschreden, behoudt Tramitit zich het recht voor om tijdelijk de mogelijkheid tot e-mailverwerking voor de rest van de dag op te schorten. De service wordt automatisch hervat aan het begin van de volgende dag. Dit beleid is ontworpen om de integriteit van onze diensten en de ervaring van onze gebruikers te beschermen.
 
-### Intellectual Property Rights
+### Intellectuele Eigendomsrechten
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+Alle intellectuele eigendomsrechten in de diensten en de onderliggende technologie zijn eigendom van Riddance Technologies, Sociedad Limitada. Bovendien behoudt u alle rechten op de inhoud die u uploadt of deelt via onze diensten en verleent u Riddance Technologies, Sociedad Limitada een licentie om deze inhoud te gebruiken zoals nodig is om de diensten te verlenen en te verbeteren.
 
-### Third-Party Links and Services
+### Links en Diensten van Derden
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+Onze diensten kunnen links bevatten naar websites of diensten van derden. Wij zijn niet verantwoordelijk voor hun inhoud of praktijken. Bovendien zijn eventuele transacties of interacties die u heeft met deze diensten van derden uitsluitend tussen u en de derde partij.
 
-### Modification and Termination of Services
+### Aanpassing en Beëindiging van Diensten
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Wij behouden ons het recht voor om onze diensten op elk moment aan te passen, op te schorten, of stop te zetten, met of zonder kennisgeving. In geval van stopzetting zullen we redelijke inspanningen leveren om u op de hoogte te stellen en opties te bieden om uw inhoud op te halen, indien van toepassing.
 
-### Disclaimer of Warranties
+### Disclaimer van Garanties
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+Tramitit biedt diensten op basis van 'zoals het is' en 'zoals beschikbaar'. Hoewel we streven naar hoge kwaliteit, kunnen we niet garanderen dat de diensten aan al uw behoeften zullen voldoen of foutloos zullen zijn. Daarom wijzen wij alle garanties, expliciet of impliciet, af, voor zover toegestaan door de wet.
 
-### Limitation of Liability
+### Beperking van Aansprakelijkheid
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+Tramitit is niet aansprakelijk voor enige indirecte, incidentele, speciale, gevolg- of bestraffende schade die voortvloeit uit of verband houdt met uw gebruik of onvermogen om de diensten te gebruiken.
 
-### Indemnification
+### Vrijwaring
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+U gaat ermee akkoord Tramitit en haar gelieerde ondernemingen te vrijwaren van eventuele vorderingen, schade of kosten, inclusief redelijke juridische kosten, voortvloeiend uit uw gebruik van de diensten of uw schending van deze voorwaarden, inclusief enige schade of geschil veroorzaakt door de inhoud die u indient of deelt.
 
-### Governing Law and Jurisdiction
+### Toepasselijk Recht en Bevoegdheid
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Deze voorwaarden vallen onder de wetten van Spanje. Voor internationale gebruikers worden geschillen beslecht onder Spaans recht, rekening houdend met de meest relevante internationale wetten die van toepassing zijn op het specifieke geval.
 
-### Changes to Terms
+### Wijzigingen van de Voorwaarden
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+Tramitit behoudt zich het recht voor om deze voorwaarden op elk moment te wijzigen. Wij zullen kennisgeving geven van belangrijke wijzigingen via onze diensten of door u een e-mail te sturen. Uw voortgezet gebruik na een dergelijke kennisgeving zal de aanvaarding van de nieuwe voorwaarden vormen.
 
-### Accessibility and Language
+### Toegankelijkheid en Taal
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+We zijn toegewijd om onze voorwaarden en diensten toegankelijk en begrijpelijk te maken. Als u moeite heeft met het begrijpen van een onderdeel van deze voorwaarden, neem dan contact met ons op voor verduidelijking.
 
-### Contact Information
+### Contactgegevens
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+Voor vragen of opmerkingen over deze voorwaarden kunt u contact met ons opnemen via hey@tramitit.com.

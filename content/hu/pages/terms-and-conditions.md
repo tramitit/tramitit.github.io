@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Feltételek és szabályzat"
+meta_title: "A Feltételeink és szabályzatunk részletezi az Ön jogait és felelősségét, amikor a Tramitit szolgáltatási körét használja."
+description: "A Feltételeink és szabályzatunk részletezi az Ön jogait és felelősségét, amikor a Tramitit szolgáltatási körét használja."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Bevezetés
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Ezen Általános Szerződési Feltételek szabályozzák a Tramitit által nyújtott szolgáltatások használatát ("Tramitit"). A Tramitit általi szolgáltatásokhoz való hozzáférés vagy azok használata révén Ön elismeri és elfogadja ezeket a feltételeket.
 
-### Acceptance of Terms
+### Feltételek elfogadása
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+A Tramitit szolgáltatásainak használatával Ön megerősíti, hogy elfogadja ezeket a Feltételeket. Ha nem ért egyet, nem használhatja a szolgáltatásokat.
 
-### Privacy and Data Protection
+### Adatvédelem és adatvédelem
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+A Tramitit elkötelezett a személyes adatok védelme és az adatvédelmi szabályozások betartása mellett. Részletes Adatvédelmi irányelveink, amelyek ezeknek a feltételeknek az integráns részét képezik, részletezik, hogyan gyűjtjük, feldolgozzuk, tároljuk és védelmezzük a személyes adatait, beleértve az Európai Unióban lévő felhasználók számára a GDPR követelményeit is. Továbbá leírjuk az Ön személyes adataival kapcsolatos jogait és hogyan gyakorolhatja azokat.
 
-### User Obligations and Service Use
+### Felhasználói kötelezettségek és szolgáltatások használata
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Megfelelőség: Ön beleegyezik abba, hogy szolgáltatásainkat ezeknek a feltételeknek és az érvényes jogszabályoknak megfelelően használja.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Tilos magatartás: Nem szabad törvénybe ütköző tevékenységet végeznie, szellemi tulajdonjogokat megsértenie, vagy káros vagy vitatható tartalmat továbbítania, mint például gyűlöletbeszéd, zaklatás, nyílt anyagok vagy bármilyen erőszakot vagy megkülönböztetést népszerűsítő tartalom, a szolgáltatásaink révén.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Tisztességes használati irányelv: Az esélyegyenlőség biztosítása és a szolgáltatás minőségének fenntartása érdekében a Tramitit alkalmaz egy tisztességes használati irányelvet. Minden fiók naponta legfeljebb 300 e-mailt dolgozhat fel. Ez a intézkedés azért van, hogy megakadályozza az abúzust és biztosítsa a optimális szolgáltatási teljesítményt minden felhasználó számára. Ha ez a korlát túllépődik, a Tramitit fenntartja magának a jogot, hogy ideiglenesen felfüggeszti az e-mail-feldolgozási képességeket a nap maradék részére. A szolgáltatás automatikusan újraindul a következő nap kezdetén. Ez az irányelv a szolgáltatásaink integritásának és a felhasználóink élményének védelmére szolgál.
 
-### Intellectual Property Rights
+### Szellemi tulajdonjogok
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+A szolgáltatásokhoz és az alapvető technológiához tartozó összes szellemi tulajdonjogot a Riddance Technologies, Sociedad Limitada birtokol. Emellett Ön megőrzi azokat a jogait, amelyek a szolgáltatásaink révén feltöltött vagy megosztott tartalomhoz kapcsolódnak, és a Riddance Technologies, Sociedad Limitada engedélyt kap ennek a tartalomnak a felhasználására szükséges mértékben a szolgáltatások nyújtása és javítása érdekében.
 
-### Third-Party Links and Services
+### Harmadik fél hivatkozások és szolgáltatások
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+Szolgáltatásaink tartalmazhatnak hivatkozásokat harmadik fél webhelyeire vagy szolgáltatásaira. Nem vagyunk felelősek azok tartalmáért vagy gyakorlatáért. Továbbá, az ezekkel a harmadik fél szolgáltatásokkal történő tranzakciók vagy interakciók kizárólag Ön és a harmadik fél között történnek.
 
-### Modification and Termination of Services
+### Szolgáltatások módosítása és megszüntetése
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Fenntartjuk a jogot, hogy bármikor módosítsuk, felfüggesszük vagy megszüntessük szolgáltatásainkat, értesítés nélkül. A megszüntetés esetén megteszünk minden ésszerű erőfeszítést annak érdekében, hogy értesítsük Önt és lehetőséget nyújtsunk a tartalmának visszanyerésére, ha lehetséges.
 
-### Disclaimer of Warranties
+### A jótállás tagadása
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+A Tramitit "létjelenlegi" és "rendelkezésre álló" alapon nyújt szolgáltatásokat. Bár magas minőségre törekszünk, nem tudjuk garantálni, hogy a szolgáltatások minden igényét teljesíteni vagy hibamentesek lenni fognak. Ezért minden jótállást, kifejezett vagy hallgatólagos, a törvény által megengedett mértékig, elutasítunk.
 
-### Limitation of Liability
+### A felelősség korlátozása
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+A Tramitit nem felelős semmilyen közvetett, véletlen, különleges, következményes, vagy büntetőkártért, ami a szolgáltatásainak használatával, vagy a szolgáltatások használatának képtelenségével kapcsolatban merül fel.
 
-### Indemnification
+### Kártérítés
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+Ön beleegyezik abba, hogy kártalanítja és mentesíti a Tramitit és leányvállalatait minden olyan követelésből, kárból vagy költségből, beleértve az ésszerű jogi költségeket, amelyek a szolgáltatásaink használatából vagy ezeknek a feltételeknek való megsértése miatt merülnek fel, ideértve a által Ön által benyújtott vagy megosztott tartalom által okozott vagy abból származó kárt vagy vitát is.
 
-### Governing Law and Jurisdiction
+### Irányadó jog és joghatóság
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Ezek a Feltételek Spanyolország jogszabályai által vannak kormányozva. Nemzetközi felhasználók esetében bármely vitát spanyol törvények szerint rendeznek, figyelembe véve a specifikus esetre vonatkozó legmegfelelőbb nemzetközi jogszabályokat.
 
-### Changes to Terms
+### Feltételek módosítása
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+A Tramitit fenntartja magának a jogot arra, hogy bármikor módosítsa ezeket a Feltételeket. Jelentős változásokról értesítést küldünk szolgáltatásainkon keresztül vagy e-mail útján. Az ilyen értesítés után történő további használat az új feltételek elfogadásának minősül.
 
-### Accessibility and Language
+### Hozzáférhetőség és nyelv
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+Elkötelezettek vagyunk, hogy az Általános Szerződési Feltételeink és Szolgáltatásaink hozzáférhetőek és érthetőek legyenek. Ha bármelyik részének nehézségei vannak megérteni, kérjük, vegye fel velünk a kapcsolatot a pontosítás érdekében.
 
-### Contact Information
+### Elérhetőségi információk
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+Ha kérdése vagy aggodalma van ezen Feltételekkel kapcsolatban, kérjük, lépjen kapcsolatba velünk a hey@tramitit.com e-mail címen.

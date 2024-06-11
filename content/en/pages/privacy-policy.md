@@ -1,6 +1,7 @@
 ---
+translationKey: 'privacy-policy'
 title: "Privacy Policy"
-meta_title: ""
+meta_title: "We are committed to ensuring your privacy and the legal use of your personal data, both on our website and platform."
 description: "We are committed to ensuring your privacy and the legal use of your personal data, both on our website and platform."
 date: 2024-05-22T05:00:00Z
 draft: false

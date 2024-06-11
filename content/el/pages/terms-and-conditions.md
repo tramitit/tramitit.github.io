@@ -1,67 +1,53 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+title: "Όροι και Προϋποθέσεις"
+meta_title: "Οι Όροι και Προϋποθέσεις μας περιγράφουν τα δικαιώματα και τις ευθύνες σας κατά τη χρήση των υπηρεσιών της Tramitit."
+description: "Οι Όροι και Προϋποθέσεις μας περιγράφουν τα δικαιώματα και τις ευθύνες σας κατά τη χρήση των υπηρεσιών της Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Εισαγωγή
+Αυτοί οι Όροι και Προϋποθέσεις διέπουν τη χρήση των υπηρεσιών που προσφέρονται από την Tramitit (εφεξής αναφερόμενη ως "Tramitit"). Με την πρόσβαση ή τη χρήση των υπηρεσιών που παρέχονται από την Tramitit, αναγνωρίζετε και συμφωνείτε με αυτούς τους Όρους.
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+### Αποδοχή των Όρων
+Χρησιμοποιώντας τις Υπηρεσίες της Tramitit, επιβεβαιώνετε την αποδοχή αυτών των Όρων. Εάν δεν συμφωνείτε, δεν πρέπει να χρησιμοποιείτε τις Υπηρεσίες.
 
-### Acceptance of Terms
+### Ιδιωτικότητα και Προστασία Δεδομένων
+Η Tramitit δεσμεύεται να προστατεύει την ιδιωτικότητά σας και να συμμορφώνεται με τους κανονισμούς προστασίας δεδομένων. Η αναλυτική Πολιτική Απορρήτου μας, η οποία αποτελεί αναπόσπαστο μέρος αυτών των Όρων, περιγράφει πώς συλλέγουμε, επεξεργαζόμαστε, αποθηκεύουμε και προστατεύουμε τα προσωπικά σας δεδομένα, συμπεριλαμβανομένης της συμμόρφωσης με τον GDPR για χρήστες στην Ευρώπη. Επίσης, περιγράφουμε τα δικαιώματά σας σχετικά με τις προσωπικές σας πληροφορίες και πώς να τα ασκήσετε.
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+### Υποχρεώσεις Χρήστη και Χρήση Υπηρεσιών
+Συμμόρφωση: Συμφωνείτε να χρησιμοποιείτε τις Υπηρεσίες μας σύμφωνα με αυτούς τους Όρους και τους ισχύοντες νόμους.
 
-### Privacy and Data Protection
+- Απαγορευμένη Συμπεριφορά: Δεν πρέπει να εμπλέκεστε σε παράνομες δραστηριότητες, να παραβιάζετε δικαιώματα πνευματικής ιδιοκτησίας ή να μεταδίδετε επιβλαβές ή προσβλητικό περιεχόμενο, όπως λόγος μίσους, παρενόχληση, άσεμνο υλικό ή οποιοδήποτε περιεχόμενο που προωθεί βία ή διακρίσεις, μέσω των Υπηρεσιών μας.
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+- Πολιτική Δίκαιης Χρήσης: Για να διασφαλίσουμε δίκαιη πρόσβαση και να διατηρήσουμε την ποιότητα των υπηρεσιών, η Tramitit εφαρμόζει μια πολιτική δίκαιης χρήσης. Κάθε λογαριασμός επιτρέπεται να επεξεργάζεται μέγιστο αριθμό 300 email ημερησίως. Αυτό το μέτρο είναι σε ισχύ για να αποτρέψει την κατάχρηση και να διασφαλίσει την βέλτιστη απόδοση της υπηρεσίας για όλους τους χρήστες. Σε περίπτωση υπέρβασης αυτού του ορίου, η Tramitit διατηρεί το δικαίωμα να αναστείλει προσωρινά τις δυνατότητες επεξεργασίας email για το υπόλοιπο της ημέρας. Η υπηρεσία θα επανεκκινείται αυτόματα στην αρχή της επόμενης ημέρας. Αυτή η πολιτική έχει σχεδιαστεί για να προστατεύει την ακεραιότητα των υπηρεσιών μας και την εμπειρία των χρηστών μας.
 
-### User Obligations and Service Use
+- Δικαιώματα Πνευματικής Ιδιοκτησίας
+Όλα τα δικαιώματα πνευματικής ιδιοκτησίας στις Υπηρεσίες και την υποκείμενη τεχνολογία ανήκουν στην Riddance Technologies, Sociedad Limitada. Επιπλέον, διατηρείτε όλα τα δικαιώματα στο περιεχόμενο που ανεβάζετε ή μοιράζεστε μέσω των Υπηρεσιών μας και χορηγείτε στην Riddance Technologies, Sociedad Limitada άδεια χρήσης αυτού του περιεχομένου όπως είναι απαραίτητο για την παροχή και βελτίωση των Υπηρεσιών.
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+### Συνδέσεις και Υπηρεσίες Τρίτων
+Οι Υπηρεσίες μας μπορεί να περιέχουν συνδέσεις σε ιστότοπους ή υπηρεσίες τρίτων. Δεν είμαστε υπεύθυνοι για το περιεχόμενο ή τις πρακτικές τους. Επιπλέον, οποιεσδήποτε συναλλαγές ή αλληλεπιδράσεις έχετε με αυτές τις υπηρεσίες τρίτων είναι αποκλειστικά μεταξύ εσάς και του τρίτου.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+### Τροποποίηση και Τερματισμός Υπηρεσιών
+Διατηρούμε το δικαίωμα να τροποποιήσουμε, αναστείλουμε ή διακόψουμε τις Υπηρεσίες μας οποιαδήποτε στιγμή, με ή χωρίς προειδοποίηση. Σε περίπτωση διακοπής, θα καταβάλουμε εύλογες προσπάθειες να σας ειδοποιήσουμε και να παρέχουμε επιλογές για την ανάκτηση του περιεχομένου σας, εάν είναι εφαρμόσιμο.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+### Αποποίηση Εγγυήσεων
+Η Tramitit παρέχει τις Υπηρεσίες σε βάση 'ως έχουν' και 'ως διατίθενται'. Παρόλο που προσπαθούμε για υψηλή ποιότητα, δεν μπορούμε να εγγυηθούμε ότι οι Υπηρεσίες θα καλύψουν όλες τις ανάγκες σας ή θα είναι χωρίς σφάλματα. Ως εκ τούτου, αποποιούμαστε όλες τις εγγυήσεις, ρητές ή υπονοούμενες, στον μέγιστο βαθμό που επιτρέπεται από το νόμο.
 
-### Intellectual Property Rights
+### Περιορισμός Ευθύνης
+Η Tramitit δεν θα είναι υπεύθυνη για οποιεσδήποτε έμμεσες, παρεπόμενες, ειδικές, επακόλουθες ή ποινικές ζημίες που προκύπτουν από ή σχετίζονται με τη χρήση ή την αδυναμία χρήσης των Υπηρεσιών.
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+### Αποζημίωση
+Συμφωνείτε να αποζημιώσετε και να απαλλάξετε την Tramitit και τους συνεργάτες της από οποιεσδήποτε αξιώσεις, ζημιές ή έξοδα, συμπεριλαμβανομένων των εύλογων νομικών εξόδων, που προκύπτουν από τη χρήση των Υπηρεσιών ή την παραβίαση αυτών των Όρων, συμπεριλαμβανομένης οποιασδήποτε ζημίας ή διαφοράς που προκαλείται από περιεχόμενο που υποβάλλετε ή μοιράζεστε.
 
-### Third-Party Links and Services
+### Εφαρμοστέο Δίκαιο και Δικαιοδοσία
+Αυτοί οι Όροι διέπονται από τους νόμους της Ισπανίας. Για διεθνείς χρήστες, οποιεσδήποτε διαφορές θα επιλύονται βάσει του ισπανικού δικαίου, λαμβάνοντας υπόψη τους πιο σχετικούς διεθνείς νόμους που ισχύουν στην συγκεκριμένη περίπτωση.
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+### Αλλαγές στους Όρους
+Η Tramitit διατηρεί το δικαίωμα να τροποποιήσει αυτούς τους Όρους οποιαδήποτε στιγμή. Θα παρέχουμε ειδοποίηση για σημαντικές αλλαγές μέσω των Υπηρεσιών μας ή στέλνοντας σας ένα email. Η συνεχής χρήση μετά από αυτήν την ειδοποίηση θα συνιστά αποδοχή των νέων Όρων.
 
-### Modification and Termination of Services
+### Προσβασιμότητα και Γλώσσα
+Δεσμευόμαστε να κάνουμε τους Όρους μας και τις Υπηρεσίες μας προσβάσιμες και κατανοητές. Εάν δυσκολεύεστε να κατανοήσετε οποιοδήποτε μέρος αυτών των Όρων, παρακαλούμε επικοινωνήστε μαζί μας για διευκρινίσεις.
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
-
-### Disclaimer of Warranties
-
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
-
-### Limitation of Liability
-
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
-
-### Indemnification
-
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
-
-### Governing Law and Jurisdiction
-
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
-
-### Changes to Terms
-
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
-
-### Accessibility and Language
-
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
-
-### Contact Information
-
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+### Στοιχεία Επικοινωνίας
+Για ερωτήσεις ή ανησυχίες σχετικά με αυτούς τους Όρους, παρακαλούμε επικοινωνήστε μαζί μας στο [hey@tramitit.com](mailto:hey@tramitit.com).

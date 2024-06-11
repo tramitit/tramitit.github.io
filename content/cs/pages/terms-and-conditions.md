@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Podmínky použití"
+meta_title: "Naše Podmínky použití podrobně popisují vaše práva a povinnosti při využívání škály služeb společnosti Tramitit."
+description: "Naše Podmínky použití podrobně popisují vaše práva a povinnosti při využívání škály služeb společnosti Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Úvod
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Tato obchodní podmínky upravují používání služeb nabízených společností Tramitit (dále jen „Tramitit“). Přístupem nebo používáním služeb poskytovaných společností Tramitit uznáváte a souhlasíte s těmito podmínkami.
 
-### Acceptance of Terms
+### Přijetí podmínek
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+Používáním služeb Tramitit potvrzujete své přijetí těchto podmínek. Pokud nesouhlasíte, nesmíte používat služby.
 
-### Privacy and Data Protection
+### Ochrana soukromí a ochrana dat
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+Tramitit se zavazuje chránit vaše soukromí a dodržovat předpisy o ochraně dat. Naše podrobné zásady ochrany soukromí, které jsou nedílnou součástí těchto podmínek, popisují, jak shromažďujeme, zpracováváme, uchováváme a chráníme vaše osobní údaje, včetně dodržování GDPR pro uživatele v Evropě. Rovněž popisujeme vaše práva týkající se vašich osobních údajů a způsoby, jak je uplatnit.
 
-### User Obligations and Service Use
+### Uživatelské povinnosti a používání služeb
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Dodržování: Souhlasíte s tím, že budete naše služby používat v souladu s těmito podmínkami a platnými zákony.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Zakázané chování: Nesmíte se zapojovat do nelegálních aktivit, porušovat práva duševního vlastnictví nebo přenášet škodlivý nebo nepřijatelný obsah, jako je nenávistná řeč, obtěžování, explicitní materiál nebo obsah podporující násilí nebo diskriminaci, prostřednictvím našich služeb.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Politika spravedlivého využití: Aby byl zajištěn spravedlivý přístup a udržena kvalita služby, Tramitit uplatňuje politiku spravedlivého využití. Každý účet smí denně zpracovat maximálně 300 e-mailů. Toto opatření je zavedeno k prevenci zneužití a zajištění optimálního výkonu služby pro všechny uživatele. Pokud bude tento limit překročen, Tramitit si vyhrazuje právo dočasně pozastavit schopnost zpracování e-mailů po zbytek dne. Služba se automaticky obnoví na začátku příštího dne. Tato politika je navržena k ochraně integrity našich služeb a zkušenosti našich uživatelů.
 
-### Intellectual Property Rights
+### Práva duševního vlastnictví
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+Veškerá práva duševního vlastnictví na služby a podkladovou technologii vlastní společnost Riddance Technologies, Sociedad Limitada. Navíc si uchováváte všechna práva na obsah, který nahráváte nebo sdílíte prostřednictvím našich služeb, a udělujete společnosti Riddance Technologies, Sociedad Limitada licenci k tomu, aby tento obsah používala pro poskytování a zlepšování služeb.
 
-### Third-Party Links and Services
+### Odkazy a služby třetích stran
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+Naše služby mohou obsahovat odkazy na webové stránky nebo služby třetích stran. Nejsme zodpovědní za jejich obsah nebo postupy. Nadto všechny transakce nebo interakce, které máte s těmito službami třetích stran, jsou výhradně mezi vámi a třetí stranou.
 
-### Modification and Termination of Services
+### Úpravy a ukončení služeb
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Vyhrazujeme si právo kdykoli upravit, pozastavit nebo ukončit naše služby, s nebo bez oznámení. V případě ukončení provedeme rozumné kroky k informování vás a poskytnutí možností na získání vašeho obsahu, pokud je to možné.
 
-### Disclaimer of Warranties
+### Vyloučení záruk
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+Tramitit poskytuje služby na základě „jak je“ a „jak jsou dostupné“. I když se snažíme o vysokou kvalitu, nemůžeme zaručit, že služby splní všechny vaše potřeby nebo budou bez chyb. Proto se vzdáváme všech záruk, buď výslovných nebo implicitních, do rozsahu povoleného zákonem.
 
-### Limitation of Liability
+### Omezení odpovědnosti
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+Tramitit neodpovídá za žádné nepřímé, náhodné, zvláštní, následné nebo trestné škody vyplývající z vašeho používání nebo neschopnosti používat služby.
 
-### Indemnification
+### Vyrovnání
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+Souhlasíte s tím, že budete uvolnit od zodpovědnosti a ochránit Tramitit a jeho přidružené osoby před nároky, škodami nebo výdaji, včetně rozumných právních poplatků, vyplývajících z vašeho používání služeb nebo porušení těchto podmínek, včetně jakéhokoli škody nebo sporu způsobeného obsahem, který odesíláte nebo sdílíte.
 
-### Governing Law and Jurisdiction
+### Právo vlády a jurisdikce
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Tyto podmínky podléhají španělským zákonům. Pro mezinárodní uživatele budou veškeré spory řešeny podle španělského práva, s ohledem na nejrelevantnější mezinárodní zákony aplikovatelné na daný případ.
 
-### Changes to Terms
+### Změny podmínek
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+Tramitit si vyhrazuje právo kdykoli změnit tyto podmínky. Oavíme o významných změnách prostřednictvím našich služeb nebo vám zašleme e-mail. Vaše pokračující používání po takovém oznámení bude považováno za přijetí nových podmínek.
 
-### Accessibility and Language
+### Přístupnost a jazyk
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+Zavazujeme se k tomu, abychom učinili naše podmínky a služby přístupné a srozumitelné. Pokud máte obtíže s porozuměním některé části těchto podmínek, obraťte se na nás pro objasnění.
 
-### Contact Information
+### Kontaktní informace
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+Pro dotazy nebo obavy týkající se těchto podmínek nás kontaktujte na hey@tramitit.com.

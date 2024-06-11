@@ -1,67 +1,68 @@
 ---
-title: "Terms & Conditions"
-meta_title: ""
-description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
+translationKey: 'terms-and-conditions'
+title: "Termini e condizioni"
+meta_title: "I nostri Termini e Condizioni dettagliano i tuoi diritti e responsabilità nell'utilizzo della gamma di servizi di Tramitit."
+description: "I nostri Termini e Condizioni dettagliano i tuoi diritti e responsabilità nell'utilizzo della gamma di servizi di Tramitit."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Introduzione
 
-These Terms and Conditions govern the use of the services offered by Tramitit (hereafter referred to as "Tramitit"). By accessing or using the services provided by Tramitit, you acknowledge and agree to these Terms.
+Questi Termini e Condizioni regolano l'uso dei servizi offerti da Tramitit (di seguito "Tramitit"). Accedendo o utilizzando i servizi forniti da Tramitit, riconosci e accetti questi Termini.
 
-### Acceptance of Terms
+### Accettazione dei Termini
 
-By using Tramitit's Services, you confirm your acceptance of these Terms. If you do not agree, you must not use the Services.
+Utilizzando i Servizi di Tramitit, confermi la tua accettazione di questi Termini. Se non sei d'accordo, non devi utilizzare i Servizi.
 
-### Privacy and Data Protection
+### Privacy e Protezione dei Dati
 
-Tramitit is committed to protecting your privacy and adhering to data protection regulations. Our detailed Privacy Policy, which is an integral part of these Terms, outlines how we collect, process, store, and protect your personal data, including compliance with GDPR for users in Europe. We also describe your rights regarding your personal information and how to exercise them.
+Tramitit si impegna a proteggere la tua privacy e ad attenersi alle normative sulla protezione dei dati. La nostra dettagliata Informativa sulla Privacy, che è parte integrante di questi Termini, descrive come raccogliamo, elaboriamo, conserviamo e proteggiamo i tuoi dati personali, incluso il rispetto del GDPR per gli utenti in Europa. Descriviamo anche i tuoi diritti riguardanti le tue informazioni personali e come esercitarli.
 
-### User Obligations and Service Use
+### Obblighi dell'Utente e Utilizzo del Servizio
 
-- Compliance: You agree to use our Services in accordance with these Terms and applicable laws.
+- Conformità: Accetti di utilizzare i nostri Servizi in conformità con questi Termini e le leggi applicabili.
 
-- Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
+- Condotta Proibita: Non devi impegnarti in attività illegali, violare i diritti di proprietà intellettuale o trasmettere contenuti dannosi o inaccettabili, come discorsi d'odio, molestie, materiale esplicito o qualsiasi contenuto che promuova violenza o discriminazione, attraverso i nostri Servizi.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
+- Politica di Utilizzo Corretto: Per garantire un accesso equo e mantenere la qualità del servizio, Tramitit applica una politica di utilizzo corretto. Ogni account è autorizzato a processare un massimo di 300 email al giorno. Questa misura è stata adottata per prevenire abusi e garantire prestazioni ottimali del servizio per tutti gli utenti. Se questo limite viene superato, Tramitit si riserva il diritto di sospendere temporaneamente la capacità di elaborazione delle email per il resto della giornata. Il servizio riprenderà automaticamente all'inizio del giorno successivo. Questa politica è stata progettata per proteggere l'integrità dei nostri servizi e l'esperienza dei nostri utenti.
 
-### Intellectual Property Rights
+### Diritti di Proprietà Intellettuale
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+Tutti i diritti di proprietà intellettuale nei Servizi e nella tecnologia sottostante sono di proprietà di Riddance Technologies, Sociedad Limitada. Inoltre, mantieni tutti i diritti sui contenuti che carichi o condividi attraverso i nostri Servizi e concedi a Riddance Technologies, Sociedad Limitada una licenza per utilizzare tali contenuti come necessario per fornire e migliorare i Servizi.
 
-### Third-Party Links and Services
+### Link e Servizi di Terze Parti
 
-Our Services may contain links to third-party websites or services. We are not responsible for their content or practices. Furthermore, any transactions or interactions you have with these third-party services are solely between you and the third party.
+I nostri Servizi possono contenere collegamenti a siti web o servizi di terze parti. Non siamo responsabili dei loro contenuti o pratiche. Inoltre, qualsiasi transazione o interazione che hai con questi servizi di terze parti è esclusivamente tra te e la terza parte.
 
-### Modification and Termination of Services
+### Modifica e Cessazione dei Servizi
 
-We reserve the right to modify, suspend, or discontinue our Services at any time, with or without notice. In case of discontinuation, we will make reasonable efforts to notify you and provide options to retrieve your content, if applicable.
+Ci riserviamo il diritto di modificare, sospendere o interrompere i nostri Servizi in qualsiasi momento, con o senza preavviso. In caso di interruzione, faremo ragionevoli sforzi per avvisarti e fornire opzioni per recuperare i tuoi contenuti, se applicabile.
 
-### Disclaimer of Warranties
+### Esclusione di Garanzie
 
-Tramitit provides Services on an 'as is' and 'as available' basis. While we strive for high quality, we cannot guarantee that the Services will meet all your needs or be error-free. Therefore, we disclaim all warranties, express or implied, to the extent permitted by law.
+Tramitit fornisce i Servizi su base "così com'è" e "come disponibile". Sebbene cerchiamo di garantire una qualità elevata, non possiamo garantire che i Servizi soddisferanno tutte le tue esigenze o che saranno privi di errori. Pertanto, escludiamo tutte le garanzie, esplicite o implicite, nella misura consentita dalla legge.
 
-### Limitation of Liability
+### Limitazione di Responsabilità
 
-Tramitit will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use or inability to use the Services.
+Tramitit non sarà responsabile per danni indiretti, incidentali, speciali, consequenziali o punitivi derivanti dal tuo utilizzo o dall'incapacità di utilizzare i Servizi.
 
-### Indemnification
+### Indennizzo
 
-You agree to indemnify and hold harmless Tramitit and its affiliates from any claims, damages, or expenses, including reasonable legal fees, arising from your use of the Services or your violation of these Terms, including any damage or dispute caused by content you submit or share.
+Accetti di indennizzare e tenere indenne Tramitit e le sue affiliate da qualsiasi rivendicazione, danno o spese, comprese le spese legali ragionevoli, derivanti dal tuo utilizzo dei Servizi o dalla violazione di questi Termini, compresi eventuali danni o controversie causate dai contenuti che invii o condividi.
 
-### Governing Law and Jurisdiction
+### Legge Applicabile e Giurisdizione
 
-These Terms are governed by the laws of Spain. For international users, any disputes will be resolved under Spanish law, considering the most relevant international laws applicable to the specific case.
+Questi Termini sono disciplinati dalle leggi della Spagna. Per gli utenti internazionali, eventuali controversie saranno risolte in base alla legge spagnola, considerando le leggi internazionali più rilevanti applicabili al caso specifico.
 
-### Changes to Terms
+### Modifiche ai Termini
 
-Tramitit reserves the right to modify these Terms at any time. We will provide notice of significant changes through our Services or by sending you an email. Your continued use after such notice will constitute acceptance of the new Terms.
+Tramitit si riserva il diritto di modificare questi Termini in qualsiasi momento. Forniremo un avviso delle modifiche significative attraverso i nostri Servizi o inviandoti un'email. Il tuo utilizzo continuato dopo tale avviso costituirà l'accettazione dei nuovi Termini.
 
-### Accessibility and Language
+### Accessibilità e Lingua
 
-We are committed to making our Terms and Services accessible and understandable. If you have difficulty understanding any part of these Terms, please contact us for clarification.
+Ci impegniamo a rendere i nostri Termini e Servizi accessibili e comprensibili. Se hai difficoltà a comprendere una parte di questi Termini, ti preghiamo di contattarci per chiarimenti.
 
-### Contact Information
+### Informazioni di Contatto
 
-For inquiries or concerns regarding these Terms, please contact us at hey@tramitit.com.
+Per domande o preoccupazioni riguardanti questi Termini, contattaci all'indirizzo hey@tramitit.com.

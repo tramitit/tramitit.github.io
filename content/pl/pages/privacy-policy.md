@@ -1,102 +1,102 @@
 ---
-title: "Privacy Policy"
-meta_title: ""
-description: "We are committed to ensuring your privacy and the legal use of your personal data, both on our website and platform."
+translationKey: 'privacy-policy'
+title: "Polityka prywatności"
+meta_title: "Zobowiązujemy się do zapewnienia Twojej prywatności i legalnego wykorzystywania Twoich danych osobowych, zarówno na naszej stronie internetowej, jak i platformie."
+description: "Zobowiązujemy się do zapewnienia Twojej prywatności i legalnego wykorzystywania Twoich danych osobowych, zarówno na naszej stronie internetowej, jak i platformie."
 date: 2024-05-22T05:00:00Z
 draft: false
 ---
 
-### Introduction
+### Wprowadzenie
 
-We are committed to ensuring your privacy and the legal use of your personal data. This Privacy Policy applies to our website and platform (collectively, the 'Services'). We encourage you to read this Privacy Policy carefully before using any of the Services.
+Zobowiązujemy się do zapewnienia prywatności oraz legalnego wykorzystywania Twoich danych osobowych. Niniejsza Polityka Prywatności dotyczy naszej strony internetowej i platformy (wspólnie, „Usługi”). Zachęcamy do dokładnego przeczytania Polityki Prywatności przed skorzystaniem z jakichkolwiek Usług.
 
-By using Tramitit you agree to the collection, use, and processing of information in accordance with this policy.
+Korzystając z Tramitit, zgadzasz się na zbieranie, wykorzystywanie oraz przetwarzanie informacji zgodnie z niniejszą polityką.
 
-### Interpretation and Definitions
+### Interpretacja i Definicje
 
-#### Interpretation
+#### Interpretacja
 
-Words with capitalized initial letters have defined meanings under the following conditions. These definitions have the same meaning regardless of whether they appear in singular or plural forms.
+Słowa rozpoczynające się wielką literą mają określone znaczenie w określonych warunkach. Te definicje mają takie samo znaczenie bez względu na to, czy występują w formie pojedynczej czy mnogiej.
 
-#### Definitions
+#### Definicje
 
-For the purposes of this Privacy Policy:
+W celu niniejszej Polityki Prywatności:
 
-- **Tramitit** (referred to as either "Tramitit", "We", "Us", or "Our" in this Agreement) refers to tramitit.com.
+- **Tramitit** (określane również jako „Tramitit”, „My”, „Nas” lub „Nasza” w ramach tej Umowy) oznacza tramitit.com.
+- **Konto** oznacza unikalne konto stworzone dla Ciebie w celu dostępu do naszej usługi.
+- **Powiązany podmiot** oznacza podmiot, który kontroluje, jest kontrolowany przez lub znajduje się pod wspólną kontrolą z innym podmiotem, gdzie „kontrola” oznacza posiadanie 50% lub więcej udziałów, udziałów kapitałowych lub innych papierów wartościowych uprawniających do głosowania w wyborach dyrektorów lub innych organów zarządzających.
+- **Ciasteczka (Cookies)** to małe pliki umieszczone na Twoim urządzeniu (komputer, urządzenie mobilne lub inne urządzenie) przez stronę internetową, zawierające szczegóły historii Twojego przeglądania na tej stronie.
+- **Kraj** odnosi się do Hiszpanii.
+- **Urządzenie** oznacza dowolne urządzenie, które może uzyskać dostęp do usługi, takie jak komputer, telefon komórkowy czy tablet.
+- **Dane osobowe** to informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania osoby.
+- **Usługa** odnosi się do strony internetowej.
+- **Dostawca usług** oznacza każdą osobę fizyczną lub prawną, która przetwarza dane w imieniu Tramitit. Dotyczy to firm zewnętrznych lub osób zatrudnionych przez Tramitit do ułatwiania usługi, świadczenia usługi w imieniu Tramitit, wykonywania usług związanych z usługą lub pomagania Tramitit w analizowaniu sposobu korzystania z usługi.
+- **Dane użytkowania** odnoszą się do danych zbieranych automatycznie, generowanych przez korzystanie z usługi lub infrastruktury usługi (np. czas odwiedzin strony).
+- **Strona internetowa** odnosi się do tramitit.com, dostępnej pod adresem [tramitit.com](https://tramitit.com/).
+- **Ty** oznacza osobę fizyczną, która korzysta z usługi, lub firmę lub inną osobę prawną, w imieniu której taka osoba korzysta z usługi.
 
-- **Account** means a unique account created for you to access our service.
-- **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for the election of directors or other managing authority.
-- **Cookies** are small files placed on your device (computer, mobile device, or any other device) by a website, containing details of your browsing history on that website.
-- **Country** refers to Spain.
-- **Device** means any device that can access the service such as a computer, cellphone, or digital tablet.
-- **Personal Data** is any information that relates to an identified or identifiable individual.
-- **Service** refers to the website.
-- **Service Provider** means any natural or legal person who processes the data on behalf of Tramitit. It refers to third-party companies or individuals employed by Tramitit to facilitate the service, provide the service on behalf of Tramitit, perform services related to the service, or assist Tramitit in analyzing how the service is used.
-- **Usage Data** refers to data collected automatically, generated by the use of the service or from the service infrastructure (e.g., duration of a page visit).
-- **Website** refers to tramitit.com, accessible from [tramitit.com](https://tramitit.com/).
-- **You** means the individual accessing or using the service, or the company, or other legal entity on behalf of which such individual is accessing or using the service.
+### Zbieranie Danych i Ich Wykorzystywanie
 
-### Data Collection and Usage
+Nie zbieramy żadnych informacji osobistych od użytkowników naszych Usług.
 
-We do not collect any personal information from users of our Services.
+#### Dane Użytkowania
 
-#### Usage Data
+Dane Użytkowania są zbierane automatycznie podczas korzystania z Usługi. Mogą to być informacje takie jak adres protokołu internetowego Twojego urządzenia (np. adres IP), rodzaj przeglądarki, wersja przeglądarki, strony naszej Usługi, które odwiedzasz, czas i data Twojej wizyty, czas spędzony na tych stronach oraz inne dane diagnostyczne.
 
-Usage Data is collected automatically when using the Service. This may include information such as your device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other diagnostic data.
+Nie podejmujemy automatycznych decyzji na podstawie Twoich danych. Nie stosujemy żadnych narzędzi czy systemów profilowania do przetwarzania Twoich danych i podejmowania decyzji opartych na profilowaniu.
 
-We do not make automated decisions using your data. We do not use any profiling tools or systems to process your data and make decisions based on profiling.
+#### Technologie Śledzenia i Ciasteczka
 
-#### Tracking Technologies and Cookies
+Wykorzystujemy Ciasteczka oraz podobne technologie śledzenia do monitorowania aktywności w naszej Usłudze oraz przechowywania określonych informacji. Te technologie są wykorzystywane do zbierania i śledzenia informacji oraz do ulepszania i analizowania naszej Usługi.
 
-We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. These technologies are used to collect and track information and to improve and analyze our Service.
+#### Wykorzystanie Google Analytics
 
-#### Usage of Google Analytics
+Tramitit korzysta z Google Analytics, usługi analityki internetowej dostarczanej przez Google, Inc. ("Google"). Google Analytics używa „ciasteczek”, które są plikami tekstowymi umieszczanymi na Twoim urządzeniu, aby pomóc w analizowaniu sposobu korzystania przez użytkowników z witryny. Informacje generowane przez ciasteczko dotyczące korzystania z witryny, w tym adres IP, będą przekazywane i przechowywane przez Google na serwerach w Stanach Zjednoczonych.
 
-Tramitit uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your device, to help the website analyze how users use the site. The information generated by the cookie about your use of the website, including your IP address, will be transmitted to and stored by Google on servers in the United States.
+**Cel i Zakres:**
 
-**Purpose and Scope:**
+- **Analiza:** Google będzie wykorzystywał te informacje do oceny korzystania z naszej witryny, przygotowywania raportów na temat aktywności na witrynie dla operatorów witryny oraz świadczenia innych usług związanych z aktywnością witryny i korzystaniem z Internetu.
 
-- **Analysis:** Google will use this information to evaluate your use of our website, compiling reports on website activity for website operators, and providing other services relating to website activity and internet usage.
+- **Udostępnianie Danych:** Google może również przekazywać te informacje stronom trzecim, jeśli jest to wymagane przez prawo, lub gdy takie strony trzecie przetwarzają informacje w imieniu Google.
+- **Anonimizacja IP:** Aktywowaliśmy anonimizację IP na Tramitit, co oznacza, że Google ucinie/anonimizuje ostatni oktet adresu IP dla Państw Członkowskich Unii Europejskiej oraz dla innych stron objętych Umową o Europejskim Obszarze Gospodarczym.
 
-- **Data Sharing:** Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.
-- **IP Anonymization:** We have activated IP anonymization on Tramitit, meaning that Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area.
+**Opcje Użytkownika:**
 
-**User Options:**
+- **Rezygnacja:** Możesz odmówić wykorzystania ciasteczek, wybierając odpowiednie ustawienia w przeglądarce. Należy jednak pamiętać, że jeśli to zrobisz, nie będziesz mógł korzystać z pełnej funkcjonalności Tramitit.
 
-- **Opt-Out:** You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of Tramitit.
+- **Dodatkowy Wtyczka Przeglądarki:** Dodatkowo, możesz zapobiec gromadzeniu i wykorzystywaniu danych przez Google (ciasteczka i adres IP) pobierając i instalując wtyczkę przeglądarki dostępną pod adresem [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
-- **Browser Add-On:** Additionally, you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+### Zgodność z Lokalnymi i Międzynarodowymi Przepisami Prawnymi
 
-### Compliance with Local and International Laws
+Niniejsza Polityka Prywatności została również zaprojektowana w celu zgodności z lokalnymi przepisami dotyczącymi ochrony danych w Hiszpanii oraz Ogólnym Rozporządzeniem o Ochronie Danych (RODO) Unii Europejskiej. Masz prawo być informowany o przetwarzaniu Twoich danych osobowych (np. do jakich celów, jakiego rodzaju danych, komu są przekazywane, jakie są okresy retencji, oraz z jakich źródeł osób trzecich zostały pozyskane). Zobowiązujemy się do zachowania poufności Twoich Danych Osobowych oraz gwarantowania Twoich praw. Możesz skorzystać z tych praw, kontaktując się z nami.
 
-This Privacy Policy is also designed to comply with local data protection laws in Spain and the European Union’s General Data Protection Regulation (GDPR). You have the right to be informed about the processing of your personal data (e.g., for what purposes, what type of data, to whom it is communicated, retention periods, and any third-party sources from which it was obtained). We undertake to respect the confidentiality of your Personal Data and to guarantee your rights. You may exercise your rights by contacting us.
+Zgodnie z Rozporządzeniem Ogólnym o Ochronie Danych i Ustawą Organiczną 3/2018 z dnia 5 grudnia, w sprawie Ochrony Danych Osobowych i gwarancji praw cyfrowych, Tramitit jest kontrolerem danych odpowiedzialnym za Twoje dane osobowe. Nasze strategiczne decyzje dotyczące celów i środków przetwarzania danych osobowych są podejmowane przez nasz zespół w Hiszpanii. Możesz skontaktować się z naszym Inspektorem Ochrony Danych (DPO) pod adresem hey@tramitit.com.
 
-As per the General Data Protection Regulation (GDPR) and the Organic Law 3/2018, of December 5, on Personal Data Protection and guarantee of digital rights, Tramitit is the data controller responsible for your personal data. Our strategic decisions regarding the purposes and means of processing personal data are made by our team in Spain. You can contact our Data Protection Officer (DPO) at hey@tramitit.com.
+### Prywatność Dzieci
 
-### Children's Privacy
+Nasza Usługa nie jest przeznaczona dla osób poniżej 13. roku życia. Nie zbieramy świadomie informacji identyfikujących osobowo dzieci poniżej 13. roku życia. Jeśli jesteś rodzicem lub opiekunem i dowiesz się, że Twoje dziecko poniżej 13. roku życia przekazało nam Dane Osobowe, skontaktuj się z nami.
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and become aware that your child under the age of 13 has provided us with Personal Data, please contact us.
+### Linki do Innych Stron
 
-### Links to Other Websites
+Choć staraliśmy się zawierać jedynie linki do stron internetowych, które odpowiadają naszym wysokim standardom i szacunkowi dla prywatności, nie ponosimy odpowiedzialności za zawartość, bezpieczeństwo ani praktyki prywatności stosowane przez inne strony. Link nie stanowi poparcia ich strony internetowej.
 
-While we try to include only links to websites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. A link does not constitute an endorsement of their website.
+### Polityka Ciasteczek
 
-### Cookies Policy
+#### Co to są Ciasteczka
 
-#### What Are Cookies
+Ciasteczka to małe pliki tekstowe, które są używane do przechowywania drobnych informacji. Są one przechowywane na Twoim urządzeniu podczas ładowania strony internetowej w Twojej przeglądarce. Te ciasteczka pomagają nam poprawić właściwe funkcjonowanie strony internetowej, zwiększyć jej bezpieczeństwo, zapewnić lepsze doświadczenia użytkownika, zrozumieć, jak działa strona internetowa oraz przeanalizować, co działa, a co wymaga poprawy.
 
-Cookies are small text files that are used to store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us make the website function properly, make the website more secure, provide a better user experience, and understand how the website performs and to analyze what works and where it needs improvement.
+#### Zarządzanie Ciasteczkami
 
-#### Managing Cookies
+Możesz zarządzać swoimi preferencjami dotyczącymi ciasteczek bezpośrednio w swojej przeglądarce i zapobiec – na przykład – instalacji ciasteczek przez strony trzecie. Poprzez preferencje przeglądarki można także usunąć ciasteczka zainstalowane w przeszłości, w tym te ciasteczka, które mogły zapisać początkowe zgody na instalację ciasteczek przez tę stronę.
 
-You can manage your preferences for cookies directly from within your own browser and prevent – for example – third parties from installing cookies. Through browser preferences, it is also possible to delete cookies installed in the past, including the cookies that may have saved the initial consent for the installation of cookies by this website.
+Należy pamiętać, że wyłączenie ciasteczek wpłynie na funkcjonalność tej i wielu innych odwiedzanych stron internetowych. Zaleca się zatem, abyś nie wyłączał ciasteczek.
 
-Please note that disabling cookies will affect the functionality of this and many other websites that you visit. Therefore, it is recommended that you do not disable cookies.
+### Zmiany w Polityce Prywatności
 
-### Changes to This Privacy Policy
+Możemy aktualizować naszą Politykę Prywatności w razie potrzeby. Powiadomimy Cię o wszelkich zmianach, umieszczając nową Politykę Prywatności na tej stronie oraz aktualizując datę „Ostatnio zaktualizowano”. W przypadku istotnych zmian w naszej Polityce Prywatności, informacje te zostaną przekazane użytkownikom poprzez bezpośrednie powiadomienie mailowe.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date. If significant, updates to our Privacy Policy will be communicated through a direct notification to users via email.
+### Skontaktuj się z Nami
 
-### Contact Us
-
-For general inquiries about this Privacy Policy, please contact us at hey@tramitit.com. For specific queries related to your personal data or to exercise your rights, please contact our Data Protection Officer at hey@tramitit.com.
+W przypadku ogólnych pytań dotyczących Polityki Prywatności, skontaktuj się z nami pod adresem hey@tramitit.com. W przypadku konkretnych pytań dotyczących Twoich danych osobowych lub skorzystania z Twoich praw, skontaktuj się z naszym Inspektorem Ochrony Danych pod adresem hey@tramitit.com.
