@@ -8,97 +8,97 @@ weight = 1
 [[main]]
 parent = "Countries"
 name = "Austria"
-pageRef = "/guides/austria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
 parent = "Countries"
 name = "Belgium"
-pageRef = "/guides/belgium"
+pageRef = "/categories/belgium"
 weight = 2
 
 [[main]]
 parent = "Countries"
 name = "Bulgaria"
-pageRef = "/guides/bulgaria"
+pageRef = "/categories/bulgaria"
 weight = 3
 
 [[main]]
 parent = "Countries"
 name = "Croatia"
-pageRef = "/guides/croatia"
+pageRef = "/categories/croatia"
 weight = 4
 
 [[main]]
 parent = "Countries"
 name = "Czech Republic"
-pageRef = "/guides/czech-republic"
+pageRef = "/categories/czech-republic"
 weight = 5
 
 [[main]]
 parent = "Countries"
 name = "France"
-pageRef = "/guides/france"
+pageRef = "/categories/france"
 weight = 6
 
 [[main]]
 parent = "Countries"
 name = "Germany"
-pageRef = "/guides/germany"
+pageRef = "/categories/germany"
 weight = 7
 
 [[main]]
 parent = "Countries"
 name = "Greece"
-pageRef = "/guides/greece"
+pageRef = "/categories/greece"
 weight = 8
 
 [[main]]
 parent = "Countries"
 name = "Hungary"
-pageRef = "/guides/hungary"
+pageRef = "/categories/hungary"
 weight = 9
 
 [[main]]
 parent = "Countries"
 name = "Italy"
-pageRef = "/guides/italy"
+pageRef = "/categories/italy"
 weight = 10
 
 [[main]]
 parent = "Countries"
 name = "Poland"
-pageRef = "/guides/poland"
+pageRef = "/categories/poland"
 weight = 11
 
 [[main]]
 parent = "Countries"
 name = "Portugal"
-pageRef = "/guides/portugal"
+pageRef = "/categories/portugal"
 weight = 12
 
 [[main]]
 parent = "Countries"
 name = "Romania"
-pageRef = "/guides/romania"
+pageRef = "/categories/romania"
 weight = 13
 
 [[main]]
 parent = "Countries"
 name = "Slovakia"
-pageRef = "/guides/slovakia"
+pageRef = "/categories/slovakia"
 weight = 14
 
 [[main]]
 parent = "Countries"
 name = "Spain"
-pageRef = "/guides/spain"
+pageRef = "/categories/spain"
 weight = 15
 
 [[main]]
 parent = "Countries"
 name = "Switzerland"
-pageRef = "/guides/switzerland"
+pageRef = "/categories/switzerland"
 weight = 16
 
 [[main]]

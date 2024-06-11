@@ -8,7 +8,7 @@ weight = 1
 [[main]]
 parent = "Países"
 name = "Portugal"
-pageRef = "/guides/portugal"
+pageRef = "/categories/portugal"
 weight = 1
 
 [[main]]

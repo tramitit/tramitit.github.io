@@ -8,13 +8,13 @@ weight = 1
 [[main]]
 parent = "Zemlje"
 name = "Austrija"
-pageRef = "/guides/austria"
+pageRef = "/categories/austria"
 weight = 1
 
 [[main]]
 parent = "Zemlje"
 name = "Hrvatska"
-pageRef = "/guides/croatia"
+pageRef = "/categories/croatia"
 weight = 1
 
 [[main]]
