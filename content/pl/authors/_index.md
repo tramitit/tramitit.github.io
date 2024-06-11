@@ -1,3 +1,4 @@
 ---
+translationKey: 'contributors'
 title: "Contributors"
 ---

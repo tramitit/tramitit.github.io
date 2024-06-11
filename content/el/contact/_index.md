@@ -1,4 +1,5 @@
 ---
+translationKey: 'contact'
 title: "Contact"
 meta_title: ""
 description: "Contact us"
