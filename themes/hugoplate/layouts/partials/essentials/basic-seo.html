@@ -30,7 +30,7 @@
 
 
 {{ if .IsTranslated }}
-    {{ range .Translations }}
+    {{ range .AllTranslations }}
     {{ if eq .Language.Lang "en" }}
     <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
     {{ end }}
