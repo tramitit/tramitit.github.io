@@ -7,9 +7,7 @@
   lang="{{ site.LanguageCode | default `en-US` }}"
   itemtype="http://schema.org/WebPage">
   <head>
-    <!-- Fix for when x-default is not English: https://dariusz.wieckiewicz.org/en/setting-hreflang-and-x-default-on-multilingual-site/ -->
-    {{ partial "head.html" . }}
-    
+
     <!-- head (don't cache it) -->
     {{ partial "essentials/head.html" . }}
 
