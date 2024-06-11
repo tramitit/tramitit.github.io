@@ -8,13 +8,13 @@ weight = 1
 [[main]]
 parent = "Pays"
 name = "France"
-pageRef = "/categories/france"
+pageRef = "/guides/france"
 weight = 1
 
 [[main]]
 parent = "Pays"
 name = "Belgium"
-pageRef = "/categories/belgium"
+pageRef = "/guides/belgium"
 weight = 1
 
 [[main]]

@@ -8,7 +8,7 @@ weight = 1
 [[main]]
 parent = "Χώρες"
 name = "Ελλάδα"
-pageRef = "/categories/greece"
+pageRef = "/guides/greece"
 weight = 1
 
 [[main]]

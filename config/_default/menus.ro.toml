@@ -8,7 +8,7 @@ weight = 1
 [[main]]
 parent = "Țări"
 name = "România"
-pageRef = "/categories/romania"
+pageRef = "/guides/romania"
 weight = 1
 
 [[main]]
