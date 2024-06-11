@@ -18,7 +18,7 @@ require (
 	github.com/gethugothemes/hugo-modules/modal v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/pwa v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/search v0.0.0-20240504032439-79fc09d96848 // indirect
-	github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240504032439-79fc09d96848 // indirect
+	github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240602022531-889cbf5dcf58 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/site-verifications v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/shortcodes/button v0.0.0-20240504032439-79fc09d96848 // indirect
@@ -26,6 +26,6 @@ require (
 	github.com/gethugothemes/hugo-modules/tab v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20240504032439-79fc09d96848 // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20240504032439-79fc09d96848 // indirect
-  github.com/hugomods/mermaid v0.1.1 // indirect
+	github.com/hugomods/mermaid v0.1.1 // indirect
 	github.com/zeon-studio/hugoplate v0.0.0-20240513062835-d4274ad7e3df // indirect
 )

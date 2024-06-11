@@ -19,20 +19,12 @@
 
 
 <!-- opengraph and twitter card -->
-{{ partial "basic-seo.html" . }}
+<!-- custom with correct hreflang alternate behavior -->
+{{ partial "essentials/basic-seo.html" . }}
 
 
 <!-- custom script -->
 {{ partialCached "custom-script.html" . }}
-
-{{- if .IsTranslated -}}
-    {{ range .Translations }}
-    {{- if eq .Language.Lang "en" -}}
-    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-    {{- end -}}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-    {{- end -}}
-{{ end }}
 
 
 <!-- google tag manager -->

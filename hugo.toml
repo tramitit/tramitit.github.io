@@ -152,9 +152,6 @@ lazy = false
 [[params.plugins.js]]
 link = "plugins/swiper/swiper-bundle.js"
 lazy = false
-#[[params.plugins.js]] # disabled for own cookie-consent
-#link = "plugins/cookie.js"
-#lazy = false
 [[params.plugins.js]]
 link = "plugins/glightbox/glightbox.js"
 lazy = true
