@@ -1,4 +1,6 @@
 ---
+translationKey: 'homepage'
+
 # Banner
 banner:
   title: "Zeg nee tegen bureaucratie"

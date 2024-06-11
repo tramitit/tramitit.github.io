@@ -1,4 +1,6 @@
 ---
+translationKey: 'homepage'
+
 # Banner
 banner:
   title: "Say no to bureaucracy"

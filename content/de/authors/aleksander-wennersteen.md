@@ -1,4 +1,5 @@
 ---
+translationKey: 'alex'
 title: Aleksander Wennersteen
 email: aleksander@tramitit.com
 image: "/images/aleksander-wennersteen.webp"
