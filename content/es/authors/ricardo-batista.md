@@ -3,7 +3,7 @@ translationKey: 'ricardo'
 title: Ricardo Batista
 email: ricardo@tramitit.com
 image: "/images/ricardo.batista.webp"
-description: engineer (Product @ $7M ARR) turned into business (GM @ $65M ARR), and now getting back to building
+description: Formé parte del equipo fundador de una startup que escaló a $7M ARR, y actué como GM para un unicornio español ($65M ARR bajo mi responsabilidad).
 social:
   - name: github
     icon: fa-brands fa-github

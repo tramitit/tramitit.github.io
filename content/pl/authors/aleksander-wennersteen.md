@@ -3,7 +3,7 @@ translationKey: 'alex'
 title: Aleksander Wennersteen
 email: aleksander@tramitit.com
 image: "/images/aleksander-wennersteen.webp"
-description: this is meta description
+description: Doświadczenie w obliczeniach kwantowych, HPC, uczeniu maszynowym i komputerowym widzeniu, platformach chmurowych i rozwoju backendu
 social:
   - name: github
     icon: fa-brands fa-github
