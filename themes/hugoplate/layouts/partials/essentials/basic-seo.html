@@ -26,6 +26,8 @@
 <!-- meta canonical -->
 {{ with .Params.canonical }}
   <link rel="canonical" href="{{ . }}" itemprop="url" />
+{{ else }}
+  <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
 {{ end }}
 
 
