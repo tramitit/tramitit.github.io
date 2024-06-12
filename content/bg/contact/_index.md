@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Contact"
-meta_title: ""
-description: "Contact us"
+title: "Свържете се с Tramitit - Вашият водач за ефективни правителствени процедури"
+meta_title: "Свържете се с Tramitit - Вашият водач за ефективни правителствени процедури"
+description: "Свържете се с Tramitit за персонализирана помощ и експертни съвети относно навигацията и ускоряването на правителствените процедури."
 draft: false
 ---

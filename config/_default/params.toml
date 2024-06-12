@@ -63,7 +63,7 @@ content = ""
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Tramitit"]
-description = "Tramitit gathers the info you need to get through the governmental procedures faster."
+description = "Tramitit helps you navigate and expedite governmental procedures efficiently, making the process faster and more straightforward."
 author = "Tramitit"
 image = "images/favicon.png"
 
