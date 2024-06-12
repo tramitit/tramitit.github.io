@@ -29,15 +29,16 @@
 {{ end }}
 
 
-{{ if .IsTranslated }}
-    {{ range .AllTranslations }}
-    {{ if eq .Language.Lang "en" }}
-    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-    {{ end }}
+{{- if .IsTranslated -}}
+  {{- $enPermalink := "" -}}
+  {{- range .AllTranslations }}
+    {{- if eq .Language.Lang "en" -}}
+      {{- $enPermalink = .Permalink -}}
+    {{- end -}}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-    {{ end }}
-{{ end }}
-
+  {{- end -}}
+  <link rel="alternate" hreflang="x-default" href="{{ if $enPermalink }}{{ $enPermalink }}{{ else }}{{ .Permalink }}{{ end }}" />
+{{- end -}}
 
 
 <!-- meta keywords -->
