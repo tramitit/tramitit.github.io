@@ -9,6 +9,7 @@ exclude_phrases:
   - "Descrição O que é isso?"
   - "Beschreibung Was ist das?"
   - "Beschrijving Wat is het?"
+  - "Beschreibung Was ist es?"
   - "Another phrase to exclude"
   - "Popis Co to je?"
   - "Opis Co to jest?"
