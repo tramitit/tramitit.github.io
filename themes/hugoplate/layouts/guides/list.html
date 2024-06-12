@@ -8,14 +8,16 @@
         <!-- blog posts -->
         <div class="lg:col-8">
           <div class="row">
-            {{ $paginator:= .Paginate .RegularPages }}
-            {{ range $paginator.Pages }}
+            <!-- {{ $paginator:= .Paginate .RegularPages }}
+             {{ range $paginator.Pages }} -->
+            <!-- Removed pagination posts -->
+            {{ range .RegularPages }}
               <div class="md:col-6 mb-14">
                 {{ partial "components/blog-card" . }}
               </div>
             {{ end }}
           </div>
-          {{ partial "components/pagination.html" . }}
+          <!--{{ partial "components/pagination.html" . }}-->
         </div>
         <!-- sidebar -->
         <div class="lg:col-4">

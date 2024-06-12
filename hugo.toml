@@ -2,7 +2,7 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "https://tramitit.com"
 # Title of your website (required).
-title = "Tramitit | Simplify and speed up your governmental procedures for faster, hassle-free results."
+title = "Tramitit | Simplify and speed up your governmental procedures for faster, hassle-free results"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
