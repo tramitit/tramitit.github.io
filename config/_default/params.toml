@@ -28,6 +28,9 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 copyright = "Copyright © 2024 Tramitit. All rights reserved."
+# github repo where guides are stored, pointing to edit code on main branch
+guides_github_repo = "https://github.com/tramitit/guides/edit/main/"
+
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,7 +41,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Contact us"
+label = "contact_us"
 link = "contact/"
 
 # search

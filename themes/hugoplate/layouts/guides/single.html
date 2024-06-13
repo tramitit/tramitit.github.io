@@ -12,6 +12,7 @@
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
+          <!-- Bar with author, category, date, and edit button in ul element -->
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
@@ -23,12 +24,12 @@
             {{ $categories:= .Params.categories }}
             {{ if $categories }}
               <li class="mr-4 inline-block">
-                <i class="fa-regular fa-folder mr-2"></i>
                 {{ range $i,$p:= $categories }}
                   <a
                     href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
                     class=""
-                    >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
+                    ><i class="fa-regular fa-folder mr-2"></i>
+                    {{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
                       {{ "," }}
                     {{ end }}
                   </a>
@@ -39,7 +40,18 @@
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
             </li>
+            <!-- Right align the button, use below rather than the div to left align -->
+            <!-- <li class="mr-4 inline-block"> -->
+            <div class="mr-4 inline-block right-align float-right">
+              {{ $github_repo:= site.Params.guides_github_repo }}
+              {{ $file_name:= strings.TrimPrefix "guides" .File.Path }}
+              {{ $edit_on_github:= printf "%s%s%s" $github_repo .Language $file_name }}
+              <a href = "{{ $edit_on_github }}" >
+                <i class="fa-regular fa-edit mr-2"></i>
+                {{ T "edit_on_github" }}
+              </a>
           </ul>
+          <!-- Main content and ToC -->
           <div class="content mb-10">
             {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
             {{ .Content }}
@@ -62,6 +74,14 @@
                 </ul>
               </div>
             {{ end }}
+            <!-- Contribute -->
+            <div class="content mb-10">
+            <h1> {{ T "contribute"}} </h1>
+            <p>
+              {{T "contribute_body" }}: <a href="{{ $edit_on_github }}">TramitIt/guides</a>
+            </p>
+            </div>
+            <!-- Social share -->
             <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
@@ -76,6 +96,7 @@
       </div>
 
       <!-- Related posts -->
+      <!-- Related posts appear completely irrelevant
       {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ $related = $related | shuffle | first 3 }}
       {{ with $related }}
@@ -91,5 +112,6 @@
         </div>
       {{ end }}
     </div>
+  -->
   </section>
 {{ end }}
