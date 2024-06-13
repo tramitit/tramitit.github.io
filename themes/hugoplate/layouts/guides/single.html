@@ -40,14 +40,16 @@
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
             </li>
-            <li class="mr-4 inline-block">
+            <!-- Right align the button, use below rather than the div to left align -->
+            <!-- <li class="mr-4 inline-block"> -->
+            <div class="mr-4 inline-block right-align float-right">
               {{ $github_repo:= site.Params.guides_github_repo }}
-              {{ $file_name:= strings.TrimPrefix "guides/" .File.Path }}
-              <a href = "{{$github_repo}}{{.Language}}/{{$file_name}}">
-              <i class="fa-regular fa-edit mr-2"></i>
-              Edit on GitHub
-            </a>
-            </li>
+              {{ $file_name:= strings.TrimPrefix "guides" .File.Path }}
+              {{ $edit_on_github:= printf "%s%s%s" $github_repo .Language $file_name }}
+              <a href = "{{ $edit_on_github }}" >
+                <i class="fa-regular fa-edit mr-2"></i>
+                Edit on GitHub
+              </a>
           </ul>
           <!-- Main content and ToC -->
           <div class="content mb-10">
@@ -72,6 +74,14 @@
                 </ul>
               </div>
             {{ end }}
+            <!-- Contribute -->
+            <div class="content mb-10">
+            <h1> Contribute </h1>
+            <p>
+              Improve this article by editing it on our open-source <a href="{{ $edit_on_github }}">GitHub repository</a>, <a href="/contact"> send a mail</a>, or comment below.
+            </p>
+            </div>
+            <!-- Social share -->
             <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
             </div>
@@ -86,6 +96,7 @@
       </div>
 
       <!-- Related posts -->
+      <!-- Related posts appear completely irrelevant
       {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
       {{ $related = $related | shuffle | first 3 }}
       {{ with $related }}
@@ -101,5 +112,6 @@
         </div>
       {{ end }}
     </div>
+  -->
   </section>
 {{ end }}
