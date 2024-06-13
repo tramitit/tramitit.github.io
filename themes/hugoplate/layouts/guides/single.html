@@ -48,7 +48,7 @@
               {{ $edit_on_github:= printf "%s%s%s" $github_repo .Language $file_name }}
               <a href = "{{ $edit_on_github }}" >
                 <i class="fa-regular fa-edit mr-2"></i>
-                Edit on GitHub
+                {{ T "edit_on_github" }}
               </a>
           </ul>
           <!-- Main content and ToC -->
@@ -76,9 +76,9 @@
             {{ end }}
             <!-- Contribute -->
             <div class="content mb-10">
-            <h1> Contribute </h1>
+            <h1> {{ T "contribute"}} </h1>
             <p>
-              Improve this article by editing it on our open-source <a href="{{ $edit_on_github }}">GitHub repository</a>, <a href="/contact"> send a mail</a>, or comment below.
+              {{T "contribute_body" }}: <a href="{{ $edit_on_github }}">TramitIt/guides</a>
             </p>
             </div>
             <!-- Social share -->
