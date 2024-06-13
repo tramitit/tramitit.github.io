@@ -28,8 +28,8 @@ features:
       - "The information is simplified for easy understanding"
     button:
       enable: true
-      label: "Visit our open-source repository"
-      link: "https://github.com/tramitit/guides/"
+      label: "Contribute to our open-source repository"
+      link: "contribute/"
 
   - title: "Welcoming providers that can help our users"
     image: "/images/providers-screenshot.webp"
