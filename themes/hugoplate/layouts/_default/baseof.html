@@ -7,9 +7,9 @@
   lang="{{ site.LanguageCode | default `en-US` }}"
   itemtype="http://schema.org/WebPage">
   <head>
-
     <!-- head (don't cache it) -->
     {{ partial "essentials/head.html" . }}
+
 
     <!-- style (always cache it) -->
     {{ partialCached "essentials/style.html" . }}

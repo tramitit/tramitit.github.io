@@ -15,6 +15,7 @@
   {{ $title = .Params.title }}
 {{ end }}
 
+
 <title>{{ $title }}</title>
 
 <!-- meta noindex -->
@@ -30,16 +31,25 @@
   <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
 {{ end }}
 
-
 {{- if .IsTranslated -}}
   {{- $enPermalink := "" -}}
   {{- range .AllTranslations }}
     {{- if eq .Language.Lang "en" -}}
       {{- $enPermalink = .Permalink -}}
     {{- end -}}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+    <link
+      rel="alternate"
+      hreflang="{{ .Language.Lang }}"
+      href="{{ .Permalink }}" />
   {{- end -}}
-  <link rel="alternate" hreflang="x-default" href="{{ if $enPermalink }}{{ $enPermalink }}{{ else }}{{ .Permalink }}{{ end }}" />
+  <link
+    rel="alternate"
+    hreflang="x-default"
+    href="{{ if $enPermalink }}
+      {{ $enPermalink }}
+    {{ else }}
+      {{ .Permalink }}
+    {{ end }}" />
 {{- end -}}
 
 
@@ -132,7 +142,11 @@
         <meta name="twitter:image" content="{{ $image.Permalink }}" />
         <meta
           name="twitter:card"
-          content="{{- if (and (gt $imageWidth 300) (gt $imageHeight 157) (not (eq $imageWidth $imageHeight))) -}}summary_large_image{{- else -}}summary{{- end -}}" />
+          content="{{- if (and (gt $imageWidth 300) (gt $imageHeight 157) (not (eq $imageWidth $imageHeight))) -}}
+            summary_large_image
+          {{- else -}}
+            summary
+          {{- end -}}" />
       {{ end }}
       <!-- /if image gt 144px -->
       <meta property="og:image:width" content="{{ $imageWidth }}" />

@@ -12,6 +12,7 @@
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
+          <!-- Bar with author, category, date, and edit button in ul element -->
           <ul class="mb-4">
             <li class="mr-4 inline-block">
               <a
@@ -23,12 +24,12 @@
             {{ $categories:= .Params.categories }}
             {{ if $categories }}
               <li class="mr-4 inline-block">
-                <i class="fa-regular fa-folder mr-2"></i>
                 {{ range $i,$p:= $categories }}
                   <a
                     href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
                     class=""
-                    >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
+                    ><i class="fa-regular fa-folder mr-2"></i>
+                    {{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
                       {{ "," }}
                     {{ end }}
                   </a>
@@ -39,7 +40,16 @@
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
             </li>
+            <li class="mr-4 inline-block">
+              {{ $github_repo:= site.Params.guides_github_repo }}
+              {{ $file_name:= strings.TrimPrefix "guides/" .File.Path }}
+              <a href = "{{$github_repo}}{{.Language}}/{{$file_name}}">
+              <i class="fa-regular fa-edit mr-2"></i>
+              Edit on GitHub
+            </a>
+            </li>
           </ul>
+          <!-- Main content and ToC -->
           <div class="content mb-10">
             {{ partial "toc.html" (dict "Class" "blog" "Collapsed" false "TableOfContents" .TableOfContents ) }}
             {{ .Content }}
