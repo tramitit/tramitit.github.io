@@ -1,4 +1,5 @@
 ---
+translationKey: 'terms-and-conditions'
 title: "Terms & Conditions"
 meta_title: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
 description: "Our Terms and Conditions detail your rights and responsibilities when using Tramitit's range of services."
