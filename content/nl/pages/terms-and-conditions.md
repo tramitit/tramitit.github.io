@@ -25,11 +25,9 @@ Tramitit is toegewijd aan het beschermen van uw privacy en het naleven van gegev
 
 - Verboden Gedrag: U mag geen illegale activiteiten uitvoeren, inbreuk maken op intellectuele eigendomsrechten, of schadelijke of ongepaste inhoud verzenden, zoals haatspraak, intimidatie, expliciet materiaal, of enige inhoud die geweld of discriminatie bevordert, via onze diensten.
 
-- Fair Usage Policy: Om eerlijke toegang te garzekern en de kwaliteit van de dienst te behouden, hanteert Tramitit een fair usage policy. Elk account mag dagelijks maximaal 300 e-mails verwerken. Deze maatregel is bedoeld om misbruik te voorkomen en optimale serviceprestaties voor alle gebruikers te garanderen. Als deze limiet wordt overschreden, behoudt Tramitit zich het recht voor om tijdelijk de mogelijkheid tot e-mailverwerking voor de rest van de dag op te schorten. De service wordt automatisch hervat aan het begin van de volgende dag. Dit beleid is ontworpen om de integriteit van onze diensten en de ervaring van onze gebruikers te beschermen.
-
 ### Intellectuele Eigendomsrechten
 
-Alle intellectuele eigendomsrechten in de diensten en de onderliggende technologie zijn eigendom van Riddance Technologies, Sociedad Limitada. Bovendien behoudt u alle rechten op de inhoud die u uploadt of deelt via onze diensten en verleent u Riddance Technologies, Sociedad Limitada een licentie om deze inhoud te gebruiken zoals nodig is om de diensten te verlenen en te verbeteren.
+Alle intellectuele eigendomsrechten op de Diensten en de onderliggende technologie zijn eigendom van het moederbedrijf van Tramitit. Bovendien behoudt u alle rechten op de inhoud die u uploadt of deelt via onze Diensten en verleent u het moederbedrijf van Tramitit een licentie om deze inhoud te gebruiken voor zover nodig om de Diensten te leveren en te verbeteren.
 
 ### Links en Diensten van Derden
 

@@ -25,11 +25,9 @@ Tramitit si impegna a proteggere la tua privacy e ad attenersi alle normative su
 
 - Condotta Proibita: Non devi impegnarti in attività illegali, violare i diritti di proprietà intellettuale o trasmettere contenuti dannosi o inaccettabili, come discorsi d'odio, molestie, materiale esplicito o qualsiasi contenuto che promuova violenza o discriminazione, attraverso i nostri Servizi.
 
-- Politica di Utilizzo Corretto: Per garantire un accesso equo e mantenere la qualità del servizio, Tramitit applica una politica di utilizzo corretto. Ogni account è autorizzato a processare un massimo di 300 email al giorno. Questa misura è stata adottata per prevenire abusi e garantire prestazioni ottimali del servizio per tutti gli utenti. Se questo limite viene superato, Tramitit si riserva il diritto di sospendere temporaneamente la capacità di elaborazione delle email per il resto della giornata. Il servizio riprenderà automaticamente all'inizio del giorno successivo. Questa politica è stata progettata per proteggere l'integrità dei nostri servizi e l'esperienza dei nostri utenti.
-
 ### Diritti di Proprietà Intellettuale
 
-Tutti i diritti di proprietà intellettuale nei Servizi e nella tecnologia sottostante sono di proprietà di Riddance Technologies, Sociedad Limitada. Inoltre, mantieni tutti i diritti sui contenuti che carichi o condividi attraverso i nostri Servizi e concedi a Riddance Technologies, Sociedad Limitada una licenza per utilizzare tali contenuti come necessario per fornire e migliorare i Servizi.
+Tutti i diritti di proprietà intellettuale sui Servizi e sulla tecnologia sottostante sono di proprietà della società madre di Tramitit. Inoltre, conservi tutti i diritti sul contenuto che carichi o condividi attraverso i nostri Servizi e concedi alla società madre di Tramitit una licenza per utilizzare questo contenuto come necessario per fornire e migliorare i Servizi.
 
 ### Link e Servizi di Terze Parti
 

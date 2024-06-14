@@ -25,11 +25,9 @@ Tramitit se obvezuje štititi vašu privatnost i pridržavati se propisa o zašt
 
 - Zabranjeno ponašanje: Ne smijete sudjelovati u nezakonitim aktivnostima, kršiti prava intelektualnog vlasništva ili prenositi štetan ili neprihvatljiv sadržaj, poput govora mržnje, uznemiravanja, eksplicitnog materijala ili bilo kojeg sadržaja koji promiče nasilje ili diskriminaciju, putem naših Usluga.
 
-- Politika pravedne upotrebe: Kako bismo osigurali jednak pristup i održali kvalitetu usluge, Tramitit primjenjuje politiku pravedne upotrebe. Svaki korisnički račun ima dozvolu za obradu maksimalno 300 e-pošti dnevno. Ova mjera je uvedena kako bi se spriječila zloupotreba i osigurala optimalna izvedba usluge za sve korisnike. Ako se premaši ovo ograničenje, Tramitit zadržava pravo privremeno obustaviti obradu e-pošte do kraja dana. Usluga će se automatski nastaviti na početku sljedećeg dana. Ova politika osmišljena je kako bi zaštitila integritet naših usluga i iskustvo naših korisnika.
-
 ### Prava intelektualnog vlasništva
 
-Sva prava intelektualnog vlasništva na Uslugama i pripadajućoj tehnologiji vlasništvo su Riddance Technologies, Sociedad Limitada. Dodatno, zadržavate sva prava na sadržaj koji prenosite ili dijelite putem naših Usluga i dajete Riddance Technologies, Sociedad Limitada licencu za korištenje tog sadržaja prema potrebi za pružanje i poboljšanje Usluga.
+Sva prava intelektualnog vlasništva u Uslugama i temeljnoj tehnologiji pripadaju matičnoj tvrtki Tramitit. Dodatno, zadržavate sva prava na sadržaj koji učitavate ili dijelite putem naših Usluga i dajete matičnoj tvrtki Tramitit licencu za korištenje ovog sadržaja koliko je potrebno za pružanje i poboljšanje Usluga.
 
 ### Poveznice i Usluge Trećih Strana
 

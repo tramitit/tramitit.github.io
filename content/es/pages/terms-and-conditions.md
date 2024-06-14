@@ -25,11 +25,9 @@ Tramitit se compromete a proteger su privacidad y cumplir con las regulaciones d
 
 - Conducta Prohibida: No debe participar en actividades ilegales, infringir en los derechos de propiedad intelectual o transmitir contenido dañino u objetable, como discursos de odio, acoso, material explícito o cualquier contenido que promueva la violencia o discriminación, a través de nuestros Servicios.
 
-- Política de Uso Justo: Para garantizar un acceso equitativo y mantener la calidad del servicio, Tramitit aplica una política de uso justo. Cada cuenta puede procesar un máximo de 300 correos electrónicos diariamente. Esta medida se aplica para prevenir abusos y asegurar un rendimiento óptimo del servicio para todos los usuarios. En caso de exceder este límite, Tramitit se reserva el derecho de suspender temporalmente las capacidades de procesamiento de correos electrónicos por el resto del día. El servicio se reanudará automáticamente al inicio del día siguiente. Esta política está diseñada para proteger la integridad de nuestros servicios y la experiencia de nuestros usuarios.
-
 ### Derechos de Propiedad Intelectual
 
-Todos los derechos de propiedad intelectual en los Servicios y la tecnología subyacente son propiedad de Riddance Technologies, Sociedad Limitada. Además, usted conserva todos los derechos sobre el contenido que cargue o comparta a través de nuestros Servicios y otorga a Riddance Technologies, Sociedad Limitada una licencia para utilizar este contenido según sea necesario para proporcionar y mejorar los Servicios.
+Todos los derechos de propiedad intelectual en los Servicios y la tecnología subyacente son propiedad de la empresa matriz de Tramitit. Además, usted retiene todos los derechos sobre el contenido que carga o comparte a través de nuestros Servicios y otorga a la empresa matriz de Tramitit una licencia para usar este contenido según sea necesario para proporcionar y mejorar los Servicios.
 
 ### Enlaces y Servicios de Terceros
 

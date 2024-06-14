@@ -25,11 +25,9 @@ Tramitit zobowiązuje się do ochrony Twojej prywatności i przestrzegania przep
 
 - Zachowania Zabronione: Nie wolno Ci angażować się w działalność nielegalną, naruszać praw własności intelektualnej ani przesyłać szkodliwych lub wzbudzających sprzeciw treści, takich jak mowa nienawiści, nękanie, treści eksplorujące, czy jakiekolwiek treści promujące przemoc lub dyskryminację, za pośrednictwem naszych Usług.
 
-- Polityka Uprawnego Korzystania: Aby zapewnić sprawiedliwy dostęp i utrzymać wysoką jakość usług, Tramitit stosuje politykę uprawnionego korzystania. Każde konto może przetwarzać maksymalnie 300 e-maili dziennie. Ta zasada ma na celu zapobieganie nadużyciom i zapewnienie optymalnej wydajności usługi dla wszystkich użytkowników. Jeśli zostanie przekroczony ten limit, Tramitit zastrzega sobie prawo do tymczasowego zawieszenia możliwości przetwarzania e-maili do końca dnia. Usługa automatycznie zostanie wznowiona na początku kolejnego dnia. Polityka ta ma na celu ochronę integralności naszych usług i doświadczenia naszych użytkowników.
-
 ### Prawa Własności Intelektualnej
 
-Wszelkie prawa własności intelektualnej w Usługach i technologii podstawowej są własnością Riddance Technologies, Sociedad Limitada. Ponadto zachowujesz wszelkie prawa do treści, które przesyłasz lub udostępniasz za pośrednictwem naszych Usług i udzielasz Riddance Technologies, Sociedad Limitada licencję do korzystania z tych treści w miarę konieczności zapewnienia i poprawy Usług.
+Wszelkie prawa własności intelektualnej do Usług i podstawowej technologii należą do spółki macierzystej Tramitit. Ponadto zachowujesz wszelkie prawa do treści, które przesyłasz lub udostępniasz za pośrednictwem naszych Usług i udzielasz spółce macierzystej Tramitit licencji na korzystanie z tych treści w zakresie niezbędnym do świadczenia i ulepszania Usług.
 
 ### Linki i Usługi Osób Trzecich
 
