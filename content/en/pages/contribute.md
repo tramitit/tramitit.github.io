@@ -11,6 +11,9 @@ Tramitit is from you to you. Contributing enables giving back the value you got 
 
 Tramitit is ultimately yours. We created it because we felt the pain you felt.
 
+The content of Tramitit guides are hosted on [Github](https://github.com/tramitit/guides) and licensed under a permissible
+open-source license, [CC-BY-SA](4.0https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## How to contribute
 
 Start by identifying the article you wish to edit, and click the `Edit on GitHub` button.

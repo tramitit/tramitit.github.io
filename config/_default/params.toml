@@ -22,7 +22,7 @@ mainSections = ["guides"]
 # contact form action
 contact_form_action = "https://airform.io/hey@tramitit.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 # copyright
-copyright = "Copyright © 2024 Tramitit. All rights reserved. Guides information CC-SA-4.0."
+copyright = "Copyright © 2024 Tramitit. All rights reserved. Guides information CC BY-SA 4.0."
 # github repo where guides are stored, pointing to edit code on main branch
 guides_github_repo = "https://github.com/tramitit/guides/edit/main/"
 
