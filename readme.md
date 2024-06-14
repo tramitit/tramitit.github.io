@@ -1,4 +1,17 @@
-Based on https://github.com/zeon-studio/hugoplate
+# Tramitit website
+
+
+## Say no to bureaucracy
+
+Tramitit provides the information you need to navigate governmental procedures quickly.
+The community provides detailed walkthroughs on every possible bureaucratic process you might go through.
+
+
+### The repository
+
+This is the source code for our website hosted at [tramitit.com](https://tramitit.com).
+If you're looking for the source of the guides visit the repository [tramitit/guides](https://github.com/tramitit/guides) instead.
+
 
 ### ⚙️ Prerequisites
 
@@ -36,29 +49,10 @@ This removes certain development enabled features such as the upper left-hand co
 
 ---
 
-## 📝 Customization and adding content
-
-This template has been designed with a lot of customization options in mind. You can customize almost anything you want, including:
-
-### 👉 Site Config
-
-You can change the site title, base URL, language, theme, plugins, and more from the `hugo.toml` file.
-
-### 👉 Site Params
-
-You can customize all the parameters from the `config/_default/params.toml` file. This includes the logo, favicon, search, SEO metadata, and more.
-
-### 👉 Colors and Fonts
-
-You can change the colors and fonts from the `data/theme.json` file. This includes the primary color, secondary color, font family, and font size.
-
-### 👉 Social Links
-
-You can change the social links from the `data/social.json` file. Add your social links here, and they will automatically be displayed on the site.
-
 ### Content
 
-Content is added in `content/english`, where each subdirectory therein corresponds to a page.
+Content is added in `content/<language>/`, where each subdirectory therein corresponds to a page.
+Note that the Tramitit guides are in [a different repository](https://github.com/tramitit/guides).
 
 ---
 
@@ -101,6 +95,7 @@ There is also the `config/_default` directory that contains things like google a
 
 ### 📝 License
 
+Copyright (c) 2024 - Present, Designed & Developed by [Tramitit](https://tramitit.com)
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
 **Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
