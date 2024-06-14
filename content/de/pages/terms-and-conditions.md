@@ -25,11 +25,9 @@ Tramitit verpflichtet sich, Ihre Privatsphäre zu schützen und die Datenschutzb
 
 - Verbotenes Verhalten: Sie dürfen keine illegalen Aktivitäten ausüben, geistige Eigentumsrechte verletzen oder schädliche oder anstößige Inhalte über unsere Dienste übertragen, wie Hassrede, Belästigung, explizites Material oder Inhalte, die Gewalt oder Diskriminierung fördern.
 
-- Fair-Use-Richtlinie: Um einen fairen Zugang sicherzustellen und die Servicequalität aufrechtzuerhalten, wendet Tramitit eine Fair-Use-Richtlinie an. Jedes Konto darf täglich maximal 300 E-Mails verarbeiten. Diese Maßnahme dient dazu, Missbrauch zu verhindern und eine optimale Leistung für alle Benutzer sicherzustellen. Sollte dieses Limit überschritten werden, behält sich Tramitit das Recht vor, die E-Mail-Verarbeitungsfähigkeiten für den Rest des Tages vorübergehend auszusetzen. Der Service wird automatisch am nächsten Tag wieder aufgenommen. Diese Richtlinie soll die Integrität unserer Dienste und das Erlebnis unserer Benutzer schützen.
-
 ### Geistige Eigentumsrechte
 
-Alle geistigen Eigentumsrechte an den Diensten und der zugrunde liegenden Technologie gehören Riddance Technologies, Sociedad Limitada. Darüber hinaus behalten Sie alle Rechte an den Inhalten, die Sie über unsere Dienste hochladen oder teilen, und gewähren Riddance Technologies, Sociedad Limitada eine Lizenz, diese Inhalte zur Bereitstellung und Verbesserung der Dienste zu nutzen.
+Alle geistigen Eigentumsrechte an den Dienstleistungen und der zugrunde liegenden Technologie liegen bei der Muttergesellschaft von Tramitit. Darüber hinaus behalten Sie alle Rechte an den Inhalten, die Sie über unsere Dienstleistungen hochladen oder teilen, und gewähren der Muttergesellschaft von Tramitit eine Lizenz zur Nutzung dieser Inhalte, soweit dies zur Bereitstellung und Verbesserung der Dienstleistungen erforderlich ist.
 
 ### Links und Dienste von Drittanbietern
 

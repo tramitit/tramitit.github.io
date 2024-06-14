@@ -25,11 +25,9 @@ Tramitit se angajează să protejeze confidențialitatea dumneavoastră și să 
 
 - Conduită Interzisă: Nu trebuie să participați la activități ilegale, să încălcați drepturile de proprietate intelectuală sau să transmiteți conținut dăunător sau jignitor, cum ar fi discursul de ură, hărțuirea, materialul explicit sau orice conținut care promovează violența sau discriminarea, prin intermediul Serviciilor noastre.
 
-- Politică de Utilizare Corectă: Pentru a asigura accesul echitabil și a menține calitatea serviciului, Tramitit aplică o politică de utilizare corectă. Fiecare cont este permis să proceseze un maxim de 300 de e-mailuri zilnic. Această măsură este în vigoare pentru a preveni abuzul și a asigura performanța optimă a serviciului pentru toți utilizatorii. În cazul depășirii acestei limite, Tramitit își rezervă dreptul de a suspenda temporar capacitățile de procesare a e-mailurilor pentru restul zilei. Serviciul va reveni automat la începutul zilei următoare. Această politică este concepută pentru a proteja integritatea serviciilor noastre și experiența utilizatorilor noștri.
-
 ### Drepturi de Proprietate Intelectuală
 
-Toate drepturile de proprietate intelectuală asupra Serviciilor și tehnologiei subiacente sunt deținute de Riddance Technologies, Sociedad Limitada. În plus, păstrați toate drepturile asupra conținutului pe care îl încărcați sau îl partajați prin Serviciile noastre și acordați Riddance Technologies, Sociedad Limitada o licență de utilizare a acestui conținut în măsura în care este necesar pentru a furniza și îmbunătăți Serviciile.
+Toate drepturile de proprietate intelectuală asupra Serviciilor și tehnologiei subiacente sunt deținute de compania mamă a Tramitit. În plus, păstrați toate drepturile asupra conținutului pe care îl încărcați sau îl partajați prin intermediul Serviciilor noastre și acordați companiei mamă a Tramitit o licență pentru a utiliza acest conținut, după cum este necesar, pentru a furniza și îmbunătăți Serviciile.
 
 ### Link-uri și Servicii de la Terți
 

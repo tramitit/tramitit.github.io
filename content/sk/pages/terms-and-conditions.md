@@ -25,11 +25,9 @@ Tramitit sa zaväzuje chrániť vaše súkromie a dodržiavať právne predpisy 
 
 - Zakázané správanie: Nesmiete sa zaoberať nelegálnymi aktivitami, porušovať práva duševného vlastníctva alebo posielať škodlivý alebo neprípustný obsah, ako sú nenávistné prejavy, obtláčanie, explicitný materiál alebo akýkoľvek obsah, ktorý propaguje násilie alebo diskrimináciu, prostredníctvom našich služieb.
 
-- Politika spravodlivej spotreby: Na zabezpečenie rovnakého prístupu a udržanie kvality služieb Tramitit uplatňuje politiku spravodlivej spotreby. Každý účet má povolené spracovať maximálne 300 e-mailov denne. Toto opatrenie existuje na zabránenie zneužívaniu a zabezpečenie optimálneho výkonu služieb pre všetkých používateľov. Ak sa tento limit prekročí, Tramitit si vyhradzuje právo dočasne pozastaviť možnosti spracovania e-mailov po celý zvyšok dňa. Služba sa automaticky obnoví na začiatku ďalšieho dňa. Táto politika je navrhnutá na ochranu integrity našich služieb a skúseností našich používateľov.
-
 ### Práva duševného vlastníctva
 
-Všetky práva duševného vlastníctva v službách a podliehajúcej technológii sú vlastnené spoločnosťou Riddance Technologies, Sociedad Limitada. Okrem toho si zachovávate všetky práva ku obsahu, ktorý nahrávate alebo zdieľate prostredníctvom našich služieb, a udeľujete spoločnosti Riddance Technologies, Sociedad Limitada licenciu na použitie tohto obsahu ako je potrebné na poskytovanie a zlepšovanie služieb.
+Všetky práva duševného vlastníctva na Služby a základnú technológiu vlastní materská spoločnosť Tramitit. Okrem toho si ponechávate všetky práva na obsah, ktorý nahrávate alebo zdieľate prostredníctvom našich Služieb, a udeľujete materskej spoločnosti Tramitit licenciu na používanie tohto obsahu podľa potreby na poskytovanie a zlepšovanie Služieb.
 
 ### Odkazy a služby tretích strán
 

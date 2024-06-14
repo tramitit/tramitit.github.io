@@ -25,11 +25,9 @@ Tramitit is committed to protecting your privacy and adhering to data protection
 
 - Prohibited Conduct: You must not engage in illegal activities, infringe upon intellectual property rights, or transmit harmful or objectionable content, such as hate speech, harassment, explicit material, or any content promoting violence or discrimination, through our Services.
 
-- Fair Usage Policy: To ensure equitable access and maintain service quality, Tramitit applies a fair usage policy. Each account is permitted to process a maximum of 300 emails daily. This measure is in place to prevent abuse and ensure optimal service performance for all users. Should this limit be exceeded, Tramitit reserves the right to temporarily suspend email processing capabilities for the remainder of the day. Service will automatically resume at the beginning of the next day. This policy is designed to protect the integrity of our services and the experience of our users.
-
 ### Intellectual Property Rights
 
-All intellectual property rights in the Services and the underlying technology are owned by Riddance Technologies, Sociedad Limitada. Additionally, you retain all rights to the content you upload or share through our Services and grant Riddance Technologies, Sociedad Limitada a license to use this content as necessary to provide and improve the Services.
+All intellectual property rights in the Services and the underlying technology are owned by the parent company of Tramitit. Additionally, you retain all rights to the content you upload or share through our Services and grant the parent company of Tramitit a license to use this content as necessary to provide and improve the Services.
 
 ### Third-Party Links and Services
 

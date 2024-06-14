@@ -25,11 +25,9 @@ A Tramitit elkötelezett a személyes adatok védelme és az adatvédelmi szabá
 
 - Tilos magatartás: Nem szabad törvénybe ütköző tevékenységet végeznie, szellemi tulajdonjogokat megsértenie, vagy káros vagy vitatható tartalmat továbbítania, mint például gyűlöletbeszéd, zaklatás, nyílt anyagok vagy bármilyen erőszakot vagy megkülönböztetést népszerűsítő tartalom, a szolgáltatásaink révén.
 
-- Tisztességes használati irányelv: Az esélyegyenlőség biztosítása és a szolgáltatás minőségének fenntartása érdekében a Tramitit alkalmaz egy tisztességes használati irányelvet. Minden fiók naponta legfeljebb 300 e-mailt dolgozhat fel. Ez a intézkedés azért van, hogy megakadályozza az abúzust és biztosítsa a optimális szolgáltatási teljesítményt minden felhasználó számára. Ha ez a korlát túllépődik, a Tramitit fenntartja magának a jogot, hogy ideiglenesen felfüggeszti az e-mail-feldolgozási képességeket a nap maradék részére. A szolgáltatás automatikusan újraindul a következő nap kezdetén. Ez az irányelv a szolgáltatásaink integritásának és a felhasználóink élményének védelmére szolgál.
-
 ### Szellemi tulajdonjogok
 
-A szolgáltatásokhoz és az alapvető technológiához tartozó összes szellemi tulajdonjogot a Riddance Technologies, Sociedad Limitada birtokol. Emellett Ön megőrzi azokat a jogait, amelyek a szolgáltatásaink révén feltöltött vagy megosztott tartalomhoz kapcsolódnak, és a Riddance Technologies, Sociedad Limitada engedélyt kap ennek a tartalomnak a felhasználására szükséges mértékben a szolgáltatások nyújtása és javítása érdekében.
+A Szolgáltatások és az alapul szolgáló technológia szellemi tulajdonjogai a Tramitit anyavállalatának tulajdonát képezik. Ezen túlmenően Ön megtartja minden jogát a tartalmakra, amelyeket feltölt vagy megoszt a Szolgáltatásokon keresztül, és engedélyt ad a Tramitit anyavállalatának, hogy ezt a tartalmat használja, amennyiben szükséges a Szolgáltatások nyújtásához és javításához.
 
 ### Harmadik fél hivatkozások és szolgáltatások
 

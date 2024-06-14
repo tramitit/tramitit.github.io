@@ -25,11 +25,9 @@ Tramitit s'engage à protéger votre vie privée et à respecter les réglementa
 
 - Comportement Interdit : Vous ne devez pas vous livrer à des activités illégales, violer les droits de propriété intellectuelle, ni transmettre de contenu nocif ou objetionable, tel que des discours de haine, du harcèlement, du matériel explicite, ou tout contenu promouvant la violence ou la discrimination, via nos services.
 
-- Politique d'Utilisation Équitable : Pour garantir un accès équitable et maintenir la qualité du service, Tramitit applique une politique d'utilisation équitable. Chaque compte est autorisé à traiter un maximum de 300 e-mails par jour. Cette mesure est en place pour prévenir les abus et garantir des performances optimales pour tous les utilisateurs. Si cette limite est dépassée, Tramitit se réserve le droit de suspendre temporairement la capacité de traitement des e-mails pour le reste de la journée. Le service reprendra automatiquement le lendemain. Cette politique vise à protéger l'intégrité de nos services et l'expérience de nos utilisateurs.
-
 ### Droits de Propriété Intellectuelle
 
-Tous les droits de propriété intellectuelle sur les services et la technologie sous-jacente sont détenus par Riddance Technologies, Sociedad Limitada. De plus, vous conservez tous les droits sur le contenu que vous téléchargez ou partagez via nos services et accordez à Riddance Technologies, Sociedad Limitada une licence pour utiliser ce contenu comme nécessaire pour fournir et améliorer les services.
+Tous les droits de propriété intellectuelle sur les Services et la technologie sous-jacente appartiennent à la société mère de Tramitit. De plus, vous conservez tous les droits sur le contenu que vous téléchargez ou partagez via nos Services et accordez à la société mère de Tramitit une licence pour utiliser ce contenu si nécessaire pour fournir et améliorer les Services.
 
 ### Liens et Services Tiers
 
