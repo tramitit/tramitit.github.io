@@ -5,6 +5,7 @@
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 {{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
+{{ $translationKey := .Params.translationKey }}
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">

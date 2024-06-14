@@ -1,10 +1,6 @@
 [hugoVersion]
 extended = true
 min = "0.124.1"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/search"
-
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/pwa"
 
