@@ -1,0 +1,28 @@
+{{- $allSections := slice -}}
+{{- range site.Home.Sections -}}
+  {{- $allSections = $allSections | append .Section -}}
+{{- end -}}
+
+{{- $include_all_sections := site.Params.search.include_all_sections -}}
+
+{{- $search_sections := $allSections -}}
+{{- if not $include_all_sections -}}
+{{- $search_sections = site.Params.search.include_sections | default site.Params.mainSections -}}
+{{- end -}}
+
+
+{{- $totalPagesLength := len (where site.RegularPages "Section" "in" $search_sections) -}}
+
+[{{- range $i, $e := (where site.RegularPages "Section" "in" $search_sections) -}}
+{{- if not .Params.ignoreSearch -}}
+
+{{- end -}}
+
+{
+  "section": "{{.Section | humanize}}",
+  "slug": "{{- .RelPermalink -}}",
+  "title": "{{- htmlEscape .Title -}}",
+  "translationKey": "{{.Params.translationKey}}",
+}{{- if ne $i (sub $totalPagesLength 1) -}},{{- end -}}
+
+{{- end -}}]

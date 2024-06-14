@@ -5,7 +5,25 @@
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 {{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
+
+<!-- Need to check if we're inside the guides or categories o/w doesnt make sense -->
+<!-- Not right approach as searchindex built per language -->
 {{ $translationKey := .Params.translationKey }}
+{{ $data := dict }}
+{{ $path := "translationindex.json" }}
+{{ with .Resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+    {{ errorf $data}}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get page resource %q" $path }}
+{{ end }}
+{{ errorf "this worked"}}
+{{ range where $data "author" "Victor Hugo" }}
+  {{ .title }} → Les Misérables
+{{ end }}
+
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">
