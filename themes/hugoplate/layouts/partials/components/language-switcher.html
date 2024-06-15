@@ -8,26 +8,18 @@
 
 <!-- Need to check if we're inside the guides or categories o/w doesnt make sense -->
 <!-- Not right approach as searchindex built per language -->
-{{ $translationKey := .Params.translationKey }}
-{{ $data := dict }}
-{{ $path := "translationindex.json" }}
-{{ with .Resources.Get $path }}
-  {{ with . | transform.Unmarshal }}
-    {{ $data = . }}
-    {{ errorf $data}}
-  {{ end }}
-{{ else }}
-  {{ errorf "Unable to get page resource %q" $path }}
+{{ range site.Data.translations.translationKey }} <!-- loop over translation keys -->
+{{ range . }} <!-- loop over languages -->
+{{ range . }} <!-- loop over the dict with the entry -->
+{{ errorf . }}
 {{ end }}
-{{ errorf "this worked"}}
-{{ range where $data "author" "Victor Hugo" }}
-  {{ .title }} → Les Misérables
 {{ end }}
-
+{{ end }}
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">
     {{ range $siteLanguages }}
+    {{errorf .Language }}
       {{ if eq (string $pageLang) (string .Language) }}
         <option
           id="{{ .Language }}"

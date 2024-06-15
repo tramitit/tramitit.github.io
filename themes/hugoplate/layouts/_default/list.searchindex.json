@@ -41,7 +41,6 @@
   "searchKeyword": "{{- htmlEscape .Params.search_keyword -}}",
   "categories": "{{- if .Params.categories -}}{{- delimit .Params.categories `, ` -}}{{- end -}}",
   "tags": "{{- if .Params.tags -}}{{- delimit .Params.tags `, ` -}}{{- end -}}",
-  "translationKey": "{{.Params.translationKey}}",
   "content": {{- $e.Plain | jsonify -}}
 }{{- if ne $i (sub $totalPagesLength 1) -}},{{- end -}}
 
