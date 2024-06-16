@@ -10,10 +10,12 @@
   <select class="{{ $class }}" onchange="location = this.value">
     {{ with .Params.translationKey }}
       {{ $translationKey := .Params.translationKey }}
+      {{ errorf (printf "translationKey:" )}}
       {{ errorf (string $translationKey) }}
       {{ range site.Data.translations.translationKey }} <!-- loop over translation keys -->
       {{ if eq (string $translationKey ) (string .translationKey )}}
       {{ errorf (string .translationKey) }}
+      {{ errorf (printf "range translationKey") }}
       {{ range . }} <!-- loop over languages in that translation key -->
         {{ if eq (string $pageLang) (string .Language) }}
           <option
@@ -34,6 +36,7 @@
       {{ end }} <!-- end range translationKey -->
     {{ else }} <!-- tranlsation key empty -->
       {{ if eq (string $pageLang) (string .Language) }}
+        {{ errorf (printf "In the first one") }}
         <option
           id="{{ .Language }}"
           value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}"
@@ -41,11 +44,16 @@
           {{ .Language.LanguageName }}
         </option>
       {{ else }}
-        <option
+        {{ errorf (string .RelPermalink) }}
+        {{ errorf (printf "hola") }}
+        {{ errorf $pageLink }}
+        {{ errorf (printf "asldkfjsf") }}
+        <option>
           id="{{ .Language }}"
           value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}"> <!--  execute of template failed at <add .RelPermalink $pageLink>: error calling add: can’t apply the operator to the values -->
           {{ .Language.LanguageName }}
         </option>
+        {{ errorf (printf "finished") }}
       {{ end }} <!-- end if else -->
     {{ end }} <!-- end with else -->
   </select>
