@@ -42,5 +42,5 @@ Finally, click on the big green button `Create pull request` and you are ready t
 
 ## What next?
 
-Our team of experts will review the content and, if it is approved, it will be added to the document. You will also go to our wall of [Contributors](/authors). Thank you for contributing to Tramitit!
+Our team of experts will review the content and, if it is approved, it will be added to the document. You will also go to our wall of [Contributors](/authors/). Thank you for contributing to Tramitit!
 
