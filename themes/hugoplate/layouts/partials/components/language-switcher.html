@@ -1,16 +1,18 @@
 <!-- Language List -->
 {{ $class := .Class }}
 {{ $context := .Context }}
-<!-- Current document -->
 {{ $pageLang := $context.Lang }}
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
-
+{{ $Site:= .Site }}
 {{ $lang_str:= (add "/" (add $pageLang "/")) }}
 {{ $pageLink := replace (replace $context.RelPermalink $lang_str "/" 1) $base.Path "/" }}
 {{ $is_guide:= and (strings.Contains $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
+{{ $is_categories:= strings.Contains $pageLink "/categories/" }}
+{{ $Page:= .}}
+{{ errorf (string $siteLanguages) }}
+{{ errorf (string .Translations) }}
 
-<!-- current issue, each language is repeated twice -->
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">
@@ -18,7 +20,7 @@
       {{ $Language:= .Language }}
       {{ $RelPermalink:= .RelPermalink }}
       {{ if $is_guide }}
-        <!-- No need to remap non-guide pages -->
+        <!-- Can't remap non-guide pages -->
         {{ $translationKey := $context.Params.translationKey }}
         {{ with $translationKey }}
           {{ $docs:= index site.Data.translations.translationKey $translationKey }}
@@ -36,29 +38,60 @@
                 {{ $Language.LanguageName }}
               </option>
             {{ end }}
-            {{ else }}
+          {{ else }}
+            <!-- show all languages supported, but not selectable -->
             <option id="{{ $Language }}" value="" disabled>
               {{ $Language.LanguageName }}
             </option>
           {{ end }}
         {{ end }}
-      {{ else }} <!-- TODO: check if categories and sort translations -->
-        {{ if eq (string $pageLang) (string $Language) }}
-          <option
-            id="{{ $Language }}"
-            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
-            selected>
-            {{ .Language.LanguageName }}
-          </option>
+      {{ else }}
+        {{ if $is_categories }}
+          {{ if eq (string $pageLang) (string $Language) }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+              selected>
+              {{ .Language.LanguageName }}
+            </option>
+          {{ else }}
+            {{ $page:= $AllSites.GetPage (replace (add $RelPermalink $pageLink) `//` `/`) }}
+            {{ errorf (replace (add $RelPermalink $pageLink) `//` `/`) }}
+            {{ errorf (string $Page.Translations) }}
+            {{ errorf (add (add (string $pageLink) (string $page)) (string $Language)) }}
+            {{ with $page }}
+              <option
+                id="{{ $Language }}"
+                value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+                {{ .Language.LanguageName }}
+              </option>
+            {{ else }}
+              <option
+                id="{{ $Language }}"
+                value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+                disabled>
+                {{ .Language.LanguageName }}
+              </option>
+            {{ end }}
+          {{ end }}
         {{ else }}
-          <option
-            id="{{ $Language }}"
-            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
-            {{ .Language.LanguageName }}
-          </option>
+          <!-- page where translation always exists like home or /guides -->
+          {{ if eq (string $pageLang) (string $Language) }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+              selected>
+              {{ .Language.LanguageName }}
+            </option>
+          {{ else }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+              {{ .Language.LanguageName }}
+            </option>
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}
   </select>
 {{ end }}
-<!-- end if translated -->
