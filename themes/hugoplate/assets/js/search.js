@@ -4,23 +4,23 @@ const searchModal = document.querySelector(".search-modal");
 const searchFooter = document.querySelector(".search-wrapper-footer");
 const searchResult = document.querySelectorAll("[data-search-result]");
 const searchResultItemTemplate = document.getElementById(
-  "search-result-item-template"
+  "search-result-item-template",
 );
 const hasSearchWrapper = searchWrapper != null;
 const hasSearchModal = searchModal != null;
 const searchInput = document.querySelectorAll("[data-search-input]");
 const emptySearchResult = document.querySelectorAll(".search-result-empty");
 const openSearchModal = document.querySelectorAll(
-  '[data-target="search-modal"]'
+  '[data-target="search-modal"]',
 );
 const closeSearchModal = document.querySelectorAll(
-  '[data-target="close-search-modal"]'
+  '[data-target="close-search-modal"]',
 );
 const searchIcon = document.querySelector(
-  ".search-wrapper-header label svg[data-type='search']"
+  ".search-wrapper-header label svg[data-type='search']",
 );
 const searchIconReset = document.querySelector(
-  ".search-wrapper-header label svg[data-type='reset']"
+  ".search-wrapper-header label svg[data-type='reset']",
 );
 const searchResultInfo = document.querySelector(".search-result-info");
 let searchModalVisible =
@@ -104,7 +104,7 @@ if (hasSearchWrapper) {
         "",
         `${window.location.origin}${
           window.location.pathname
-        }?s=${searchString.replace(/ /g, "+")}`
+        }?s=${searchString.replace(/ /g, "+")}`,
       );
 
       doSearch(searchString);
@@ -144,7 +144,7 @@ if (hasSearchWrapper) {
 
     let filteredJSON = includeSectionsInSearch.map((section) => {
       const data = jsonData.filter(
-        (item) => slugify(item.section) === slugify(section)
+        (item) => slugify(item.section) === slugify(section),
       );
 
       const sectionName = section.replace(/[-_]/g, " ");
@@ -242,7 +242,7 @@ if (hasSearchWrapper) {
 
           return matchedContent.replace(
             regex,
-            (match) => lastWord + `<mark>${match}</mark>`
+            (match) => lastWord + `<mark>${match}</mark>`,
           );
         }
 
@@ -262,7 +262,7 @@ if (hasSearchWrapper) {
           (categories === "true"
             ? d.categories?.toLowerCase().includes(searchString)
             : "") ||
-          d.content.toLowerCase().includes(searchString)
+          d.content.toLowerCase().includes(searchString),
       );
 
       // pull template from hugo template definition
@@ -328,7 +328,7 @@ if (hasSearchWrapper) {
           (categories === "true"
             ? d.categories?.toLowerCase().includes(searchString)
             : "") ||
-          d.content.toLowerCase().includes(searchString)
+          d.content.toLowerCase().includes(searchString),
       );
 
       return totalLength + filteredItems.length;
@@ -438,7 +438,7 @@ const resetSearch = () => {
     window.history.pushState(
       "",
       document.title,
-      window.location.pathname + window.location.hash
+      window.location.pathname + window.location.hash,
     );
   }
 };
@@ -462,7 +462,7 @@ const showModal = () => {
   searchModal.classList.add("show");
   window.setTimeout(
     () => document.querySelector("[data-search-input]").focus(),
-    100
+    100,
   );
   if (hasSearchModal) {
     disableBodyScroll();

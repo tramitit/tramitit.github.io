@@ -1,17 +1,14 @@
 # Tramitit website
 
-
 ## Say no to bureaucracy
 
 Tramitit provides the information you need to navigate governmental procedures quickly.
 The community provides detailed walkthroughs on every possible bureaucratic process you might go through.
 
-
 ### The repository
 
 This is the source code for our website hosted at [tramitit.com](https://tramitit.com).
 If you're looking for the source of the guides visit the repository [tramitit/guides](https://github.com/tramitit/guides) instead.
-
 
 ### ⚙️ Prerequisites
 

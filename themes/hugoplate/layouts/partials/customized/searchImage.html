@@ -73,7 +73,7 @@
     {{ if or (eq $imageExt `.gif`) (eq $imageExt `.svg`) }}
       <img
         src="{{ $image.RelPermalink }}"
-        loading="{{$loading}}"
+        loading="{{ $loading }}"
         decoding="async"
         alt="{{ .Alt }}"
         class="{{ $class }} img"
@@ -121,7 +121,8 @@
             src="data:image/jpeg;base64,{{ $placeholderImage.Content | base64Encode }}"
             data-src={{ $imageWebp.RelPermalink }}
           {{ else }}
-            src="{{ $imageWebp.RelPermalink }}" loading="{{$loading}}" decoding="async"
+            src="{{ $imageWebp.RelPermalink }}" loading="{{ $loading }}"
+            decoding="async"
           {{ end }}
 
           alt="{{ .Alt }}"
@@ -138,7 +139,8 @@
             {{- $imageWebp.Height -}}
           {{- end -}}
           "
-          onerror="this.onerror='null';this.src='{{ $imageFallback.RelPermalink }}';" />
+          onerror="this.onerror='null';this.src='{{ $imageFallback.RelPermalink }}
+          ';" />
 
         <!-- if image size less then 500x and size not defined -->
       {{ else if or (lt ($image.Width) 500) (not $resize) }}
@@ -178,8 +180,8 @@
             src="data:image/jpeg;base64,{{ $placeholderImage.Content | base64Encode }}"
             data-src={{ $imageWebp.RelPermalink }} alt="placeholder"
           {{ else }}
-            src="{{ $imageWebp.RelPermalink }}" loading="{{$loading}}" decoding="async"
-            alt="{{ .Alt }}"
+            src="{{ $imageWebp.RelPermalink }}" loading="{{ $loading }}"
+            decoding="async" alt="{{ .Alt }}"
           {{ end }}
 
           class="{{ if $placeholder }}lazy{{ end }} {{ $class }} img"
@@ -254,7 +256,7 @@
               src="data:image/jpeg;base64,{{ $placeholderImage.Content | base64Encode }}"
               data-src={{ $imageFallback.RelPermalink }}
             {{ else }}
-              loading="{{$loading}}" decoding="async"
+              loading="{{ $loading }}" decoding="async"
               src="{{ $imageFallback.RelPermalink }}"
             {{ end }}class="{{ if $placeholder }}
               lazy

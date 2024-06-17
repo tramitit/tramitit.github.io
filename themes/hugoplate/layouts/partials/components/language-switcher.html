@@ -1,49 +1,56 @@
 <!-- Language List -->
 {{ $class := .Class }}
 {{ $context := .Context }}
+<!-- Current document -->
 {{ $pageLang := $context.Lang }}
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 {{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
 
-<!-- current issue, each language is reapeated multiple times -->
+
+<!-- current issue, each language is reapeated twice, homepage not working, categories polluted -->
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">
-  {{ range $siteLanguages }}
-    {{ $Language:= .Language }}
-    {{ with $context.Params.translationKey }} <!-- translation key for document -->
+    {{ range $siteLanguages }}
+      {{ $Language:= .Language }}
       {{ $translationKey := $context.Params.translationKey }}
-      {{ range site.Data.translations.translationKey }} <!-- loop over translation keys -->
-      {{ range . }} <!-- languages -->
-      {{ if eq (string $translationKey ) (string .translationKey )}} <!-- article exists in Language -->
-        {{ $slug:= .slug }}
-        {{ $lang:= .language }}
-        {{ $language_code:= index (split (string $Language.LanguageCode) "-") 1 }}
-        {{ if eq (string $lang) (string $language_code)}}
-          <option
-            id="{{ $Language }}"
-            value="{{ $slug }}"
-            selected>
-            {{ $Language.LanguageName }}
-          </option>
+      <!-- translation key for document -->
+      {{ with $translationKey }}
+        {{ $docs:= index site.Data.translations.translationKey $translationKey }}
+        <!-- look up translation keys -->
+        {{ range $docs }}
+          <!-- languages -->
+          {{ if eq (string $translationKey ) (string .translationKey ) }}
+            <!-- article exists in Language -->
+            {{ $slug:= .slug }}
+            {{ $lang:= .language }}
+            {{ $language_code:= index (split (string $Language.LanguageCode) "-") 1 }}
+            <!-- convert e.g. en-us -> en -->
+            {{ if eq (string $lang) (string $language_code) }}
+              <option id="{{ $Language }}" value="{{ $slug }}" selected>
+                {{ $Language.LanguageName }}
+              </option>
+            {{ else }}
+              <option id="{{ $Language }}" value="{{ $slug }}">
+                {{ $Language.LanguageName }}
+              </option>
+            {{ end }}
+            <!-- end eq language_code -->
           {{ else }}
-          <option
-            id="{{ $Language }}"
-            value="{{ $slug }}">
-            {{ $Language.LanguageName }}
-          </option>
-        {{ end }} <!-- end eq language_code -->
-      {{ else }} <!-- Article does not exist in language -->
-        <option
-        id="{{ $Language }}"
-        value="{{ .RelPermaLink }}"> <!-- probably wrong, should be in different context -->
-        {{ $Language.LanguageName }}
-        </option>
-      {{ end }} <!-- end eq pageLang language -->
-      {{ end }} <!-- end range . -->
-      {{ end }} <!-- end range translationKey -->
-    {{ else }} <!-- tranlsation key empty -->
+            <!-- Article does not exist in language -->
+            <option id="{{ $Language }}" value="{{ .RelPermaLink }}" , disabled>
+              <!-- probably wrong, should be in different context -->
+              {{ $Language.LanguageName }}
+            </option>
+          {{ end }}
+          <!-- end eq pageLang language -->
+        {{ end }}
+        <!-- end range . -->
+      {{ else }}
+        <!-- tranlsation key empty -->
+        {{ errorf (printf "Reached") }}
+        {{ errorf $pageLink }}
         {{ if eq (string $pageLang) (string $Language) }}
           <option
             id="{{ $Language }}"
@@ -58,7 +65,9 @@
             {{ $Language.LanguageName }}
           </option>
         {{ end }}
-    {{ end }} <!-- end with else -->
+      {{ end }}
+      <!-- end with else -->
     {{ end }}
   </select>
-{{ end }} <!-- end if translated -->
+{{ end }}
+<!-- end if translated -->

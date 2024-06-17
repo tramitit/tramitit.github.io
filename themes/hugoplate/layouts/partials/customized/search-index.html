@@ -7,7 +7,7 @@
 {{- $search_sections := $allSections -}}
 
 {{- if not $include_all_sections -}}
-{{- $search_sections = site.Params.search.include_sections | default site.Params.mainSections -}}
+  {{- $search_sections = site.Params.search.include_sections | default site.Params.mainSections -}}
 {{- end -}}
 <!-- search index -->
 <script>
