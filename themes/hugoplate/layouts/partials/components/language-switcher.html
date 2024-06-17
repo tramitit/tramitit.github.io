@@ -22,7 +22,7 @@
         {{ $translationKey := $context.Params.translationKey }}
         {{ with $translationKey }}
           {{ $docs:= index site.Data.translations.translationKey $translationKey }}
-          {{ $language_code:= index (split (string $Language.LanguageCode) "-") 1 }}
+          {{ $language_code:= index (split (string $Language.LanguageCode) "-") 0 }}
           <!-- convert e.g. en-us -> en -->
           {{ $entry:= index $docs $language_code }}
           {{ if eq (string $translationKey ) (string $entry.translationKey ) }}
@@ -36,6 +36,10 @@
                 {{ $Language.LanguageName }}
               </option>
             {{ end }}
+            {{ else }}
+            <option id="{{ $Language }}" value="" disabled>
+              {{ $Language.LanguageName }}
+            </option>
           {{ end }}
         {{ end }}
       {{ else }}
