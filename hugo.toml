@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
 ID = 'G-G6825VQMZB' # see https://gohugo.io/templates/internal/#configure-google-analytics
 
 [services.disqus]
-shortname = 'tramitit' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+shortname = ''#'tramitit' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 
 ########################## Permalinks ############################
 [permalinks.page]
