@@ -6,63 +6,53 @@
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 {{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
+<!-- above might be reason for es dissapearing? -->
 {{ $is_guide:= and (hasPrefix $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
 
 
-<!-- current issue, each language is reapeated twice, homepage not working, categories polluted -->
+<!-- current issue, each language is repeated twice -->
 
 {{ if $context.IsTranslated }}
   <select class="{{ $class }}" onchange="location = this.value">
     {{ range $siteLanguages }}
       {{ $Language:= .Language }}
+      {{ $RelPermalink:= .RelPermalink }}
       {{ if $is_guide }}
         <!-- No need to remap non-guide pages -->
         {{ $translationKey := $context.Params.translationKey }}
         {{ with $translationKey }}
           {{ $docs:= index site.Data.translations.translationKey $translationKey }}
-          <!-- look up translation keys -->
-          {{ range $docs }}
-            {{ if eq (string $translationKey ) (string .translationKey ) }}
-              <!-- article exists in Language -->
-              {{ $language_code:= index (split (string $Language.LanguageCode) "-") 1 }}
-              <!-- convert e.g. en-us -> en -->
-              {{ if eq (string .lang ) (string $language_code) }}
-                <option id="{{ $Language }}" value="{{ .slug }}" selected>
-                  {{ $Language.LanguageName }}
-                </option>
-              {{ else }}
-                <option id="{{ $Language }}" value="{{ .slug }}">
-                  {{ $Language.LanguageName }}
-                </option>
-              {{ end }}
+          {{ $language_code:= index (split (string $Language.LanguageCode) "-") 1 }}
+          <!-- convert e.g. en-us -> en -->
+          {{ $entry:= index $docs $language_code }}
+          {{ if eq (string $translationKey ) (string $entry.translationKey ) }}
+            <!-- article exists in Language -->
+            {{ if eq (string $pageLang) (string $Language) }}
+              <option id="{{ $Language }}" value="{{ $entry.slug }}" selected>
+                {{ $Language.LanguageName }}
+              </option>
             {{ else }}
-              <!-- Article does not exist in language -->
-              <option
-                id="{{ $Language }}"
-                value="{{ .RelPermaLink }}"
-                ,
-                disabled>
-                <!-- probably wrong, should be in different context -->
+              <option id="{{ $Language }}" value="{{ $entry.slug }}">
                 {{ $Language.LanguageName }}
               </option>
             {{ end }}
           {{ end }}
         {{ end }}
-        {{ else }}
-        {{ if eq (string $pageLang) (string .Language) }}
-        <option
-          id="{{ .Language }}"
-          value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}"
-          selected>
-          {{ .Language.LanguageName }}
-        </option>
       {{ else }}
-        <option
-          id="{{ .Language }}"
-          value="{{ replace (add .RelPermalink $pageLink) `//` `/` }}">
-          {{ .Language.LanguageName }}
-        </option>
-      {{ end }}
+        {{ if eq (string $pageLang) (string $Language) }}
+          <option
+            id="{{ .Language }}"
+            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+            selected>
+            {{ .Language.LanguageName }}
+          </option>
+        {{ else }}
+          <option
+            id="{{ .Language }}"
+            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+            {{ .Language.LanguageName }}
+          </option>
+        {{ end }}
       {{ end }}
     {{ end }}
   </select>
