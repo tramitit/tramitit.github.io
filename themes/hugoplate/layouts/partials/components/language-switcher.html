@@ -6,21 +6,11 @@
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 
-{{ $pageLink:="" }}
-{{ if (eq (string $pageLang) "es") }}
-  {{ $pageLink := add "es/" $context.RelPermalink }}
-{{ else }}
-  {{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
-{{ end }}
+{{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
 
-{{ $is_guide:= and (hasPrefix $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
 
-{{ if (eq (string $pageLang) "es") }}
-  {{ errorf $pageLink }}
-  {{ errorf $context.RelPermalink }}
-  {{ errorf $base.Path }}
-  {{ errorf $pageLang }}
-{{ end }}
+{{ $is_guide:= and (strings.Contains $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
+
 
 
 <!-- current issue, each language is repeated twice -->
