@@ -6,12 +6,9 @@
 {{ $base:= urls.Parse site.Home.Permalink }}
 {{ $siteLanguages := site.Home.AllTranslations }}
 
-{{ $pageLink := replace (replace $context.RelPermalink (add $pageLang "/") "") $base.Path "/" }}
-
-
+{{ $lang_str:= (add "/" (add $pageLang "/")) }}
+{{ $pageLink := replace (replace $context.RelPermalink $lang_str "/" 1) $base.Path "/" }}
 {{ $is_guide:= and (strings.Contains $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
-
-
 
 <!-- current issue, each language is repeated twice -->
 
