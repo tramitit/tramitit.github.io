@@ -1,0 +1,14 @@
+{{- $search_sections := printf "guides" -}}
+
+{{- $totalPagesLength := len (where site.RegularPages "Section" "in" $search_sections) -}}
+
+[{{- range $i, $e := (where site.RegularPages "Section" "in" $search_sections) -}}
+{
+  "slug": "{{- .RelPermalink -}}",
+  "title": "{{- htmlEscape .Title -}}",
+  "language": "{{- .Language -}}",
+  "translationKey": "{{.Params.translationKey}}"
+}{{- if ne $i (sub $totalPagesLength 1) -}},
+{{- end -}}
+
+{{- end -}}]

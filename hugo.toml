@@ -72,7 +72,7 @@ target = '$1'
 
 ############################# Outputs ############################
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+home = ["HTML", "RSS", "WebAppManifest", "SearchIndex", "TranslationIndex"]
 
 ############################# Imaging ############################
 [imaging]
@@ -123,6 +123,13 @@ mediaType = "application/json"
 baseName = "searchindex"
 isPlainText = true
 notAlternative = true
+
+[outputFormats.TranslationIndex]
+mediaType = "application/json"
+baseName = "translationindex"
+isPlainText = true
+notAlternative = true
+
 
 
 ############################# Plugins ##############################

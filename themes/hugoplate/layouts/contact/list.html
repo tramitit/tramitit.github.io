@@ -9,7 +9,7 @@
           <form action="{{ site.Params.contact_form_action }}" method="POST">
             <div class="mb-6">
               <label for="name" class="form-label">
-                {{ T "full_name"}} <span class="text-red-500">*</span>
+                {{ T "full_name" }} <span class="text-red-500">*</span>
               </label>
               <input
                 id="name"
@@ -20,7 +20,7 @@
             </div>
             <div class="mb-6">
               <label for="email" class="form-label">
-                {{ T "your_email"}} <span class="text-red-500">*</span>
+                {{ T "your_email" }} <span class="text-red-500">*</span>
               </label>
               <input
                 id="email"
@@ -31,16 +31,18 @@
             </div>
             <div class="mb-6">
               <label for="message" class="form-label">
-                {{ T "anything_else"}} <span class="text-red-500">*</span>
+                {{ T "anything_else" }} <span class="text-red-500">*</span>
               </label>
               <textarea
                 id="message"
                 name="message"
                 class="form-input"
-                placeholder='{{ T "message_goes_here"}}'
+                placeholder="{{ T "message_goes_here" }}"
                 rows="8"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">{{ T "submit"}}</button>
+            <button type="submit" class="btn btn-primary">
+              {{ T "submit" }}
+            </button>
           </form>
         </div>
       </div>
