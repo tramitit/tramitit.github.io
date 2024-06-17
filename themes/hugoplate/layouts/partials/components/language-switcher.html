@@ -42,17 +42,17 @@
             </option>
           {{ end }}
         {{ end }}
-      {{ else }}
+      {{ else }} <!-- TODO: check if categories and sort translations -->
         {{ if eq (string $pageLang) (string $Language) }}
           <option
-            id="{{ .Language }}"
+            id="{{ $Language }}"
             value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
             selected>
             {{ .Language.LanguageName }}
           </option>
         {{ else }}
           <option
-            id="{{ .Language }}"
+            id="{{ $Language }}"
             value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
             {{ .Language.LanguageName }}
           </option>
