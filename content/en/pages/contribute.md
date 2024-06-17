@@ -1,5 +1,6 @@
 ---
 title: "How can you contribute to Tramitit's open-source repository"
+meta_title: "How can you contribute to Tramitit's open-source repository"
 translationKey: 'contribute'
 date: 2024-06-13
 description: "Learn how to contribute to Tramitit's open-source repository using GitHub commit and pull request mechanisms"
@@ -43,4 +44,3 @@ Finally, click on the big green button `Create pull request` and you are ready t
 ## What next?
 
 Our team of experts will review the content and, if it is approved, it will be added to the document. You will also go to our wall of [Contributors](/authors/). Thank you for contributing to Tramitit!
-
