@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "O conteúdo deste site é curado, verificado e avaliado pela comunidade."
     bulletpoints:
-      - "Pode comentar, avaliar e até editar o conteúdo"
+      - "Pode editar o conteúdo de qualquer guia"
       - "As informações são simplificadas para fácil compreensão"
     button:
       enable: true

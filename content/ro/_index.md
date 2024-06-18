@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "Conținutul de pe acest site este curatat, verificat și evaluat de comunitate."
     bulletpoints:
-      - "Puteți comenta, evalua și chiar edita conținutul"
+      - "Poți edita conținutul oricărui ghid"
       - "Informațiile sunt simplificate pentru a fi ușor de înțeles"
     button:
       enable: true

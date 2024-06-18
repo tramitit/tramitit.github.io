@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "The content on this website is curated, verified, and rated by the community."
     bulletpoints:
-      - "You can comment, rate, and even edit the content"
+      - "You can edit the content of any guide"
       - "The information is simplified for easy understanding"
     button:
       enable: true

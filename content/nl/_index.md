@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "De inhoud op deze website wordt door de gemeenschap samengesteld, gecontroleerd en beoordeeld."
     bulletpoints:
-      - "U kunt inhoud becommentariëren, beoordelen en zelfs bewerken"
+      - "Je kunt de inhoud van elke gids bewerken"
       - "De informatie is vereenvoudigd voor een gemakkelijke verstaanbaarheid"
     button:
       enable: true

@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "Sadržaj na ovoj web stranici odabire, provjerava i ocjenjuje zajednica."
     bulletpoints:
-      - "Možete komentirati, ocjenjivati, pa čak i uređivati sadržaj"
+      - "Možete urediti sadržaj bilo kojeg vodiča"
       - "Informacije su pojednostavljene za lako razumijevanje"
     button:
       enable: true

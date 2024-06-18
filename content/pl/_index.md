@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "Zawartość na tej stronie jest tworzona, weryfikowana i oceniana przez społeczność."
     bulletpoints:
-      - "Możesz komentować, oceniać, a nawet edytować treść"
+      - "Możesz edytować treść dowolnego przewodnika"
       - "Informacje są uproszczone, aby były łatwe do zrozumienia"
     button:
       enable: true

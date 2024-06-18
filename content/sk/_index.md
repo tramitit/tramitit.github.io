@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "Obsah na tejto stránke je kurátormi, overený a hodnotený komunitou."
     bulletpoints:
-      - "Môžete komentovať, hodnotiť a dokonca upravovať obsah"
+      - "Môžete upraviť obsah akéhokoľvek sprievodcu"
       - "Informácie sú zjednodušené pre jednoduché pochopenie"
     button:
       enable: true

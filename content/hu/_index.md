@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "A weboldalon található tartalmakat a közösség válogatja, ellenőrzi és értékeli."
     bulletpoints:
-      - "Hozzászólhatsz, értékelheted és akár szerkesztheted is a tartalmakat"
+      - "Bármelyik útmutató tartalmát módosíthatja"
       - "Az információk egyszerűsítve vannak a könnyebb megértés érdekében"
     button:
       enable: true
