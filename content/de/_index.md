@@ -24,7 +24,7 @@ features:
     image: "/images/disqus-screenshot.webp"
     content: "Die Inhalte auf dieser Website werden von der Gemeinschaft kuratiert, überprüft und bewertet."
     bulletpoints:
-      - "Sie können den Inhalt jedes Leitfadens bearbeiten“
+      - "Sie können den Inhalt jedes Leitfadens bearbeiten"
       - "Die Informationen sind vereinfacht, um ein leichtes Verständnis zu ermöglichen"
     button:
       enable: true
