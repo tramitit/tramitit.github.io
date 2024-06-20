@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Πείτε όχι στη γραφειοκρατία"
   content: "Το Tramitit παρέχει τις πληροφορίες που χρειάζεστε για να πλοηγηθείτε γρήγορα στις κυβερνητικές διαδικασίες. Ξεκινήστε αναζητώντας τη φόρμα που θέλετε ή περιηγηθείτε στις ενότητες μας στην κορυφή."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.el.png"
 
 # Features
 features:

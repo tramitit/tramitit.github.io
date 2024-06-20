@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Spune nu birocrației"
   content: "Tramitit vă oferă informațiile de care aveți nevoie pentru a naviga rapid prin procedurile guvernamentale. Începeți prin a căuta formularul dorit sau navigați prin secțiunile noastre de sus."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.ro.png"
 
 # Features
 features:
