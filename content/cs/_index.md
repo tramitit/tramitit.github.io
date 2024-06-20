@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Řekněte ne byrokracii"
   content: "Tramitit poskytuje informace, které potřebujete k rychlému zvládnutí vládních postupů. Začněte vyhledáním formuláře, který chcete, nebo procházením našich sekcí nahoře."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.cs.png"
 
 # Features
 features:

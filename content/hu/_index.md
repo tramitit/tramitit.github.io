@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Mondj nemet a bürokráciára"
   content: "A Tramitit megadja azokat az információkat, amelyekre szükséged van ahhoz, hogy gyorsan eligazodj a kormányzati eljárásokban. Kezdd azzal, hogy megkeresed a kívánt űrlapot, vagy böngéssz a felső szekcióink között."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.hu.png"
 
 # Features
 features:

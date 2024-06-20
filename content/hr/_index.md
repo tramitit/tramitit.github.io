@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Recite ne birokraciji"
   content: "Tramitit pruža informacije koje su vam potrebne za brzo snalaženje u državnim postupcima. Započnite pretraživanjem željenog obrasca ili pregledajte naše sekcije na vrhu."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.hr.png"
 
 # Features
 features:

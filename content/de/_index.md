@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Sagen Sie nein zur Bürokratie"
   content: "Tramitit bietet Ihnen die Informationen, die Sie benötigen, um sich schnell durch behördliche Verfahren zu navigieren. Beginnen Sie mit der Suche nach dem gewünschten Formular oder navigieren Sie durch unsere Abschnitte oben."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.de.png"
 
 # Features
 features:

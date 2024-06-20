@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Diga não à burocracia"
   content: "O Tramitit fornece as informações que precisa para navegar rapidamente pelos procedimentos governamentais. Comece por procurar o formulário desejado ou navegue pelas nossas seções no topo."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.pt.png"
 
 # Features
 features:

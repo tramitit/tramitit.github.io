@@ -5,7 +5,7 @@ translationKey: 'homepage'
 banner:
   title: "Zeg nee tegen bureaucratie"
   content: "Tramitit biedt de informatie die u nodig hebt om snel door overheidsprocedures te navigeren. Begin met het zoeken naar het gewenste formulier of navigeer door onze secties bovenaan."
-  image: "/images/problem-agitation.png"
+  image: "/images/problem-agitation.nl.png"
 
 # Features
 features:
