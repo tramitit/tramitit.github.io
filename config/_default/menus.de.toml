@@ -7,9 +7,27 @@ weight = 1
 
 [[main]]
 parent = "Länder"
+name = "Alle Länder"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Länder"
 name = "Deutschland"
 pageRef = "/categories/germany"
 weight = 1
+
+[[main]]
+parent = "Länder"
+name = "Niederlande"
+pageRef = "/categories/netherlands"
+weight = 2
+
+[[main]]
+parent = "Länder"
+name = "Österreich"
+pageRef = "/categories/austria"
+weight = 3
 
 [[main]]
 name = "Alle Anleitungen"

@@ -7,13 +7,19 @@ weight = 1
 
 [[main]]
 parent = "Pays"
+name = "Tous les pays"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Pays"
 name = "France"
 pageRef = "/categories/france"
 weight = 1
 
 [[main]]
 parent = "Pays"
-name = "Belgium"
+name = "Belgique"
 pageRef = "/categories/belgium"
 weight = 2
 
