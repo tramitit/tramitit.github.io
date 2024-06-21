@@ -12,6 +12,12 @@ pageRef = "/categories/belgium"
 weight = 1
 
 [[main]]
+parent = "Landen"
+name = "Nederland"
+pageRef = "/categories/netherlands"
+weight = 1
+
+[[main]]
 name = "Alle Gidsen"
 pageRef = "/guides"
 weight = 2
