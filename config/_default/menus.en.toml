@@ -5,6 +5,13 @@
 name = "Countries"
 weight = 1
 
+
+[[main]]
+parent = "Countries"
+name = "All countries"
+pageRef = "/categories/"
+weight = 0
+
 [[main]]
 parent = "Countries"
 name = "Austria"
