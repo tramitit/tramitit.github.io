@@ -1,0 +1,76 @@
+{
+    "portugal": {
+        "en": "en",
+        "pt": "pt"
+    },
+    "spain": {
+        "en": "en",
+        "es": "es"
+    },
+    "croatia": {
+        "en": "en",
+        "hr": "hr"
+    },
+    "poland": {
+        "en": "en",
+        "pl": "pl",
+        "hr": "hr"
+    },
+    "france": {
+        "en": "en",
+        "fr": "fr"
+    },
+    "germany": {
+        "en": "en",
+        "de": "de"
+    },
+    "romania": {
+        "en": "en",
+        "ro": "ro"
+    },
+    "austria": {
+        "en": "en",
+        "de": "de"
+    },
+    "italy": {
+        "en": "en",
+        "it": "it"
+    },
+    "greece": {
+        "en": "en",
+        "el": "el"
+    },
+    "bulgaria": {
+        "en": "en",
+        "bg": "bg"
+    },
+    "belgium": {
+        "en": "en",
+        "nl": "nl",
+        "fr": "fr"
+    },
+    "hungary": {
+        "en": "en",
+        "hu": "hu"
+    },
+    "czech republic": {
+        "en": "en",
+        "cs": "cs"
+    },
+    "slovakia": {
+        "en": "en",
+        "sk": "sk"
+    },
+    "netherlands": {
+        "en": "en",
+        "nl": "nl",
+        "de": "de",
+        "fr": "fr"
+    },
+    "uk": {
+        "pl": "pl"
+    },
+    "the netherlands": {
+        "de": "de"
+    }
+}

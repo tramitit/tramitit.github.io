@@ -9,7 +9,7 @@
 {{ $lang_str:= (add "/" (add $pageLang "/")) }}
 {{ $pageLink := replace (replace $context.RelPermalink $lang_str "/" 1) $base.Path "/" }}
 {{ $is_guide:= and (strings.Contains $pageLink "/guides/") (not (hasSuffix $pageLink "/guides/")) }}
-
+{{ $is_categories:= strings.Contains $pageLink "/categories/" }}
 <!-- current issue, each language is repeated twice -->
 
 {{ if $context.IsTranslated }}
@@ -17,8 +17,23 @@
     {{ range $siteLanguages }}
       {{ $Language:= .Language }}
       {{ $RelPermalink:= .RelPermalink }}
-      {{ if $is_guide }}
-        <!-- No need to remap non-guide pages -->
+      {{ if (and (not $is_guide) (not $is_categories)) }}
+        {{ if eq (string $pageLang) (string $Language) }}
+          <option
+            id="{{ $Language }}"
+            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+            selected>
+            {{ .Language.LanguageName }}
+          </option>
+        {{ else }}
+          <option
+            id="{{ $Language }}"
+            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+            {{ .Language.LanguageName }}
+          </option>
+        {{ end }}
+      {{ else if $is_guide }}
+        <!-- Here we only remap guide pages -->
         {{ $translationKey := $context.Params.translationKey }}
         {{ with $translationKey }}
           {{ $docs:= index site.Data.translations.translationKey $translationKey }}
@@ -36,13 +51,14 @@
                 {{ $Language.LanguageName }}
               </option>
             {{ end }}
-            {{ else }}
+          {{ else }}
             <option id="{{ $Language }}" value="" disabled>
               {{ $Language.LanguageName }}
             </option>
           {{ end }}
         {{ end }}
-      {{ else }} <!-- TODO: check if categories and sort translations -->
+      {{ else if $is_categories }}
+        {{ $categories:= ( delimit (collections.Last 1 (strings.Split $pageLink "/categories/")) "") }}
         {{ if eq (string $pageLang) (string $Language) }}
           <option
             id="{{ $Language }}"
@@ -50,12 +66,42 @@
             selected>
             {{ .Language.LanguageName }}
           </option>
+        {{ else if $categories }}
+          {{ $category:= strings.ToLower (string (replace $categories "/" "")) }}
+          {{ $langs:= index site.Data.categories $category }}
+          {{ $language_code:= index (split (string $Language.LanguageCode) "-") 0 }}
+          <!-- convert e.g. en-us -> en -->
+          {{ $lang_exists_in_lang:= index $langs $language_code }}
+          {{ if $lang_exists_in_lang }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+              {{ $Language.LanguageName }}
+            </option>
+          {{ else }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+              disabled>
+              {{ $Language.LanguageName }}
+            </option>
+          {{ end }}
         {{ else }}
-          <option
-            id="{{ $Language }}"
-            value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
-            {{ .Language.LanguageName }}
-          </option>
+          <!-- base categories page -->
+          {{ if eq (string $pageLang) (string $Language) }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}"
+              selected>
+              {{ .Language.LanguageName }}
+            </option>
+          {{ else }}
+            <option
+              id="{{ $Language }}"
+              value="{{ replace (add $RelPermalink $pageLink) `//` `/` }}">
+              {{ .Language.LanguageName }}
+            </option>
+          {{ end }}
         {{ end }}
       {{ end }}
     {{ end }}

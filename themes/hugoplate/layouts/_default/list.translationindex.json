@@ -7,6 +7,7 @@
   "slug": "{{- .RelPermalink -}}",
   "title": "{{- htmlEscape .Title -}}",
   "language": "{{- .Language -}}",
+  "categories": "{{- if .Params.categories -}}{{- delimit .Params.categories `, ` -}}{{- end -}}",
   "translationKey": "{{.Params.translationKey}}"
 }{{- if ne $i (sub $totalPagesLength 1) -}},
 {{- end -}}

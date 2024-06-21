@@ -67,39 +67,45 @@ weight = 10
 
 [[main]]
 parent = "Countries"
+name = "Netherlands"
+pageRef = "/categories/netherlands"
+weight = 11
+
+[[main]]
+parent = "Countries"
 name = "Poland"
 pageRef = "/categories/poland"
-weight = 11
+weight = 12
 
 [[main]]
 parent = "Countries"
 name = "Portugal"
 pageRef = "/categories/portugal"
-weight = 12
+weight = 13
 
 [[main]]
 parent = "Countries"
 name = "Romania"
 pageRef = "/categories/romania"
-weight = 13
+weight = 14
 
 [[main]]
 parent = "Countries"
 name = "Slovakia"
 pageRef = "/categories/slovakia"
-weight = 14
+weight = 15
 
 [[main]]
 parent = "Countries"
 name = "Spain"
 pageRef = "/categories/spain"
-weight = 15
+weight = 16
 
 [[main]]
 parent = "Countries"
 name = "Switzerland"
 pageRef = "/categories/switzerland"
-weight = 16
+weight = 17
 
 [[main]]
 name = "All Guides"
