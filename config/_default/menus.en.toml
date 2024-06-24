@@ -5,7 +5,6 @@
 name = "Countries"
 weight = 1
 
-
 [[main]]
 parent = "Countries"
 name = "All countries"
@@ -14,105 +13,159 @@ weight = 0
 
 [[main]]
 parent = "Countries"
+name = "Argentina"
+pageRef = "/categories/argentina"
+weight = 1
+
+[[main]]
+parent = "Countries"
 name = "Austria"
 pageRef = "/categories/austria"
-weight = 1
+weight = 2
 
 [[main]]
 parent = "Countries"
 name = "Belgium"
 pageRef = "/categories/belgium"
-weight = 2
+weight = 3
+
+[[main]]
+parent = "Countries"
+name = "Bolivia"
+pageRef = "/categories/bolivia"
+weight = 4
+
+[[main]]
+parent = "Countries"
+name = "Brazil"
+pageRef = "/categories/brazil"
+weight = 5
 
 [[main]]
 parent = "Countries"
 name = "Bulgaria"
 pageRef = "/categories/bulgaria"
-weight = 3
+weight = 6
+
+[[main]]
+parent = "Countries"
+name = "Chile"
+pageRef = "/categories/chile"
+weight = 7
+
+[[main]]
+parent = "Countries"
+name = "Colombia"
+pageRef = "/categories/colombia"
+weight = 8
 
 [[main]]
 parent = "Countries"
 name = "Croatia"
 pageRef = "/categories/croatia"
-weight = 4
+weight = 9
 
 [[main]]
 parent = "Countries"
 name = "Czech Republic"
 pageRef = "/categories/czech-republic"
-weight = 5
+weight = 10
+
+[[main]]
+parent = "Countries"
+name = "Ecuador"
+pageRef = "/categories/ecuador"
+weight = 11
 
 [[main]]
 parent = "Countries"
 name = "France"
 pageRef = "/categories/france"
-weight = 6
+weight = 12
 
 [[main]]
 parent = "Countries"
 name = "Germany"
 pageRef = "/categories/germany"
-weight = 7
+weight = 13
 
 [[main]]
 parent = "Countries"
 name = "Greece"
 pageRef = "/categories/greece"
-weight = 8
+weight = 14
 
 [[main]]
 parent = "Countries"
 name = "Hungary"
 pageRef = "/categories/hungary"
-weight = 9
+weight = 15
 
 [[main]]
 parent = "Countries"
 name = "Italy"
 pageRef = "/categories/italy"
-weight = 10
+weight = 16
+
+[[main]]
+parent = "Countries"
+name = "Mexico"
+pageRef = "/categories/mexico"
+weight = 17
 
 [[main]]
 parent = "Countries"
 name = "Netherlands"
 pageRef = "/categories/netherlands"
-weight = 11
+weight = 18
+
+[[main]]
+parent = "Countries"
+name = "Paraguay"
+pageRef = "/categories/paraguay"
+weight = 19
+
+[[main]]
+parent = "Countries"
+name = "Peru"
+pageRef = "/categories/peru"
+weight = 20
 
 [[main]]
 parent = "Countries"
 name = "Poland"
 pageRef = "/categories/poland"
-weight = 12
+weight = 21
 
 [[main]]
 parent = "Countries"
 name = "Portugal"
 pageRef = "/categories/portugal"
-weight = 13
+weight = 22
 
 [[main]]
 parent = "Countries"
 name = "Romania"
 pageRef = "/categories/romania"
-weight = 14
+weight = 23
 
 [[main]]
 parent = "Countries"
 name = "Slovakia"
 pageRef = "/categories/slovakia"
-weight = 15
+weight = 24
 
 [[main]]
 parent = "Countries"
 name = "Spain"
 pageRef = "/categories/spain"
-weight = 16
+weight = 25
 
 [[main]]
 parent = "Countries"
 name = "Switzerland"
 pageRef = "/categories/switzerland"
-weight = 17
+weight = 26
 
 [[main]]
 name = "All Guides"
@@ -129,6 +182,12 @@ weight = 1
 name = "Terms"
 pageRef = "/terms-and-conditions"
 weight = 2
+
+[[main]]
+parent = "Countries"
+name = "Venezuela"
+pageRef = "/categories/venezuela"
+weight = 27
 
 [[footer]]
 name = "Privacy Policy"
