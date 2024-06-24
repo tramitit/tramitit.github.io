@@ -7,9 +7,63 @@ weight = 1
 
 [[main]]
 parent = "Países"
+name = "Argentina"
+pageRef = "/categories/argentina"
+weight = 1
+
+[[main]]
+parent = "Países"
+name = "Bolivia"
+pageRef = "/categories/bolivia"
+weight = 2
+
+[[main]]
+parent = "Países"
+name = "Chile"
+pageRef = "/categories/chile"
+weight = 3
+
+[[main]]
+parent = "Países"
+name = "Colombia"
+pageRef = "/categories/colombia"
+weight = 4
+
+[[main]]
+parent = "Países"
+name = "Ecuador"
+pageRef = "/categories/ecuador"
+weight = 5
+
+[[main]]
+parent = "Países"
 name = "España"
 pageRef = "/categories/spain"
-weight = 11
+weight = 6
+
+[[main]]
+parent = "Países"
+name = "México"
+pageRef = "/categories/mexico"
+weight = 7
+
+[[main]]
+parent = "Países"
+name = "Paraguay"
+pageRef = "/categories/paraguay"
+weight = 8
+
+[[main]]
+parent = "Países"
+name = "Perú"
+pageRef = "/categories/peru"
+weight = 9
+
+[[main]]
+parent = "Países"
+name = "Venezuela"
+pageRef = "/categories/venezuela"
+weight = 10
 
 [[main]]
 name = "Todas las Guías"
