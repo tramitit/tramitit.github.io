@@ -7,6 +7,12 @@ weight = 1
 
 [[main]]
 parent = "Země"
+name = "Všechny země"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Země"
 name = "Česká republika"
 pageRef = "/guides/czech-republic"
 weight = 1

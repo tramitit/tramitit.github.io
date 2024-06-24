@@ -7,6 +7,12 @@ weight = 1
 
 [[main]]
 parent = "Държави"
+name = "всички държави"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Държави"
 name = "България"
 pageRef = "/guides/bulgaria"
 weight = 1

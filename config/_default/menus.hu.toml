@@ -7,6 +7,12 @@ weight = 1
 
 [[main]]
 parent = "Országok"
+name = "Minden ország"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Országok"
 name = "Magyarország"
 pageRef = "/categories/hungary"
 weight = 1

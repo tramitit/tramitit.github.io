@@ -7,6 +7,12 @@ weight = 1
 
 [[main]]
 parent = "Krajiny"
+name = "Všetky krajiny"
+pageRef = "/categories/"
+weight = 0
+
+[[main]]
+parent = "Krajiny"
 name = "Slovensko"
 pageRef = "/categories/slovakia"
 weight = 1
