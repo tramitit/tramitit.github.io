@@ -168,6 +168,12 @@ pageRef = "/categories/switzerland"
 weight = 26
 
 [[main]]
+parent = "Countries"
+name = "United States"
+pageRef = "/categories/united-states"
+weight = 27
+
+[[main]]
 name = "All Guides"
 pageRef = "/guides"
 weight = 2
