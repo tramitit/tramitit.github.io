@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Contactez Tramitit - Votre guide pour des procédures gouvernementales efficaces"
-meta_title: "Contactez Tramitit - Votre guide pour des procédures gouvernementales efficaces"
-description: "Contactez Tramitit pour une assistance personnalisée et des conseils d'experts sur la navigation et l'accélération des procédures gouvernementales."
+title: "Augmentez le trafic vers votre site web"
+meta_title: "Collaborez avec Tramitit pour augmenter le trafic vers votre site web"
+description: "Si vous êtes un fournisseur, contactez-nous pour être inclus dans les guides."
 draft: false
 ---

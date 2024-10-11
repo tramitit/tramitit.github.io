@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Neem contact op met Tramitit - Uw gids voor efficiënte overheidsprocedures"
-meta_title: "Neem contact op met Tramitit - Uw gids voor efficiënte overheidsprocedures"
-description: "Neem contact op met Tramitit voor persoonlijke hulp en deskundig advies over het navigeren en versnellen van overheidsprocedures."
+title: "Verhoog het verkeer naar uw website"
+meta_title: "Werk samen met Tramitit om het verkeer naar uw website te verhogen"
+description: "Als u een aanbieder bent, neem dan contact met ons op om in de gidsen te worden opgenomen."
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Kontaktujte Tramitit - Váš průvodce efektivními vládními postupy"
-meta_title: "Kontaktujte Tramitit - Váš průvodce efektivními vládními postupy"
-description: "Kontaktujte Tramitit pro osobní pomoc a odborné rady ohledně navigace a urychlení vládních postupů."
+title: "Zvyšte návštěvnost svých webových stránek"
+meta_title: "Spolupracujte s Tramitit pro zvýšení návštěvnosti vašich webových stránek"
+description: "Pokud jste poskytovatelem, kontaktujte nás, abyste byli zahrnuti do průvodců."
 draft: false
 ---

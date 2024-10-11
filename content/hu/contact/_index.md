@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Lépjen kapcsolatba a Tramitittel - Az Ön útmutatója hatékony kormányzati eljárásokhoz"
-meta_title: "Lépjen kapcsolatba a Tramitittel - Az Ön útmutatója hatékony kormányzati eljárásokhoz"
-description: "Lépjen kapcsolatba a Tramitittel, hogy személyre szabott segítséget és szakértői tanácsokat kapjon a kormányzati eljárások navigálásához és felgyorsításához."
+title: "Növelje a forgalmat a weboldalán"
+meta_title: "Partnerség a Tramitittel a weboldala forgalmának növelése érdekében"
+description: "Ha Ön szolgáltató, vegye fel velünk a kapcsolatot, hogy szerepelhessen az útmutatókban."
 draft: false
 ---

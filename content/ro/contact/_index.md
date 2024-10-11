@@ -1,7 +1,7 @@
 ---
 translationKey: 'contact'
-title: "Contactați Tramitit - Ghidul dvs. pentru proceduri guvernamentale eficiente"
-meta_title: "Contactați Tramitit - Ghidul dvs. pentru proceduri guvernamentale eficiente"
-description: "Contactați Tramitit pentru asistență personalizată și sfaturi de specialitate privind navigarea și accelerarea procedurilor guvernamentale."
+title: "Creșteți traficul către site-ul dvs. web"
+meta_title: "Colaborați cu Tramitit pentru a crește traficul către site-ul dvs. web"
+description: "Dacă sunteți furnizor, contactați-ne pentru a fi inclus în ghiduri."
 draft: false
 ---
